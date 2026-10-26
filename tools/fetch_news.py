@@ -4,7 +4,7 @@
 rss2json·allorigins 같은 무료 서비스도 자주 막히거나 멈춘다. 그래서 GitHub Actions가 1시간마다
 이 스크립트를 실행해 뉴스를 미리 받아 두고, 사이트(news.js · home.js)는 이 파일만 읽는다.
 
-    python3 tools/fetch_news.py          # 20192157_황휘 폴더에서 실행 (표준 라이브러리만 사용)
+    python3 tools/fetch_news.py          # 레포 루트에서 실행 (표준 라이브러리만 사용)
 
 - 탭마다 출처를 겹치지 않게 골랐다 (예전 '칼럼' 탭의 Autosport는 Motorsport.com과 같은 회사라 같은 기사가 나왔음)
 - 이미 번역한 기사는 이전 news.json에서 그대로 가져와 번역 요청을 줄인다
@@ -164,7 +164,7 @@ def parse_youtube(xml_bytes):
 # 위키백과 글은 CC BY-SA 4.0이라 출처·라이선스를 밝히면 번역해서 전문을 실을 수 있다.
 # (번역본도 같은 CC BY-SA 4.0을 따른다 — article.js가 기사 아래에 출처·편집 기록·라이선스를 표시)
 WIKI_API = "https://en.wikipedia.org/w/api.php"
-WIKI_UA = {"User-Agent": "PROJECT_TELEMETRY-news/1.0 (https://github.com/Starlight0307/git_project_20192157)"}
+WIKI_UA = {"User-Agent": "PROJECT_TELEMETRY-news/1.0 (https://github.com/Starlight0307/20192157-homepage)"}
 WIKI_SKIP = {"References", "External links", "Notes", "See also", "Footnotes", "Bibliography"}
 REPORT_COUNT = 9
 # 기계 번역이 F1 용어를 엉뚱하게 옮기는 것 바로잡기 (Qualifying → '적격', Race classification → '인종 분류' 등)

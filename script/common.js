@@ -35,7 +35,7 @@ async function fetchSeasonPodiumResults(year) {
 // 뉴스 사이트는 브라우저에서 직접 읽는 것(CORS)을 막고, rss2json 같은 무료 중계 서비스도 자주 막혀서
 // GitHub Actions가 1시간마다 tools/fetch_news.py로 받아 번역해 둔 data/news.json을 읽는다.
 // GitHub에 올라간 최신 파일과 내 폴더의 파일 중 더 최근 것을 쓴다 (Live Server로 열어도 최신 뉴스가 나오게).
-const NEWS_JSON_REMOTE = "https://raw.githubusercontent.com/Starlight0307/git_project_20192157/main/" + encodeURIComponent("20192157_황휘") + "/data/news.json";
+const NEWS_JSON_REMOTE = "https://raw.githubusercontent.com/Starlight0307/20192157-homepage/main/data/news.json";
 let newsDataPromise = null;
 function loadNewsData() {
     if (newsDataPromise) return newsDataPromise;
