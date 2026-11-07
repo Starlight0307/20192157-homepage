@@ -1,8 +1,6 @@
 {
- "updated": "2026-11-07T06:09:47+00:00",
- "failed": [
-  "video"
- ],
+ "updated": "2026-11-07T13:15:10+00:00",
+ "failed": [],
  "tabs": {
   "report": {
    "source": "Wikipedia",
@@ -238,23 +236,21 @@
      "historyUrl": "https://en.wikipedia.org/wiki/2026_United_States_Grand_Prix?action=history",
      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Austin_circuit.svg/1280px-Austin_circuit.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "imageFile": "Austin_circuit.svg",
-     "date": "2026-11-04T16:52:12Z",
+     "date": "2026-11-07T10:03:44Z",
      "raceDate": "2026-10-25",
      "author": "위키백과 편집자들",
-     "revid": 1383751843,
+     "revid": 1384254651,
      "license": "CC BY-SA 4.0",
      "body": [
       {
        "h": "",
        "level": 1,
        "p": [
-        "The 2026 United States Grand Prix (officially known as the Formula 1 MSC Cruises United States Grand Prix 2026) was a Formula One motor race that was held on October 25, 2026, at the Circuit of the Americas in Austin, Texas, United States. It was the eighteenth round of the 2026 Formula One World Championship. Championship leader Kimi Antonelli (Mercedes) took his seventh pole position which he converted into his ninth Grand Prix victory. Charles Leclerc (Ferrari) and Max Verstappen (Red Bull) came in second and third place, respectively.",
-        "This was the last race for Esteban Ocon who was removed from the Haas line-up midway through the following race in Mexico due to disagreements with the team."
+        "The 2026 United States Grand Prix (officially known as the Formula 1 MSC Cruises United States Grand Prix 2026) was a Formula One motor race that was held on October 25, 2026, at the Circuit of the Americas in Austin, Texas, United States. It was the eighteenth round of the 2026 Formula One World Championship. Championship leader Kimi Antonelli (Mercedes) took his seventh pole position which he converted into his ninth Grand Prix victory. Charles Leclerc (Ferrari) and Max Verstappen (Red Bull) came in second and third place, respectively."
        ],
        "hKo": "",
        "pKo": [
-        "2026년 미국 그랑프리(공식 명칭: Formula 1 MSC Cruises United States Grand Prix 2026)는 2026년 10월 25일 미국 텍사스주 오스틴에 있는 서킷 오브 더 아메리카스(Circuit of the Americas)에서 열린 포뮬러 1 자동차 경주였습니다. 2026년 포뮬러 원 월드 챔피언십의 18번째 라운드였습니다. 챔피언십 리더인 키미 안토넬리(Mercedes)는 7번째 폴 포지션을 차지하여 9번째 그랑프리 우승을 달성했습니다. 찰스 르클레르(페라리)와 막스 베르스타펜(레드불)이 각각 2위와 3위를 차지했다.",
-        "이것은 팀과의 불일치로 인해 멕시코에서 열린 다음 레이스 중간에 Haas 라인업에서 제외된 Esteban Ocon의 마지막 레이스였습니다."
+        "2026년 미국 그랑프리(공식 명칭: Formula 1 MSC Cruises United States Grand Prix 2026)는 2026년 10월 25일 미국 텍사스주 오스틴에 있는 서킷 오브 더 아메리카스(Circuit of the Americas)에서 열린 포뮬러 1 자동차 경주였습니다. 2026년 포뮬러 원 월드 챔피언십의 18번째 라운드였습니다. 챔피언십 리더인 키미 안토넬리(Mercedes)는 7번째 폴 포지션을 차지하여 9번째 그랑프리 우승을 달성했습니다. 찰스 르클레르(페라리)와 막스 베르스타펜(레드불)이 각각 2위와 3위를 차지했다."
        ]
       },
       {
@@ -295,12 +291,12 @@
        "level": 3,
        "p": [
         "The drivers and teams were the same as published in the season entry list with no additional stand-in drivers for the race. During the first practice session Sergio Pérez (Cadillac) was replaced by Colton Herta, a driver who had not raced in more than two Grands Prix, as required by the Formula One regulations.",
-        "This was Esteban Ocon (Haas)'s most recent Formula One entry; he was dismissed during the Mexico race weekend."
+        "This was Esteban Ocon's last start for Haas; he was dismissed during the Mexico City race weekend, and is not scheduledto compete in the 2027 season."
        ],
        "hKo": "출전 명단",
        "pKo": [
         "드라이버와 팀은 레이스에 대한 추가 대기 드라이버 없이 시즌 참가 목록에 게시된 것과 동일했습니다. 첫 번째 연습 세션에서 Sergio Pérez(Cadillac)는 Formula One 규정에 따라 두 번 이상 그랑프리에 출전하지 않은 드라이버인 Colton Herta로 교체되었습니다.",
-        "이것은 Esteban Ocon(Haas)의 가장 최근 Formula One 출품작이었습니다. 그는 멕시코 경주 주말에 해고되었습니다."
+        "이것은 Haas에 대한 Esteban Ocon의 마지막 출발이었습니다. 그는 멕시코 시티 경주 주말에 해고되었으며 2027 시즌에는 경쟁할 예정이 없습니다."
        ]
       },
       {
@@ -843,10 +839,10 @@
      "historyUrl": "https://en.wikipedia.org/wiki/2026_Azerbaijan_Grand_Prix?action=history",
      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Baku_Formula_One_circuit_map.svg/1280px-Baku_Formula_One_circuit_map.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "imageFile": "Baku_Formula_One_circuit_map.svg",
-     "date": "2026-11-06T15:33:39Z",
+     "date": "2026-11-07T11:44:12Z",
      "raceDate": "2026-09-26",
      "author": "위키백과 편집자들",
-     "revid": 1384095880,
+     "revid": 1384265297,
      "license": "CC BY-SA 4.0",
      "body": [
       {
@@ -888,13 +884,11 @@
        "h": "Entrants",
        "level": 3,
        "p": [
-        "The drivers and teams were the same as the season entry list with no additional stand-in drivers for the race. Isack Hadjar (Red Bull), who injured his wrist before the Dutch Grand Prix, returned for this event. Lawson, who had replaced Hadjar at Red Bull, returned to Racing Bulls. Yuki Tsunoda, who had replaced Lawson at Racing Bulls, did not return for the Grand prix.",
-        "This Grand Prix marked Sergio Pérez (Cadillac)'s 300th Grand Prix entry."
+        "The drivers and teams were the same as the season entry list with no additional stand-in drivers for the race. Isack Hadjar (Red Bull), who injured his wrist before the Dutch Grand Prix, returned for this event. Lawson, who had replaced Hadjar at Red Bull, returned to Racing Bulls. Yuki Tsunoda, who had replaced Lawson at Racing Bulls, did not return for the Grand prix. This Grand Prix marked Sergio Pérez's 300th Grand Prix entry."
        ],
        "hKo": "출전 명단",
        "pKo": [
-        "드라이버와 팀은 레이스에 대한 추가 대기 드라이버 없이 시즌 참가 목록과 동일했습니다. 이번 대회에는 네덜란드 그랑프리를 앞두고 손목 부상을 당한 이삭 하자르(레드불)가 복귀했다. Red Bull에서 Hadjar를 교체한 Lawson은 Racing Bulls로 돌아왔습니다. 레이싱 불스에서 로슨을 대신한 쓰노다 유키는 그랑프리에 복귀하지 않았다.",
-        "이번 그랑프리는 세르지오 페레스(캐딜락)의 300번째 그랑프리 출품작이 됐다."
+        "드라이버와 팀은 레이스에 대한 추가 대기 드라이버 없이 시즌 참가 목록과 동일했습니다. 이번 대회에는 네덜란드 그랑프리를 앞두고 손목 부상을 당한 이삭 하자르(레드불)가 복귀했다. Red Bull에서 Hadjar를 교체한 Lawson은 Racing Bulls로 돌아왔습니다. 레이싱 불스에서 로슨을 대신한 쓰노다 유키는 그랑프리에 복귀하지 않았다. 이번 그랑프리는 세르지오 페레즈(Sergio Pérez)의 300번째 그랑프리 출품작이었습니다."
        ]
       },
       {
@@ -990,13 +984,13 @@
        "p": [
         "Verstappen kept Russell under pressure during the final stint, although Russell briefly increased his advantage in the closing laps. A late accident for Valtteri Bottas (Cadillac) brought out yellow flags. Russell later said that lifting off for the flags left him without the expected power when he accelerated again. This allowed Verstappen to close rapidly on the run to the finish, with Russell winning the race by 0.196 seconds. Hadjar finished third on his return, followed by Leclerc, Antonelli and Hamilton. Lindblad passed Esteban Ocon (Haas) on the run to the chequered flag to take seventh. Bearman finished ninth, giving Haas a double-points finish, while Sainz recovered to tenth. Nico Hülkenberg (Audi) and Lawson finished outside the points in eleventh and twelfth. Bottas was classified sixteenth despite his retirement, as he had completed 90% of the race winner's distance.",
         "After the race, Gabriel Bortoleto (Audi) received a ten-second penalty for overtaking under yellow flags, dropping him from thirteenth to fifteenth and promoting Piastri and Sergio Pérez (Cadillac) to thirteenth and fourteenth, respectively. Colapinto's unserved ten-second penalty (for the collision on lap 36) was converted into a five-place grid penalty for the following Bahrain Grand Prix. Russell's victory was his third of the season and the eighth of his career. He achieved his first Grand Slam by winning from pole position, leading every lap and recording the fastest lap. Antonelli retained the championship lead, with his advantage over Russell falling from 81 to 66 points with eight rounds remaining. Mercedes extended its lead over Ferrari in the Constructors' Championship to 160 points.",
-        "In his post-race interview, Norris criticised Colapinto, saying there are \"some drivers who shouldn't be in Formula One\" and called for a one-race ban for Colapinto. Alpine executive advisor Flavio Briatore was \"extremely disappointed\" and offered an apology to Norris and McLaren, adding that he would consider his next steps to avoid a future repeat. Colapinto issued an apology for causing the collision. Following his criticism of Colapinto, Norris became a victim of online abuse. Some Colapinto's supporters including Argentine footballer Sergio Agüero and Pablo Quirno, the Argentine minister of foreign affairs. Alpine issued a statement condemning online abuse. Days later, Norris issued a public apology to Colapinto."
+        "In his post-race interview, Norris criticised Colapinto, saying there are \"some drivers who shouldn't be in Formula One\" and called for a one-race ban for Colapinto. Alpine executive advisor Flavio Briatore was \"extremely disappointed\" and offered an apology to Norris and McLaren, adding that he would consider his next steps to avoid a future repeat. Colapinto issued an apology for causing the collision. Following his criticism of Colapinto, Norris became a victim of online abuse by  some of Colapinto's supporters including Argentine footballer Sergio Agüero and Pablo Quirno, the Argentine minister of foreign affairs. Alpine issued a statement condemning online abuse. Days later, Norris issued a public apology to Colapinto."
        ],
        "hKo": "랩 종료",
        "pKo": [
         "Verstappen은 마지막 랩 동안 Russell을 압박감을 유지했지만 Russell은 마지막 랩에서 잠시 우위를 점했습니다. Valtteri Bottas(Cadillac)의 늦은 사고로 인해 노란색 깃발이 나타났습니다. Russell은 나중에 깃발을 들어 올리면 다시 가속할 때 예상되는 힘을 잃게 되었다고 말했습니다. 이로 인해 Verstappen은 결승점까지 빠르게 마감할 수 있었고 Russell은 0.196초 차이로 레이스에서 승리했습니다. Hadjar는 복귀 후 3위를 차지했고, Leclerc, Antonelli, Hamilton이 그 뒤를 이었습니다. Lindblad는 Esteban Ocon (Haas)을 제치고 체크 무늬 깃발을 향해 달려가 7위를 차지했습니다. Bearman은 9위를 차지하여 Haas에게 더블 포인트를 안겨주었고 Sainz는 10위로 회복했습니다. Nico Hülkenberg(Audi)와 Lawson은 11위와 12위를 기록했습니다. Bottas는 은퇴에도 불구하고 레이스 우승자 거리의 90%를 완료하여 16위로 분류되었습니다.",
         "경주가 끝난 후 Gabriel Bortoleto(Audi)는 노란색 깃발 아래 추월하여 10초의 페널티를 받아 13위에서 15위로 떨어졌고 Piatri와 Sergio Pérez(Cadillac)는 각각 13위와 14위로 승격되었습니다. Colapinto의 미처리 10초 페널티(랩 36 충돌에 대한)는 다음 바레인 그랑프리에서 5위 그리드 페널티로 전환되었습니다. 러셀의 승리는 시즌 3번째이자 통산 8번째 승리였다. 그는 폴 포지션에서 승리하며 모든 랩을 리드하고 가장 빠른 랩을 기록하며 첫 번째 그랜드 슬램을 달성했습니다. Antonelli는 챔피언십 선두를 유지했으며 Russell에 대한 우위는 8라운드가 남아 있는 상태에서 81점에서 66점으로 떨어졌습니다. Mercedes는 컨스트럭터 챔피언십에서 Ferrari를 160점으로 앞섰습니다.",
-        "경주 후 인터뷰에서 Norris는 Colapinto를 비판하면서 \"F1에 있어서는 안 되는 일부 드라이버\"가 있다고 말하면서 Colapinto에 대한 단일 경주 금지를 요구했습니다. 알파인의 수석 고문인 플라비오 브리아토레(Flavio Briatore)는 \"매우 실망\"했고 노리스와 맥라렌에게 사과했으며 향후 반복을 피하기 위해 다음 단계를 고려할 것이라고 덧붙였습니다. Colapinto는 충돌을 일으킨 것에 대해 사과했습니다. Colapinto에 대한 비판 이후 Norris는 온라인 학대의 피해자가 되었습니다. 아르헨티나 축구선수 세르히오 아구에로(Sergio Agüero)와 아르헨티나 외무부 장관 파블로 키르노(Pablo Quirno) 등 일부 콜라핀토의 지지자들. 알파인은 온라인 학대를 비난하는 성명을 발표했습니다. 며칠 후 Norris는 Colapinto에게 공개 사과했습니다."
+        "경주 후 인터뷰에서 Norris는 Colapinto를 비판하면서 \"F1에 있어서는 안 되는 일부 드라이버\"가 있다고 말하면서 Colapinto에 대한 단일 경주 금지를 요구했습니다. 알파인의 수석 고문인 플라비오 브리아토레(Flavio Briatore)는 \"매우 실망\"했고 노리스와 맥라렌에게 사과했으며 향후 반복을 피하기 위해 다음 단계를 고려할 것이라고 덧붙였습니다. Colapinto는 충돌을 일으킨 것에 대해 사과했습니다. Colapinto에 대한 비판 이후 Norris는 아르헨티나 축구 선수 Sergio Agüero 와 아르헨티나 외무부 장관 Pablo Quirno 를 포함한 일부 Colapinto 지지자들의 온라인 학대의 피해자가 되었습니다. 알파인은 온라인 학대를 비난하는 성명을 발표했습니다. 며칠 후 Norris는 Colapinto에게 공개 사과했습니다."
        ]
       },
       {
@@ -1872,6 +1866,90 @@
    "sourceUrl": "https://www.motorsport.com/rss/f1/news/",
    "items": [
     {
+     "title": "F1 Brazil GP long runs: Kimi Antonelli dominates as Ferrari endures a nightmare Friday",
+     "desc": "Kimi Antonelli has been the benchmark throughout the Formula 1 weekend in Sao Paulo so far. The newly crowned world champion was not only the fastest driver over a single lap in…",
+     "link": "https://www.motorsport.com/f1/news/f1-brazil-gp-long-runs-kimi-antonelli-dominates-as-ferrari-endures-a-nightmare-friday/10872476/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+     "image": "https://cdn-9.motorsport.com/images/amp/2y7QRyy6/s6/andrea-kimi-antonelli-mercedes.jpg",
+     "date": "2026-11-07T12:44:57+00:00",
+     "author": "",
+     "id": "92c5cc616c",
+     "lead": [
+      "Kimi Antonelli has been the benchmark throughout the Formula 1 weekend in Sao Paulo so far. The newly crowned world champion was not only the fastest driver over a single lap in Free Practice 2, but also made a strong statement in the long-run simulations. Mercedes therefore appears to be in the strongest position heading into the remainder of the weekend. Ferrari , by contrast, endured an extremely difficult Friday.",
+      "In the qualifying simulations, Antonelli was 0.253 seconds faster than Lando Norris in the McLaren and 0.259 seconds clear of Max Verstappen in the Red Bull. However, it was the race simulations towards the end of the session that offered a more meaningful indication of Sunday's prospects.",
+      "Different stint lengths and tyre compounds need to be taken into account when analysing the data. Tyre degradation is particularly high in Brazil, meaning that even a difference of just a few laps can have a noticeable impact on average lap times. Once the figures had been adjusted accordingly, Antonelli also emerged as the fastest driver over a long run."
+     ],
+     "leadKo": [
+      "Kimi Antonelli는 지금까지 상파울루에서 열린 Formula 1 주말 내내 벤치마크 역할을 해왔습니다. 새롭게 선정된 세계 챔피언은 프리 연습 2에서 단일 랩에서 가장 빠른 드라이버였을 뿐만 아니라 장기 시뮬레이션에서도 강력한 모습을 보였습니다. 따라서 메르세데스는 남은 주말을 앞두고 가장 강력한 위치에 있는 것으로 보입니다. 반면 페라리는 극도로 어려운 금요일을 견뎌냈습니다.",
+      "예선 시뮬레이션에서 Antonelli는 McLaren의 Lando Norris보다 0.253초 빨랐고 Red Bull의 Max Verstappen보다 0.259초 빨랐습니다. 그러나 일요일의 전망에 대한 보다 의미 있는 지표를 제공한 것은 세션이 끝날 무렵의 경주 시뮬레이션이었습니다.",
+      "데이터를 분석할 때 다양한 기간 길이와 타이어 화합물을 고려해야 합니다. 특히 브라질에서는 타이어 성능 저하가 심합니다. 즉, 단 몇 바퀴의 차이라도 평균 랩 시간에 눈에 띄는 영향을 미칠 수 있습니다. 그에 따라 수치가 조정되자 Antonelli는 장기적으로 가장 빠른 드라이버로 떠올랐습니다."
+     ],
+     "titleKo": "F1 브라질 GP 장거리 달리기: 페라리가 금요일 악몽을 견디는 동안 키미 안토넬리(Kimi Antonelli)가 지배합니다.",
+     "descKo": "Kimi Antonelli는 지금까지 상파울루에서 열린 Formula 1 주말 내내 벤치마크 역할을 해왔습니다. 새롭게 선정된 세계 챔피언은 한 랩에서 가장 빠른 드라이버일 뿐만 아니라…"
+    },
+    {
+     "title": "Ralf Schumacher slams Colton Herta's F1 prospects: \"He's just burning fuel\"",
+     "desc": "On the face of it, Friday at Interlagos could hardly have gone any better for Colton Herta. The Cadillac test driver replaced Sergio Perez in first practice for the 2026 Sao Paulo…",
+     "link": "https://www.motorsport.com/f1/news/ralf-schumacher-slams-colton-hertas-f1-prospects-hes-just-burning-fuel/10872433/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+     "image": "https://cdn-8.motorsport.com/images/amp/0LdelPj0/s6/colton-herta-cadillac-f1-team.jpg",
+     "date": "2026-11-07T12:10:03+00:00",
+     "author": "",
+     "id": "cf5bb35bea",
+     "lead": [
+      "On the face of it, Friday at Interlagos could hardly have gone any better for Colton Herta. The Cadillac test driver replaced Sergio Perez in first practice for the 2026 Sao Paulo Grand Prix, completed 24 laps and secured the final point he needed for his FIA super licence. On paper, the American is now eligible to race in Formula 1 in 2027.",
+      "Former F1 driver turned pundit Ralf Schumacher, however, is having none of it. Asked whether Herta could be a candidate for the second Cadillac seat alongside Perez, the Sky Germany pundit replied: \"Only if Easter and Christmas fall on the same day. Seriously, it's pointless. He's just burning fuel, to borrow a phrase from Franz Tost. I don't even know what the point of it is. You might as well put someone else in the car, give some young…",
+      "Schumacher was particularly critical of Herta's Formula 2 campaign: \"He was really that bad in Formula 2. As far as I'm concerned, he hasn't earned it at all. I think it's great that they're trying to promote American drivers. But it has to make sense, and he has no place in Formula 1.\""
+     ],
+     "leadKo": [
+      "표면적으로 Interlagos에서의 금요일은 Colton Herta에게 더할나위 없이 좋았을 것입니다. Cadillac 테스트 드라이버는 2026년 상파울루 그랑프리의 첫 번째 연습에서 Sergio Perez를 대체했고, 24랩을 완료하고 FIA 슈퍼 라이센스에 필요한 최종 포인트를 확보했습니다. 서류상으로 미국인은 이제 2027년 포뮬러 1에 출전할 자격을 얻었습니다.",
+      "그러나 전 F1 드라이버에서 전문가로 변신한 Ralf Schumacher는 그런 생각을 전혀 갖고 있지 않습니다. Herta가 Perez와 함께 두 번째 Cadillac 좌석 후보가 될 수 있는지 묻는 질문에 Sky Germany 전문가는 다음과 같이 대답했습니다. \"부활절과 크리스마스가 같은 날인 경우에만. 심각하게, 그것은 무의미합니다. Franz Tost의 말을 빌리자면 그는 단지 연료를 태우고 있을 뿐입니다. 그게 무슨 의미인지조차 모르겠습니다. 다른 사람을 차에 태워서 젊음을 주는 것이 낫습니다.",
+      "Schumacher는 특히 Herta의 Formula 2 캠페인에 대해 비판적이었습니다. \"그는 Formula 2에서 정말 그렇게 나빴습니다. 내가 아는 한 그는 전혀 자격을 얻지 못했습니다. 그들이 미국 드라이버를 홍보하려는 것은 좋은 일이라고 생각합니다. 그러나 그것은 말이되어야하며 그는 Formula 1에서 자리가 없습니다.\""
+     ],
+     "titleKo": "Ralf Schumacher는 Colton Herta의 F1 유망주를 비난했습니다. \"그는 단지 연료를 태우고 있습니다.\"",
+     "descKo": "표면적으로 Interlagos에서의 금요일은 Colton Herta에게 더할나위 없이 좋았을 것입니다. 캐딜락 테스트 드라이버는 2026년 상파울루 첫 연습에서 세르지오 페레즈를 대체했습니다."
+    },
+    {
+     "title": "Ferrari slow on straights, struggling in corners: ‘One of the worst feelings’ for Charles Leclerc",
+     "desc": "Charles Leclerc has described his Ferrari SF-26 as slow on straights with a terrible feeling in corners following Friday practice at Formula 1’s Brazilian Grand Prix. Lewis…",
+     "link": "https://www.motorsport.com/f1/news/ferrari-slow-on-straights-struggling-in-corners-one-of-the-worst-feelings-for-charles-leclerc/10872444/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+     "image": "https://cdn-8.motorsport.com/images/amp/0R7BlnE2/s6/charles-leclerc-ferrari.jpg",
+     "date": "2026-11-07T10:14:35+00:00",
+     "author": "",
+     "id": "c535761591",
+     "lead": [
+      "Charles Leclerc has described his Ferrari SF-26 as slow on straights with a terrible feeling in corners following Friday practice at Formula 1’s Brazilian Grand Prix.",
+      "Lewis Hamilton and Leclerc were sixth- and seventh-fastest in Free Practice 2, respectively 0.45s and 0.72s slower than pacesetter Kimi Antonelli in his Silver Arrow, which is unusual compared to the Scuderia’s typical Friday pace.",
+      "“It's been a very, very difficult Friday,” said Leclerc, who ceded his car to Ferrari protege Dino Beganovic in FP1 and was impeded by Ferrari academy graduate Rafael Camara in FP2."
+     ],
+     "leadKo": [
+      "Charles Leclerc는 Formula 1 브라질 그랑프리에서 금요일 연습을 마친 후 자신의 Ferrari SF-26이 직선 주행에서 느리고 코너링에서 끔찍한 느낌을 받았다고 설명했습니다.",
+      "Lewis Hamilton과 Leclerc는 Free Practice 2에서 6번째와 7번째로 빠르며 Silver Arrow의 페이스세터인 Kimi Antonelli보다 각각 0.45초와 0.72초 느렸습니다. 이는 Scuderia의 일반적인 금요일 속도와 비교할 때 이례적입니다.",
+      "FP1에서 페라리 후배인 Dino Beganovic에게 자신의 차를 양보하고 FP2에서 페라리 아카데미 졸업생인 Rafael Camara의 방해를 받은 Leclerc는 “매우 힘든 금요일이었습니다.”라고 말했습니다."
+     ],
+     "titleKo": "직진에서는 속도가 느리고 코너에서는 고전하는 페라리: 샤를 르클레르에게 '최악의 감정 중 하나'",
+     "descKo": "Charles Leclerc는 Formula 1 브라질 그랑프리에서 금요일 연습을 마친 후 자신의 Ferrari SF-26이 직선 주행에서 느리고 코너링에서 끔찍한 느낌을 받았다고 설명했습니다. 남자 이름…"
+    },
+    {
+     "title": "Racing Bulls promises \"right decision\" as Liam Lawson's F1 future remains in doubt",
+     "desc": "Racing Bulls boss Alan Permane says he \"understands the frustration\" over the delay in his team's decision on whether to retain Liam Lawson or promote reserve driver and F2…",
+     "link": "https://www.motorsport.com/f1/news/racing-bulls-boss-understands-frustration-over-driver-decision-delay/10872425/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+     "image": "https://cdn-9.motorsport.com/images/amp/6x7LvO1Y/s6/liam-lawson-racing-bulls.jpg",
+     "date": "2026-11-07T08:51:50+00:00",
+     "author": "",
+     "id": "30cd8eb76a",
+     "lead": [
+      "Racing Bulls boss Alan Permane says he \"understands the frustration\" over the delay in his team's decision on whether to retain Liam Lawson or promote reserve driver and F2 frontrunner Nikola Tsolov for 2027.",
+      "Red Bull's satellite team is set for its most successful season in its history with Lawson and rookie team-mate Arvid Lindblad as it heads towards an unprecedented fifth place in the constructors' standings.",
+      "With Lawson having found his best form to date and teenager Lindblad showing plenty of promise, the team would normally be expected to retain both drivers for 2027. But its role as a breeding ground for future Red Bull Racing drivers is changing that dynamic, as Lawson is no longer in the Milton Keynes team's long-term picture. And in Bulgarian Tsolov, it has an exciting young talent in the ranks that could potentially vie with Lindblad for a…"
+     ],
+     "leadKo": [
+      "레이싱 불스의 앨런 퍼메인 감독은 리암 로슨을 유지할 것인지 아니면 예비 드라이버이자 F2 선두주자인 니콜라 촐로프를 2027년에 승격시킬 것인지에 대한 팀의 결정이 지연되는 것에 대한 \"좌절감을 이해한다\"고 말했습니다.",
+      "Red Bull의 위성 팀은 Lawson과 신인 팀 동료인 Arvid Lindblad와 함께 역사상 가장 성공적인 시즌을 맞이하여 컨스트럭터 순위에서 전례 없는 5위를 향해 나아가고 있습니다.",
+      "Lawson이 현재까지 최고의 기량을 찾았고 10대 Lindblad가 많은 가능성을 보여줌에 따라 팀은 일반적으로 2027년에도 두 드라이버를 모두 유지할 것으로 예상됩니다. 그러나 Lawson이 더 이상 Milton Keynes 팀의 장기적인 그림에 포함되지 않기 때문에 미래의 Red Bull Racing 드라이버를 위한 번식지로서의 역할이 이러한 역동성을 변화시키고 있습니다. 그리고 불가리아의 Tsolov에는 잠재적으로 Lindblad와 경쟁할 수 있는 흥미진진한 젊은 인재가 있습니다."
+     ],
+     "titleKo": "Racing Bulls는 Liam Lawson의 F1 미래가 여전히 의심스럽기 때문에 \"올바른 결정\"을 약속합니다.",
+     "descKo": "레이싱 불스의 감독 앨런 퍼메인은 리암 로슨을 유지할 것인지 아니면 예비 드라이버와 F2를 승격시킬 것인지에 대한 팀의 결정이 지연되는 것에 대한 \"좌절감을 이해한다\"고 말했습니다."
+    },
+    {
      "title": "Lando Norris reveals how Lewis Hamilton has changed his F1 championship ambitions",
      "desc": "Lando Norris says Lewis Hamilton's seven Formula 1 world titles have left him dissatisfied with winning just one. Norris won his maiden championship in 2025 after a hard-fought…",
      "link": "https://www.motorsport.com/f1/news/lando-norris-reveals-how-lewis-hamilton-has-changed-his-f1-championship-ambitions/10872375/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -1896,7 +1974,7 @@
      "title": "Why Max Verstappen ended F1 practice early in Brazil – Red Bull explains",
      "desc": "Max Verstappen finished Friday's Formula 1 practice sessions in Sao Paulo in third place. The Dutchman occupied that position in both sessions, in fact, and was also around two…",
      "link": "https://www.motorsport.com/f1/news/why-max-verstappen-ended-f1-practice-early-in-brazil-red-bull-explains/10872364/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-     "image": "https://cdn-6.motorsport.com/images/amp/6O7zlJN6/s6/max-verstappen-red-bull-racing.jpg",
+     "image": "https://cdn-3.motorsport.com/images/amp/6O7zlJN6/s6/max-verstappen-red-bull-racing.jpg",
      "date": "2026-11-06T22:32:59+00:00",
      "author": "",
      "id": "438e8f6d74",
@@ -1917,7 +1995,7 @@
      "title": "Fred Vasseur turns down being godfather to Charles Leclerc’s baby: “I have four children”",
      "desc": "Ferrari Formula 1 team principal Fred Vasseur has ruled himself out of becoming godfather to Charles Leclerc's daughter, joking that he already has enough children to look after.…",
      "link": "https://www.motorsport.com/f1/news/fred-vasseur-turns-down-being-godfather-to-charles-leclercs-baby-i-have-four-children/10872357/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-     "image": "https://cdn-3.motorsport.com/images/amp/6AlvXkvY/s6/motorsport-com-graphics-67.jpg",
+     "image": "https://cdn-6.motorsport.com/images/amp/6AlvXkvY/s6/motorsport-com-graphics-67.jpg",
      "date": "2026-11-06T22:12:01+00:00",
      "author": "",
      "id": "a274c05c4c",
@@ -1938,7 +2016,7 @@
      "title": "F1 Brazil GP: Saturday schedule, weather forecast and how to watch",
      "desc": "Formula 1 heads into Saturday at Interlagos with Kimi Antonelli fastest after second practice for the Brazil Grand Prix. The newly crowned world champion set a 1m10.763s to lead…",
      "link": "https://www.motorsport.com/f1/news/f1-brazil-gp-saturday-schedule-weather-forecast-and-how-to-watch/10872353/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-     "image": "https://cdn-5.motorsport.com/images/amp/0Zq8lnd6/s6/andrea-kimi-antonelli-mercedes.jpg",
+     "image": "https://cdn-2.motorsport.com/images/amp/0Zq8lnd6/s6/andrea-kimi-antonelli-mercedes.jpg",
      "date": "2026-11-06T22:05:41+00:00",
      "author": "",
      "id": "6da5705198",
@@ -1975,90 +2053,6 @@
       "Norris는 \"확실히 FP1은 약간의 놀라움이었고 즐거운 놀라움이었습니다.\"라고 말했습니다.",
       "\"FP2, 내 생각에 우리는 Mercedes에 비해 조금 더 어려움을 겪는 것 같았습니다. 기본적으로 모든 랩에서 2/10만 차이가 났습니다. 하지만 다른 일부에 비하면 우리는 꽤 좋아 보인다고 생각합니다."
      ]
-    },
-    {
-     "title": "Why Toto Wolff sees Ferrari clash as \"déjà vu\" – and why escalation may be necessary",
-     "desc": "Following the Mexico Grand Prix, aside from Kimi Antonelli's maiden world title, one other subject has dominated the conversation in the Formula 1 paddock: the clash at Ferrari.…",
-     "link": "https://www.motorsport.com/f1/news/why-toto-wolff-sees-ferrari-clash-as-deja-vu-and-why-escalation-may-be-necessary/10872244/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-     "image": "https://cdn-9.motorsport.com/images/amp/YvKQ5nE6/s6/toto-wolff-mercedes.jpg",
-     "date": "2026-11-06T20:14:48+00:00",
-     "author": "",
-     "id": "6fe6ff8092",
-     "titleKo": "토토 울프(Toto Wolff)가 페라리 충돌을 \"데자뷰\"로 보는 이유 – 그리고 에스컬레이션이 필요한 이유",
-     "descKo": "멕시코 그랑프리 이후, 키미 안토넬리(Kimi Antonelli)의 첫 세계 타이틀 외에도 포뮬러 1 패독의 대화를 지배한 또 다른 주제가 바로 페라리에서의 충돌입니다.…",
-     "lead": [
-      "Following the Mexico Grand Prix, aside from Kimi Antonelli's maiden world title, one other subject has dominated the conversation in the Formula 1 paddock: the clash at Ferrari .",
-      "After the incident on the opening lap of the race at the Autodromo Hermanos Rodriguez, Hamilton indicated that Ferrari had \"big, big problems\" to solve, before calling for in-depth discussions.",
-      "During the media day, the seven-time world champion added that those discussions had not yet taken place, as Leclerc had become a father in the meantime and Ferrari team principal Frederic Vasseur had also flown back to Europe."
-     ],
-     "leadKo": [
-      "멕시코 그랑프리 이후, 키미 안토넬리(Kimi Antonelli)의 첫 세계 타이틀 외에도 포뮬러 1 패독의 대화를 지배한 또 다른 주제가 바로 페라리에서의 충돌입니다.",
-      "Autodromo Hermanos Rodriguez에서 열린 레이스의 오프닝 랩에서 사건이 발생한 후, 해밀턴은 심층적인 논의를 요청하기 전에 페라리가 해결해야 할 \"크고 큰 문제\"가 있음을 지적했습니다.",
-      "미디어 데이 동안, 7회 세계 챔피언이었던 그는 르클레르가 그 사이에 아버지가 되었고 페라리 팀장 프레데릭 바쇠르도 유럽으로 돌아갔기 때문에 그러한 논의는 아직 이루어지지 않았다고 덧붙였습니다."
-     ]
-    },
-    {
-     "title": "F1 Brazilian GP: Kimi Antonelli fastest in tricky FP2",
-     "desc": "Newly-minted world champion Kimi Antonelli topped Friday's second practice session at the Brazilian GP, heading Lando Norris and Max Verstappen in Sao Paulo. At the classic 4.3km…",
-     "link": "https://www.motorsport.com/f1/news/f1-brazilian-gp-fp2-report-10872288/10872288/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-     "image": "https://cdn-9.motorsport.com/images/amp/YP74lX42/s6/andrea-kimi-antonelli-mercedes.jpg",
-     "date": "2026-11-06T20:05:34+00:00",
-     "author": "",
-     "id": "039c8f5692",
-     "titleKo": "F1 브라질 GP: 까다로운 FP2에서 가장 빠른 Kimi Antonelli",
-     "descKo": "새로 탄생한 세계 챔피언인 키미 안토넬리(Kimi Antonelli)는 브라질 GP에서 열린 금요일 두 번째 연습 세션에서 상파울루에서 Lando Norris와 Max Verstappen을 이끌며 1위를 차지했습니다. 클래식 4.3km에서…",
-     "lead": [
-      "Newly-minted world champion Kimi Antonelli topped Friday's second practice session at the Brazilian GP, heading Lando Norris and Max Verstappen in Sao Paulo.",
-      "At the classic 4.3km Interlagos circuit, Antonelli set his quickest time just before the halfway mark of FP2 as drivers moved towards soft-tyre running, the Italian going faster than Lando Norris and Max Verstappen.",
-      "Despite fans intermittently reaching for their ponchos, light drops of rain never really persisted on what was predicted to be the clearest day of a rain-affected weekend. But the cooler, overcast conditions did affect the running in different ways, as Lewis Hamilton reported he \"can't get the tyre temperatures up\". Hamilton was one of several drivers to lock up the front-left wheel on approach to the heavily cambered Turn 1."
-     ],
-     "leadKo": [
-      "새로 탄생한 세계 챔피언인 키미 안토넬리(Kimi Antonelli)는 브라질 GP에서 열린 금요일 두 번째 연습 세션에서 상파울루에서 Lando Norris와 Max Verstappen을 헤딩하며 1위를 차지했습니다.",
-      "클래식 4.3km Interlagos 서킷에서 Antonelli는 드라이버가 소프트 타이어 주행 방향으로 이동하면서 FP2의 중간 지점 직전에 가장 빠른 기록을 세웠고, 이탈리아인은 Lando Norris와 Max Verstappen보다 더 빠르게 달렸습니다.",
-      "팬들이 간헐적으로 판초를 찾으려고 노력했음에도 불구하고 비가 내리는 주말 중 가장 맑은 날이 될 것으로 예상되는 날에는 가벼운 빗방울이 실제로 지속되지 않았습니다. 그러나 루이스 해밀턴이 \"타이어 온도를 높일 수 없다\"고 보고한 것처럼 시원하고 흐린 날씨는 달리기에 다양한 방식으로 영향을 미쳤습니다. 해밀턴은 심하게 휘어진 1번 코너에 접근할 때 왼쪽 앞바퀴를 잠그는 여러 운전자 중 한 명이었습니다."
-     ]
-    },
-    {
-     "title": "Kimi Antonelli reveals special gifts from Ayrton Senna's family ahead of F1 Brazilian GP",
-     "desc": "Kimi Antonelli has revealed the gifts he received from Ayrton Senna's family during his visit to their estate ahead of this weekend's Brazilian Grand Prix. The Mercedes driver…",
-     "link": "https://www.motorsport.com/f1/news/kimi-antonelli-reveals-special-gifts-from-ayrton-sennas-family-ahead-of-f1-brazilian-gp/10872198/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-     "image": "https://cdn-4.motorsport.com/images/amp/YXyKloK6/s6/motorsport-com-graphics-66.jpg",
-     "date": "2026-11-06T19:00:02+00:00",
-     "author": "",
-     "id": "29471a0b4f",
-     "titleKo": "Kimi Antonelli가 F1 브라질 GP를 앞두고 Ayrton Senna 가족이 보낸 특별한 선물을 공개했습니다.",
-     "descKo": "키미 안토넬리(Kimi Antonelli)가 이번 주말 브라질 그랑프리를 앞두고 아일톤 세나(Ayrton Senna)의 가족을 방문하는 동안 가족으로부터 받은 선물을 공개했습니다. 메르세데스 드라이버...",
-     "lead": [
-      "Kimi Antonelli has revealed the gifts he received from Ayrton Senna's family during his visit to their estate ahead of this weekend's Brazilian Grand Prix.",
-      "The Mercedes driver went to Fazenda Dois Lagos in Tatuí on Tuesday, two days after securing his maiden Formula 1 championship, and was photographed in the Lotus 98T that Senna raced in 1986.",
-      "During an interview with Italian publication La Gazzetta dello Sport , the 20-year-old said the family of his F1 idol had given him the run of the estate and several gifts to take home."
-     ],
-     "leadKo": [
-      "키미 안토넬리(Kimi Antonelli)가 이번 주말 브라질 그랑프리를 앞두고 아일톤 세나(Ayrton Senna)의 가족을 방문하는 동안 가족으로부터 받은 선물을 공개했습니다.",
-      "메르세데스 드라이버는 첫 포뮬러 1 우승을 차지한 지 이틀 뒤인 화요일 타투이(Tatuí)에 있는 파젠다 도이스 라고스(Fazenda Dois Lagos)로 갔고, 1986년 세나가 경주했던 로터스 98T를 타고 사진을 찍었습니다.",
-      "이탈리아 출판물인 La Gazzetta dello Sport와의 인터뷰에서 20세의 그는 F1 우상의 가족이 그에게 부동산 운영권과 집에 가져갈 몇 가지 선물을 주었다고 말했습니다."
-     ]
-    },
-    {
-     "title": "\"We failed so we had to react\" - Fred Vasseur on Ferrari driver talks and Mexico F1 fallout",
-     "desc": "Ferrari F1 chief Fred Vasseur insists he has cleared the air with Charles Leclerc and Lewis Hamilton after their highly publicised Mexican Grand Prix clash last week. At the…",
-     "link": "https://www.motorsport.com/f1/news/we-failed-so-we-had-to-react-fred-vasseur-on-ferrari-driver-talks-and-mexico-f1-fallout/10872240/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-     "image": "https://cdn-6.motorsport.com/images/amp/0rVPdjJ0/s6/fred-vasseur-ferrari.jpg",
-     "date": "2026-11-06T18:42:33+00:00",
-     "author": "",
-     "id": "32017e7631",
-     "titleKo": "\"우리는 실패했기 때문에 대응해야 했습니다.\" - 페라리 드라이버 회담과 멕시코 F1 낙진에 대한 Fred Vasseur",
-     "descKo": "페라리 F1의 수석 프레드 바쇠르(Fred Vasseur)는 지난주 널리 알려진 멕시코 그랑프리 충돌 이후 찰스 르클레르(Charles Leclerc)와 루이스 해밀턴(Lewis Hamilton)과 함께 경기를 진행했다고 주장했습니다. 에…",
-     "lead": [
-      "Ferrari F1 chief Fred Vasseur insists he has cleared the air with Charles Leclerc and Lewis Hamilton after their highly publicised Mexican Grand Prix clash last week.",
-      "At the Mexico City event, Hamilton and Leclerc both went off track on lap one as they fought for the lead, with Hamilton losing a position to Max Verstappen instead, while Leclerc was penalised and eventually also ceded the lead to the Red Bull driver.",
-      "Verstappen went on to win the race with Hamilton second and Leclerc off the podium in fourth, with the sabre-rattling on lap one robbing the team of a possible third win of the campaign. Hamilton was particularly furious about how Leclerc had raced him at the start, lobbying for the stewards to hand his team-mate a bigger penalty for cutting the track."
-     ],
-     "leadKo": [
-      "페라리 F1의 수석 프레드 바쇠르(Fred Vasseur)는 지난주 널리 알려진 멕시코 그랑프리 충돌 이후 찰스 르클레르(Charles Leclerc)와 루이스 해밀턴(Lewis Hamilton)과 함께 경기를 진행했다고 주장했습니다.",
-      "멕시코 시티 이벤트에서 Hamilton과 Leclerc는 둘 다 선두를 위해 싸우면서 랩 1에서 궤도를 벗어났습니다. Hamilton은 대신 Max Verstappen에게 위치를 잃었고 Leclerc는 페널티를 받고 결국 Red Bull 드라이버에게 선두를 넘겼습니다.",
-      "Verstappen은 해밀턴이 2위, Leclerc가 4위를 차지하며 레이스에서 우승했으며, 랩 1에서 세이버를 덜컥거리는 소리가 팀의 캠페인 세 번째 승리 가능성을 빼앗았습니다. 해밀턴은 특히 Leclerc가 처음에 자신을 어떻게 경주했는지에 대해 분노하여 그의 팀 동료에게 트랙 절단에 대해 더 큰 페널티를 주도록 청지기에게 로비했습니다."
-     ]
     }
    ]
   },
@@ -2067,6 +2061,48 @@
    "sourceUrl": "https://the-race.com/category/formula-1/feed/",
    "items": [
     {
+     "title": "Hamilton set for Brazil grid penalty after Ferrari's worst 2026 Friday",
+     "desc": "Lewis Hamilton is set for a grid penalty after Ferrari's toughest Friday of the year in Brazil",
+     "link": "https://www.the-race.com/formula-1/hamilton-set-for-brazil-grid-penalty-after-ferraris-worst-2026-friday/",
+     "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/6aee5656c40c79001f94a7fc-20-bra-gp-2026-fri.jpeg",
+     "date": "2026-11-07T12:31:42+00:00",
+     "author": "Josh Suttill",
+     "id": "b2d05e696e",
+     "lead": [
+      "Lewis Hamilton is set to take a grid penalty for this weekend’s Formula 1 Brazilian Grand Prix after Ferrari’s weakest Friday of 2026 so far.",
+      "Hamilton was the faster Ferrari in FP2, but he was 0.450s slower than Kimi Antonelli’s benchmark, with team-mate Charles Leclerc almost another three tenths adrift - a deficit mostly explained by a deployment issue on the start/finish straight.",
+      "Ferrari’s long run pace looked firmly fourth-best, too, with Leclerc’s long-run over half a second per lap slower than Antonelli on the same tyre."
+     ],
+     "leadKo": [
+      "루이스 해밀턴은 2026년 페라리의 가장 약한 금요일 이후 이번 주말 포뮬러 1 브라질 그랑프리에서 그리드 페널티를 받을 예정입니다.",
+      "해밀턴은 FP2에서 페라리보다 빨랐지만 키미 안토넬리(Kimi Antonelli)의 벤치마크보다 0.450초 느렸고, 팀 동료인 샤를 르클레르(Charles Leclerc)는 거의 3/10의 표류를 기록했습니다. 이러한 적자는 주로 시작/종료 직선의 배치 문제로 설명됩니다.",
+      "Ferrari의 장거리 달리기 속도 역시 확고히 4위를 차지했습니다. Leclerc의 장거리 달리기는 같은 타이어를 사용하는 Antonelli보다 랩당 0.5초 이상 느렸습니다."
+     ],
+     "titleKo": "해밀턴은 페라리의 최악의 2026 금요일 이후 브라질 그리드 페널티를 설정했습니다",
+     "descKo": "루이스 해밀턴은 브라질에서 열린 페라리의 올해 가장 힘든 금요일 이후 그리드 페널티를 받을 예정입니다."
+    },
+    {
+     "title": "Gary Anderson's verdict on McLaren's 2027-leaning upgrade",
+     "desc": "Ex-F1 technical director Gary Anderson gives his view on McLaren's Brazil upgrade",
+     "link": "https://www.the-race.com/formula-1/gary-anderson-verdict-on-mclaren-2027-leaning-upgrade/",
+     "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1452205_HiRes.jpg",
+     "date": "2026-11-07T10:54:21+00:00",
+     "author": "Gary Anderson",
+     "id": "dae2d56450",
+     "lead": [
+      "No team wants to show its dirty washing in public, so McLaren calling its new front wing effectively a 2027 concept seems strange.",
+      "In that position, assuming the numbers on track and the simulation tools show it has potential, I’d be using it now and considering it very much a 2026 part. With (perhaps) four races remaining and roughly five months before the start of next season, I’d be learning as much as possible from it and would hopefully make a step or two as a result of it before next season kicks off.",
+      "The intersection between the mainplane and the lower foot of the endplate, highlighted with the red ellipse, is what caught my eye."
+     ],
+     "leadKo": [
+      "어떤 팀도 더러운 세탁물을 공개적으로 보여주고 싶어하지 않기 때문에 McLaren이 새로운 프론트 윙을 사실상 2027년 컨셉이라고 부르는 것이 이상해 보입니다.",
+      "그 위치에서 트랙의 숫자와 시뮬레이션 도구가 잠재력이 있다고 가정하면 지금 사용하고 있으며 2026년 부품으로 고려할 것입니다. (아마) 4개의 레이스가 남아 있고 다음 시즌이 시작되기 약 5개월 전인 상황에서 저는 가능한 한 많은 것을 배우고 다음 시즌이 시작되기 전에 그 결과로 한두 단계를 이룰 수 있기를 바랍니다.",
+      "빨간색 타원으로 강조 표시된 메인 플레인과 엔드플레이트 아래쪽 풋 사이의 교차점이 내 눈길을 사로잡았습니다."
+     ],
+     "titleKo": "McLaren의 2027년형 업그레이드에 대한 게리 앤더슨의 평결",
+     "descKo": "전 F1 기술 디렉터 Gary Anderson이 McLaren의 브라질 업그레이드에 대한 견해를 밝힙니다."
+    },
+    {
      "title": "Herta finally clears his last F1 superlicence hurdle",
      "desc": "Colton Herta has cleared the final hurdles to qualifying for a Formula 1 superlicence with his penalty-free and productive Friday practice outing for Cadillac at the Brazilian…",
      "link": "https://www.the-race.com/formula-1/herta-finally-clears-his-last-f1-superlicence-hurdle/",
@@ -2074,6 +2110,8 @@
      "date": "2026-11-07T00:21:51+00:00",
      "author": "Scott Mitchell-Malm",
      "id": "8b4727c1ed",
+     "titleKo": "Herta는 마침내 마지막 F1 슈퍼 라이센스 장애물을 통과했습니다.",
+     "descKo": "Colton Herta는 브라질 경기장에서 Cadillac을 위해 페널티가 없고 생산적인 금요일 연습을 통해 Formula 1 슈퍼 라이선스 자격을 얻기 위한 마지막 장애물을 제거했습니다.",
      "lead": [
       "Colton Herta has cleared the final hurdles to qualifying for a Formula 1 superlicence with his penalty-free and productive Friday practice outing for Cadillac at the Brazilian Grand Prix.",
       "Herta replaced Sergio Perez in FP1 at Interlagos, where he and Cadillac were seeking to seal the final point needed for Herta to be eligible for a superlicence.",
@@ -2083,9 +2121,7 @@
       "콜튼 헤르타(Colton Herta)는 브라질 그랑프리에서 캐딜락을 위해 페널티가 없고 생산적인 금요일 연습을 통해 포뮬러 1 슈퍼 라이선스 자격을 얻기 위한 마지막 장애물을 제거했습니다.",
       "Herta는 Interlagos의 FP1에서 Sergio Perez를 대체했으며, 그곳에서 그와 Cadillac은 Herta가 슈퍼 라이선스를 받기 위해 필요한 최종 포인트를 확보하려고 했습니다.",
       "그는 다음 시즌 팀을 위해 경쟁할 경쟁자이지만 2027년이 너무 빨리 오더라도 지금 슈퍼 라이선스를 받으면 Herta가 다음 시즌에도 옵션으로 남아 있는 것이 훨씬 더 쉬워질 것입니다."
-     ],
-     "titleKo": "Herta는 마침내 마지막 F1 슈퍼 라이센스 장애물을 통과했습니다.",
-     "descKo": "Colton Herta는 브라질 경기장에서 Cadillac을 위해 페널티가 없고 생산적인 금요일 연습을 통해 Formula 1 슈퍼 라이선스 자격을 얻기 위한 마지막 장애물을 제거했습니다."
+     ]
     },
     {
      "title": "Winners & losers from F1 2026 Brazilian GP Friday practice",
@@ -2211,48 +2247,6 @@
       "Colton Herta가 F1 슈퍼 라이선스 임무를 완수하면서 Lando Norris는 새로운 Formula 1 세계 챔피언 Kimi Antonelli를 제치고 브라질 그랑프리의 첫 번째 연습 세션에서 1위를 차지했습니다.",
       "Norris는 1m11.717초로 속도를 설정했는데, 이는 Antonelli보다 단지 0.082초 더 빠른 랩핑 기록입니다.",
       "McLaren은 새로운 전면 및 후면 윙, 수정된 바닥 가구 및 빔 윙을 통해 브라질에 업그레이드를 가져온 유일한 팀입니다."
-     ]
-    },
-    {
-     "title": "F1 2026 Brazilian Grand Prix practice results",
-     "desc": "Results from F1 practice at the 2026 Brazilian GP at Interlagos",
-     "link": "https://www.the-race.com/formula-1/f1-2026-brazilian-grand-prix-practice-results/",
-     "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1451725_HiRes.jpg",
-     "date": "2026-11-06T16:36:24+00:00",
-     "author": "The Race Team",
-     "id": "1d26027a1c",
-     "titleKo": "F1 2026 브라질 그랑프리 연습 결과",
-     "descKo": "Interlagos에서 열린 2026 브라질 GP의 F1 연습 결과",
-     "lead": [
-      "The Brazilian Grand Prix is one of those races where Formula 1 teams typically like to deploy 'rookie' drivers in FP1 - and the 2026 edition was no exception.",
-      "Seven such drivers made stand-in appearances at the start of the Interlagos weekend, including Haas newcomer Rafael Camara - who'll make his grand prix debut at his home race this weekend.",
-      "1 Lando Norris (McLaren) 1m11.717s 2 Kimi Antonelli (Mercedes) +0.082s 3 Max Verstappen (Red Bull) +0.236s 4 Lewis Hamilton (Ferrari) +0.324s 5 George Russell (Mercedes) +0.386s 6 Isack Hadjar (Red Bull) +0.439s 7 Gabriele Mini (Alpine) +0.852s 8 Gabriel Bortoleto (Audi) +0.897s 9 Franco Colapinto (Alpine) +0.937s 10 Liam Lawson (Racing Bulls) +0.998s 11 Leonardo Fornaroli (McLaren) +1.116s 12 Ollie Bearman (Haas) +1.120s 13 Fernando Alonso…"
-     ],
-     "leadKo": [
-      "브라질 그랑프리는 일반적으로 Formula 1 팀이 FP1에 '신인' 드라이버를 배치하는 것을 좋아하는 레이스 중 하나이며 2026 에디션도 예외는 아닙니다.",
-      "이번 주말 홈 레이스에서 그랑프리 데뷔를 하게 될 Haas의 신인 Rafael Camara를 포함하여 7명의 드라이버가 인터라고스 주말이 시작될 때 임시로 모습을 드러냈습니다.",
-      "1 Lando Norris(McLaren) 1m11.717s 2 Kimi Antonelli(Mercedes) +0.082s 3 Max Verstappen(Red Bull) +0.236s 4 Lewis Hamilton(Ferrari) +0.324s 5 George Russell(Mercedes) +0.386s 6 Isack Hadjar(Red Bull) +0.439s 7 Gabriele Mini (알파인) +0.852초 8 Gabriel Bortoleto(Audi) +0.897초 9 Franco Colapinto(알파인) +0.937초 10 Liam Lawson(레이싱 불스) +0.998초 11 Leonardo Fornaroli(맥라렌) +1.116초 12 Ollie Bearman(Haas) +1.120초 13 Fernando Alonso…"
-     ]
-    },
-    {
-     "title": "What's really happening with Cadillac F1 buyout talks",
-     "desc": "Here's what's really happening with Cadillac and the potential sale of a stake in the team, behind the scenes of F1's latest boardroom drama",
-     "link": "https://www.the-race.com/business/cadillac-f1-buyout-talks-what-is-really-happening/",
-     "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1446703_HiRes.jpg",
-     "date": "2026-11-06T14:51:48+00:00",
-     "author": "Darren Cox",
-     "id": "179b7e13ba",
-     "titleKo": "Cadillac F1 인수 협상에서 실제로 무슨 일이 일어나고 있나요?",
-     "descKo": "F1의 최신 이사회 드라마의 무대 뒤에서 Cadillac에서 실제로 무슨 일이 일어나고 있는지, 그리고 팀 지분 매각 가능성은 다음과 같습니다.",
-     "lead": [
-      "Once upon a time, if you wanted to know who was buying into a Formula 1 team you could ask the bloke who owned it over coffee in the paddock.",
-      "Such is the way ownerships are now structured and managed in F1 there may only be one person in the paddock that actually knows something about the sale, someone with a freshly signed contract who appears to have let something slip on Thursday.",
-      "When I recently dug into who actually owns each F1 team , the distance we have travelled from the owner-operator days became very clear. The person running the team, the company whose name is above the garage, and the people who ultimately control the money can be three very different things."
-     ],
-     "leadKo": [
-      "옛날에는 누가 Formula 1 팀을 구매했는지 알고 싶다면 방목장에서 커피를 마시면서 그 팀을 소유한 사람에게 물어볼 수 있었습니다.",
-      "이것이 현재 F1에서 소유권이 구조화되고 관리되는 방식입니다. 실제로 판매에 대해 알고 있는 사람은 목장에 단 한 명, 즉 목요일에 뭔가를 놓친 것처럼 보이는 갓 서명한 계약서를 가진 사람뿐입니다.",
-      "최근 각 F1 팀의 실제 소유자가 누구인지 조사한 결과, 오너-오퍼레이터 시절부터 우리가 이동한 거리가 매우 분명해졌습니다. 팀을 운영하는 사람, 이름이 차고 위에 있는 회사, 그리고 궁극적으로 돈을 통제하는 사람은 매우 다른 세 가지일 수 있습니다."
      ]
     }
    ]
@@ -2457,6 +2451,42 @@
    "sourceUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCB_qr75-ydFVKSF9Dmo6izg",
    "items": [
     {
+     "title": "Mystery Holes In Red Bull Car In Brazil! | F1 TV Tech Talk",
+     "desc": "F1 TV Tech Talk is back after Friday practice in Brazil, with interesting things happening on cars at both ends of the field, as Sam Collins explains.",
+     "link": "https://www.youtube.com/watch?v=gK9GOCuN4mk",
+     "image": "https://i.ytimg.com/vi/gK9GOCuN4mk/hqdefault.jpg",
+     "date": "2026-11-06T21:33:44+00:00",
+     "author": "FORMULA 1",
+     "videoId": "gK9GOCuN4mk",
+     "id": "d705ad76db",
+     "titleKo": "브라질 레드불 자동차에 숨겨진 구멍! | F1 TV 테크 토크",
+     "descKo": ""
+    },
+    {
+     "title": "The Funniest F1 Radio Of 2026 From Verstappen? 🤣",
+     "desc": "Just Max Verstappen amusing himself and the rest of us at 300 km/h.",
+     "link": "https://www.youtube.com/watch?v=MlYLdW5bAvo",
+     "image": "https://i.ytimg.com/vi/MlYLdW5bAvo/hqdefault.jpg",
+     "date": "2026-11-06T21:28:02+00:00",
+     "author": "FORMULA 1",
+     "videoId": "MlYLdW5bAvo",
+     "id": "b5707bc92e",
+     "titleKo": "Verstappen의 2026년 가장 재미있는 F1 라디오는? 🤣",
+     "descKo": ""
+    },
+    {
+     "title": "FP2 Highlights | 2026 Sao Paulo Grand Prix",
+     "desc": "Catch up on the second session in Sao Paulo with the full F1 field returning to their cars for long runs, as rainclouds loom.",
+     "link": "https://www.youtube.com/watch?v=h_IJImSl3r4",
+     "image": "https://i.ytimg.com/vi/h_IJImSl3r4/hqdefault.jpg",
+     "date": "2026-11-06T21:04:12+00:00",
+     "author": "FORMULA 1",
+     "videoId": "h_IJImSl3r4",
+     "id": "d5ef5c080a",
+     "titleKo": "FP2 하이라이트 | 2026 상파울루 그랑프리",
+     "descKo": ""
+    },
+    {
      "title": "FP1 Highlights | 2026 Sao Paulo Grand Prix",
      "desc": "Kimi Antonelli takes to the track for the first time since securing the championship, as he joins a host of rookies during first practice in Brazil!",
      "link": "https://www.youtube.com/watch?v=OwQ4ernSM00",
@@ -2469,7 +2499,7 @@
      "descKo": ""
     },
     {
-     "title": "A chaotic drivers' parade is exactly what we need",
+     "title": "A Chaotic Drivers' Parade Is Exactly What We Need 😅",
      "desc": "Throwback to the 2025 drivers' parade that might have been a little bit too fun for the drivers",
      "link": "https://www.youtube.com/watch?v=L2-Z-AH41Rw",
      "image": "https://i.ytimg.com/vi/L2-Z-AH41Rw/hqdefault.jpg",
@@ -2481,7 +2511,7 @@
      "descKo": ""
     },
     {
-     "title": "The newest dad in the paddock has arrived",
+     "title": "The Newest Dad In The Paddock Has Arrived 👨‍🍼",
      "desc": "Charles Leclerc arrives in the paddock for the first time since becoming a father to his new daughter, Bianca",
      "link": "https://www.youtube.com/watch?v=bDz7iYXvMSs",
      "image": "https://i.ytimg.com/vi/bDz7iYXvMSs/hqdefault.jpg",
@@ -2526,42 +2556,6 @@
      "videoId": "COOMLj0Sir8",
      "id": "3c8169b7a3",
      "titleKo": "Seb의 메시지는 세상을 의미했습니다 ❤️",
-     "descKo": ""
-    },
-    {
-     "title": "Weekend Warm-Up | 2026 Sao Paulo Grand Prix",
-     "desc": "Join Betty Glover, Chris Medland and James Hinchcliffe for round 20's episode of Weekend Warm-Up. With a newly-crowned world champion on the grid, and the Constructors'…",
-     "link": "https://www.youtube.com/watch?v=hsHgSQgETbE",
-     "image": "https://i.ytimg.com/vi/hsHgSQgETbE/hqdefault.jpg",
-     "date": "2026-11-05T22:45:10+00:00",
-     "author": "FORMULA 1",
-     "videoId": "hsHgSQgETbE",
-     "id": "2c970e24f6",
-     "titleKo": "주말 워밍업 | 2026 상파울루 그랑프리",
-     "descKo": ""
-    },
-    {
-     "title": "Luis Mode Activated ⚽️",
-     "desc": "Lewis Hamilton showed off his futebol skills on media day in Brazil!",
-     "link": "https://www.youtube.com/watch?v=7c1iWz0Ksy4",
-     "image": "https://i.ytimg.com/vi/7c1iWz0Ksy4/hqdefault.jpg",
-     "date": "2026-11-05T22:22:36+00:00",
-     "author": "FORMULA 1",
-     "videoId": "7c1iWz0Ksy4",
-     "id": "69fcf53cf2",
-     "titleKo": "루이스 모드 활성화됨 ⚽️",
-     "descKo": ""
-    },
-    {
-     "title": "Remembering Alan Jones: An Extraordinary Racer & True Great Of Our Sport",
-     "desc": "Alan Jones, the formidable competitor that brought Williams their first Drivers’ and Constructors’ World Championships, has passed away at the age of 80.",
-     "link": "https://www.youtube.com/watch?v=6l089xrn_eI",
-     "image": "https://i.ytimg.com/vi/6l089xrn_eI/hqdefault.jpg",
-     "date": "2026-11-05T18:45:39+00:00",
-     "author": "FORMULA 1",
-     "videoId": "6l089xrn_eI",
-     "id": "cd4da0a53b",
-     "titleKo": "Alan Jones를 기억하며: 뛰어난 레이서이자 우리 스포츠의 진정한 위대함",
      "descKo": ""
     }
    ]
