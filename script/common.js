@@ -129,6 +129,8 @@ const driverImages = {
     "bottas": "img/driver/bottas.webp",
     // 대체 출전 드라이버 (포인트를 얻으면 순위에 나옴)
     "tsunoda": "img/driver/tsunoda.webp",   // F1 공식 2026 레이싱 불스 사진
+    "ryo_hirakawa": "img/driver/hirakawa.webp", // F1 공식 2026 하스 사진
+    "rafael_camara": "img/driver/camara.webp",
 };
 
 // F1 공식 등번호 이미지 (흰색) — 홈 드라이버 챔피언십 카드 · 드라이버 순위 · 통계 차트가 함께 쓴다
