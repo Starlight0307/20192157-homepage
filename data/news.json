@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T12:54:20+00:00",
+ "updated": "2026-11-12T20:55:29+00:00",
  "failed": [],
  "tabs": {
   "report": {
@@ -11,17 +11,17 @@
      "id": "034b073722",
      "wikiTitle": "2026 São Paulo Grand Prix",
      "title": "2026 São Paulo Grand Prix",
-     "titleKo": "2026 상파울루 그랑프리",
+     "titleKo": "2026년 상파울루 그랑프리",
      "desc": "The 2026 São Paulo Grand Prix (officially known as the Formula 1 MSC Cruises Grande Prêmio de São Paulo 2026) was a Formula One motor race that was held on 8 November 2026 at the…",
      "descKo": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
      "link": "https://en.wikipedia.org/wiki/2026_S%C3%A3o_Paulo_Grand_Prix",
      "historyUrl": "https://en.wikipedia.org/wiki/2026_S%C3%A3o_Paulo_Grand_Prix?action=history",
      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Aut%C3%B3dromo_Jos%C3%A9_Carlos_Pace_%28AKA_Interlagos%29_track_map.svg/1280px-Aut%C3%B3dromo_Jos%C3%A9_Carlos_Pace_%28AKA_Interlagos%29_track_map.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "imageFile": "Autódromo_José_Carlos_Pace_(AKA_Interlagos)_track_map.svg",
-     "date": "2026-11-11T12:23:49Z",
+     "date": "2026-11-12T18:29:15Z",
      "raceDate": "2026-11-08",
      "author": "위키백과 편집자들",
-     "revid": 1385017942,
+     "revid": 1385305692,
      "license": "CC BY-SA 4.0",
      "body": [
       {
@@ -1850,13 +1850,141 @@
    "sourceUrl": "https://www.motorsport.com/rss/f1/news/",
    "items": [
     {
+     "title": "Guether Steiner warns Oscar Piastri's McLaren future could be at risk after 2027",
+     "desc": "Former Haas Formula 1 team principal Guenther Steiner has warned that Oscar Piastri could find his McLaren future under threat if he has another season like 2026. Piastri, who…",
+     "link": "https://www.motorsport.com/f1/news/guether-steiner-warns-oscar-piastris-mclaren-future-could-be-at-risk-after-2027/10874189/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+     "image": "https://cdn-7.motorsport.com/images/amp/YXyKjJK6/s6/motorsport-com-graphics-94.jpg",
+     "date": "2026-11-12T17:44:49+00:00",
+     "author": "",
+     "id": "0d94e38365",
+     "lead": [
+      "Former Haas Formula 1 team principal Guenther Steiner has warned that Oscar Piastri could find his McLaren future under threat if he has another season like 2026.",
+      "Piastri, who fought for the world title in 2025, has endured a much tougher campaign this time around and is out of the fight for second in the championship with three rounds to go.",
+      "Speaking on The Red Flags Podcast , Steiner was asked what the year says about the Australian's future, with his co-host suggesting the 25-year-old is in \"a bit of a hot seat\" and describing McLaren Racing CEO Zak Brown as \"kind of a savage\" when it comes to driver changes."
+     ],
+     "leadKo": [
+      "하스 F1 팀의 전 대표인 귄터 슈타이너는 오스카 피아스트리가 2026년과 같은 시즌을 또 보내게 된다면 맥라렌에서의 미래가 위태로워질 수 있다고 경고했습니다.",
+      "2025년 월드 챔피언십 타이틀을 놓고 경쟁했던 피아스트리는 이번 시즌에는 훨씬 더 힘든 경기를 치렀으며, 3라운드를 남겨두고 챔피언십 2위 경쟁에서 탈락했습니다.",
+      "'The Red Flags Podcast'에서 Steiner는 호주 출신 드라이버의 미래에 대해 어떻게 생각하냐는 질문을 받았습니다. 그의 공동 진행자는 25세의 드라이버가 \"약간 곤란한 상황\"에 처해 있다고 말하며, 드라이버 교체와 관련하여 McLaren Racing의 CEO인 Zak Brown을 \"다소 야만적\"이라고 표현했습니다."
+     ],
+     "titleKo": "귀터 스타이너, 오스카 피아스트리의 맥라렌 미래가 2027년 이후 위험에 처할 수 있다고 경고",
+     "descKo": "하스 포뮬러원 팀의 전 대표인 귄터 슈타이너는 오스카 피아스트리가 2026년과 같은 시즌을 또 보내게 된다면 맥라렌에서의 미래가 위태로워질 수 있다고 경고했습니다."
+    },
+    {
+     "title": "Toto Wolff reflects on Mercedes’ non-title years: ‘We weren’t complete losers’",
+     "desc": "Mercedes team principal Toto Wolff says the squad wasn’t “complete losers” in its four years without a Formula 1 world title. The Silver Arrows claimed their ninth constructors’…",
+     "link": "https://www.motorsport.com/f1/news/toto-wolff-reflects-on-mercedes-non-title-years-we-werent-complete-losers/10873281/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+     "image": "https://cdn-5.motorsport.com/images/amp/YWKARzOY/s6/lewis-hamilton-mercedes-amg-ge.jpg",
+     "date": "2026-11-12T17:25:35+00:00",
+     "author": "",
+     "id": "84719ef0e1",
+     "lead": [
+      "Mercedes team principal Toto Wolff says the squad wasn’t “complete losers” in its four years without a Formula 1 world title.",
+      "The Silver Arrows claimed their ninth constructors’ championship on Sunday at the Brazilian Grand Prix, one week after Kimi Antonelli became F1’s youngest world drivers’ champion.",
+      "Mercedes came out on top as F1 switched to new chassis and power unit regulations for 2026, but the previous ground-effect era had been tough for the outfit – it took just seven victories from 2022-2025, compared to 12 this year alone."
+     ],
+     "leadKo": [
+      "메르세데스 팀 대표 토토 볼프는 포뮬러원 월드 타이틀을 획득하지 못한 4년 동안 팀이 \"완전한 패배자\"가 아니었다고 말합니다.",
+      "실버 애로우는 키미 안토넬리가 F1 최연소 월드 드라이버 챔피언이 된 지 일주일 만인 일요일 브라질 그랑프리에서 9번째 컨스트럭터 챔피언십을 차지했습니다.",
+      "F1이 2026년 새로운 섀시와 파워 유닛 규정으로 전환하면서 메르세데스가 우위를 차지했지만, 이전의 그라운드 이펙트 시대는 이 팀에게는 힘든 시기였습니다. 2022년부터 2025년까지 단 7승을 거둔 반면, 올해만 12승을 거뒀습니다."
+     ],
+     "titleKo": "토토 볼프, 메르세데스의 타이틀 미달성 시기에 대해 회상: '우리는 완전한 패자가 아니었습니다'",
+     "descKo": "메르세데스 팀 대표 토토 볼프는 포뮬러원 월드 타이틀을 획득하지 못한 4년 동안 팀이 \"완전히 패배한 것은 아니었다\"고 말했습니다. 실버 애로우는 9번째 컨스트럭터스..."
+    },
+    {
+     "title": "Laurent Mekies: Brazil was Isack Hadjar’s “best race” for Red Bull",
+     "desc": "The 2026 São Paulo Grand Prix was a monumental weekend for Red Bull Racing. While Max Verstappen stole the headlines with a logic-defying charge from 21st to finish second, his…",
+     "link": "https://www.motorsport.com/f1/news/laurent-mekies-brazil-was-isack-hadjars-best-race-for-red-bull/10874059/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+     "image": "https://cdn-8.motorsport.com/images/amp/Y9lNz382/s6/motorsport-com-graphics-96-2.jpg",
+     "date": "2026-11-12T16:41:01+00:00",
+     "author": "",
+     "id": "7a8b625acc",
+     "lead": [
+      "The 2026 São Paulo Grand Prix was a monumental weekend for Red Bull Racing . While Max Verstappen stole the headlines with a logic-defying charge from 21st to finish second, his team-mate Isack Hadjar quietly delivered what team principal Laurent Mekies believes is his most impressive drive yet.",
+      "Securing a double podium for the Milton Keynes squad, Hadjar finished third at Interlagos after starting fifth, cementing his third podium appearance of the 2026 season. But according to Mekies, it wasn't just the final result that stood out, it was the raw pace and racecraft the young Frenchman displayed in rapidly changing, treacherous conditions.",
+      "When asked if Hadjar is on the verge of challenging for outright wins in the right circumstances, Mekies didn't hold back his praise."
+     ],
+     "leadKo": [
+      "2026년 상파울루 그랑프리는 레드불 레이싱에게 기념비적인 주말이었습니다. 맥스 페르스타펜이 21위에서 2위로 치고 올라가는 상식을 뛰어넘는 질주로 헤드라인을 장식하는 동안, 그의 팀 동료인 이삭 하자르는 팀 대표인 로랑 메키스가 지금까지 그의 가장 인상적인 드라이빙이었다고 생각하는 경기를 조용히 펼쳤습니다.",
+      "밀턴 케인스 팀에 더블 포디움을 안긴 하자르는 인터라구스에서 5위로 출발한 후 3위를 차지하며 2026시즌 세 번째 포디움에 올랐습니다. 하지만 메키스에 따르면, 눈에 띈 것은 최종 결과뿐만이 아니었습니다. 급변하는 위험한 상황에서 젊은 프랑스 선수가 보여준 순수한 속도와 레이스 기술이 돋보였습니다.",
+      "하자르가 적절한 상황에서 우승을 차지할 수 있을지 묻는 질문에 메키스 팀 대표는 칭찬을 아끼지 않았습니다."
+     ],
+     "titleKo": "로랑 메키스: 브라질은 이삭 하지아르에게 레드불에서의 \"최고의 레이스\"였다",
+     "descKo": "2026년 상파울루 그랑프리는 레드불 레이싱에게 기념비적인 주말이었습니다. 맥스 페르스타펜이 21위에서 2위로 치고 올라가는 상식을 뛰어넘는 질주로 헤드라인을 장식하는 동안, 그의…"
+    },
+    {
+     "title": "F1 Academy champion Alisha Palmowski reveals key lesson from Max Verstappen",
+     "desc": "Alisha Palmowski says the biggest lesson of her F1 Academy title year came from simply watching four-time Formula 1 champion Max Verstappen at work. The Briton, who races for…",
+     "link": "https://www.motorsport.com/f1/news/f1-academy-champion-alisha-palmowski-reveals-key-lesson-from-max-verstappen/10874174/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+     "image": "https://cdn-2.motorsport.com/images/amp/2y7QrOX6/s6/motorsport-com-graphics-92.jpg",
+     "date": "2026-11-12T16:35:22+00:00",
+     "author": "",
+     "id": "18a7e4d878",
+     "lead": [
+      "Alisha Palmowski says the biggest lesson of her F1 Academy title year came from simply watching four-time Formula 1 champion Max Verstappen at work.",
+      "The Briton, who races for Campos Racing as part of Red Bull's junior programme, clinched the 2026 F1 Academy title in Austin, with one round still to run in the all-female racing series.",
+      "Palmowski made her F1 Academy debut as the wildcard entry in Qatar in 2024. She subsequently signed a full-time contract with Campos Racing for the 2025 season as the Red Bull-supported driver. Both Campos and Red Bull retained the 20-year-old for 2026."
+     ],
+     "leadKo": [
+      "알리샤 팔모프스키는 F1 아카데미 타이틀을 차지한 해에 얻은 가장 큰 교훈은 단순히 포뮬러원 4회 챔피언인 막스 페르스타펜이 경주하는 모습을 지켜보는 것이었다고 말합니다.",
+      "레드불 주니어 프로그램의 일환으로 캄포스 레이싱 소속으로 레이싱에 참가하는 이 영국인은 아직 한 라운드가 남은 올 여성 레이싱 시리즈에서 오스틴에서 2026년 F1 아카데미 타이틀을 차지했습니다.",
+      "팔모프스키는 2024년 카타르에서 와일드카드 출전자로 F1 아카데미에 데뷔했습니다. 이후 그녀는 레드불이 후원하는 드라이버로서 2025시즌을 위해 Campos Racing과 풀타임 계약을 체결했습니다. 캄포스와 레드불은 모두 2026년에도 20세의 그녀를 계속 기용하기로 했습니다."
+     ],
+     "titleKo": "F1 아카데미 챔피언 알리샤 팔모프스키, 막스 페르스타펜에게서 배운 핵심 교훈 공개",
+     "descKo": "알리샤 팔모프스키는 F1 아카데미 챔피언을 차지한 해에 얻은 가장 큰 교훈은 단순히 포뮬러 1 4회 챔피언인 막스 페르스타펜이 레이싱하는 모습을 지켜보는 것에서 나왔다고 말합니다. ...를 위해 레이싱에 참가하는 영국인 드라이버는..."
+    },
+    {
+     "title": "Tsolov named Red Bull, Racing Bulls reserve driver after missing out on 2027 F1 race seat",
+     "desc": "Nikola Tsolov has been named as reserve driver for both Red Bull and Racing Bulls for the 2027 Formula 1 season having missed out on a full-time drive. The 19-year-old Bulgarian…",
+     "link": "https://www.motorsport.com/f1/news/tsolov-named-red-bull-racing-bulls-reserve-driver-after-missing-out-on-2027-f1-race-seat/10874147/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+     "image": "https://cdn-7.motorsport.com/images/amp/0rVPVOP0/s6/nikola-tsolov-racing-bulls.jpg",
+     "date": "2026-11-12T15:19:49+00:00",
+     "author": "",
+     "id": "40de7ddc44",
+     "lead": [
+      "Nikola Tsolov has been named as reserve driver for both Red Bull and Racing Bulls for the 2027 Formula 1 season having missed out on a full-time drive.",
+      "The 19-year-old Bulgarian had been linked to a step up from F2 to replace Liam Lawson at Racing Bulls in 2027, but after weeks of speculation the Faenza-based squad put rumours to rest by confirming the New Zealander would continue alongside Arvid Lindblad .",
+      "Tsolov has impressed in his first full F2 season, claiming six victories which include four feature races and a streak that saw him become the first in series history to claim three on the bounce."
+     ],
+     "leadKo": [
+      "니콜라 졸로프가 2027년 포뮬러원 시즌에 레드불과 레이싱 불스의 리저브 드라이버로 선정되었습니다.",
+      "19세의 불가리아 선수는 2027년 레이싱 불스에서 리암 로슨을 대신해 F2에서 F1으로 승격할 것으로 예상되었지만, 몇 주간의 추측 끝에 파엔차에 본사를 둔 팀은 뉴질랜드 선수가 아르비드 린드블라드와 함께 계속 활동할 것이라고 확인하며 소문을 잠재웠습니다.",
+      "촐로프는 첫 번째 F2 풀 시즌에서 인상적인 활약을 펼치며 4번의 피처 레이스를 포함한 6번의 우승을 차지했고, 3연승을 거둔 최초의 드라이버가 되었습니다."
+     ],
+     "titleKo": "촐로프, 2027년 F1 레이스 시트 놓친 후 레드불, 레이싱 불스 리저브 드라이버로 지명",
+     "descKo": "니콜라 졸로프가 풀타임 드라이버 자리를 놓치고 2027년 포뮬러원 시즌에 레드불과 레이싱 불스 양 팀의 리저브 드라이버로 임명되었습니다. 19세의 불가리아인..."
+    },
+    {
+     "title": "Fred Vasseur: Lewis Hamilton and Charles Leclerc “left my room joking together”",
+     "desc": "Ferrari team principal Fred Vasseur has shut down speculation of ongoing friction between Lewis Hamilton and Charles Leclerc, confirming the two drivers resolved their issues…",
+     "link": "https://www.motorsport.com/f1/news/fred-vasseur-lewis-hamilton-and-charles-leclerc-left-my-room-joking-together/10874079/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+     "image": "https://cdn-8.motorsport.com/images/amp/YP7489X2/s6/motorsport-com-graphics-91-2.jpg",
+     "date": "2026-11-12T13:15:29+00:00",
+     "author": "",
+     "id": "b45ab7637b",
+     "lead": [
+      "Ferrari team principal Fred Vasseur has shut down speculation of ongoing friction between Lewis Hamilton and Charles Leclerc , confirming the two drivers resolved their issues during a private sit-down discussion ahead of the São Paulo Grand Prix.",
+      "The internal dynamic at Ferrari has been under scrutiny following the team's opening-lap clash in Mexico, but the chaotic, rain-soaked race at Interlagos passed without any radio arguments or disputes over position swapping between the two drivers.",
+      "Speaking to the media post-race, Vasseur confirmed that a preemptive meeting was the catalyst for the smooth operation."
+     ],
+     "leadKo": [
+      "페라리 팀 대표인 프레드 바서(Fred Vasseur)는 루이스 해밀턴과 샤를 르클레르 사이에 지속적인 마찰이 있다는 추측을 일축하며, 두 드라이버가 상파울루 그랑프리 전에 비공개 회의를 통해 문제를 해결했다고 확인했습니다.",
+      "페라리의 내부 역학 관계는 멕시코에서 열린 팀의 첫 번째 랩 충돌 이후 주목을 받아왔지만, 인터라고스에서 열린 혼돈스럽고 비가 내리는 레이스는 두 드라이버 간의 라디오 논쟁이나 포지션 교환에 대한 분쟁 없이 진행되었습니다.",
+      "바죄르 대표는 경주 후 언론과의 인터뷰에서 선제적 회의가 원활한 운영의 촉매제 역할을 했다고 확인했습니다."
+     ],
+     "titleKo": "프레드 바수르: 루이스 해밀턴과 샤를 르클레르가 \"제 방에서 함께 농담을 하며 나갔습니다\"",
+     "descKo": "페라리 팀 대표인 프레드 바죄르가 루이스 해밀턴과 샤를 르클레르 사이에 지속적인 마찰이 있다는 추측을 일축하며 두 드라이버가 문제를 해결했다고 확인했습니다..."
+    },
+    {
      "title": "The impressive stats underpinning Liam Lawson's career-saving F1 season",
      "desc": "Racing Bulls has finally announced Liam Lawson and Arvid Lindblad will stay put for the 2027 season, ending a long-running saga as the team and the wider Red Bull company weighed…",
      "link": "https://www.motorsport.com/f1/news/the-impressive-stats-underpinning-liam-lawsons-career-saving-f1-season/10874116/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-     "image": "https://cdn-7.motorsport.com/images/amp/6grQG3nY/s6/liam-lawson-racing-bulls.jpg",
+     "image": "https://cdn-5.motorsport.com/images/amp/6grQG3nY/s6/liam-lawson-racing-bulls.jpg",
      "date": "2026-11-12T12:42:31+00:00",
      "author": "",
      "id": "0acaf782d1",
+     "titleKo": "리암 로슨의 F1 시즌 커리어 구제의 토대가 된 인상적인 통계",
+     "descKo": "레이싱 불스가 마침내 리암 로슨과 아르비드 린드블라드가 2027시즌에도 팀에 남게 될 것이라고 발표했습니다. 팀과 레드불 그룹 전체가 고민을 거듭한 끝에 오랜 논쟁이 마무리된 것입니다.",
      "lead": [
       "Racing Bulls has finally announced Liam Lawson and Arvid Lindblad will stay put for the 2027 season, ending a long-running saga as the team and the wider Red Bull company weighed up keeping Lawson on board for another year or promoting the next prospect in the pipeline, F2 frontrunner Nikola Tsolov.",
       "Lawson scored 89 points this year, 75 for Racing Bulls and 14 standing in for the injured Isack Hadjar for three races, as he played a pivotal role in Racing Bulls securing its best-ever constructors' championship result, with only an Alpine miracle keeping the team from locking up fifth.",
@@ -1866,18 +1994,18 @@
       "레이싱 불스(Racing Bulls)가 마침내 리암 로슨(Liam Lawson)과 아르비드 린드블라드(Arvid Lindblad)가 2027시즌에도 팀에 남을 것이라고 발표했습니다. 팀과 레드불(Red Bull) 전체가 로슨을 1년 더 보유할지, 아니면 F2 선두 주자인 니콜라 졸로프(Nikola Tsolov)를 승격시킬지 고민하던 오랜 논쟁이 끝난 것입니다.",
       "로슨은 올해 89점을 획득했으며, 이 중 75점은 레이싱 불스 소속으로, 14점은 부상을 당한 이삭 하자르를 대신해 3번의 레이스에 출전하며 획득했습니다. 그는 레이싱 불스가 사상 최고의 컨스트럭터 챔피언십 성적을 거두는 데 핵심적인 역할을 했으며, 알핀의 기적적인 활약이 없었다면 팀은 5위를 차지할 수 있었습니다.",
       "하지만 레이싱 불스의 이중적인 동기 때문에 단순해 보였던 결정이 점점 더 복잡해졌습니다. 한편으로는, 팀의 주요 존재 이유는 여전히 차세대 막스 페르스타펜이나 키미 안토넬리를 찾는 것입니다. 안토넬리가 F1으로의 조기 승격의 가치를 입증하면서(힘든 1년을 보낸 후 20세의 나이에 압도적인 챔피언십 시즌을 치름), 일부 경영진은 촐로프의 성장을 극대화하기 위해 그를 신속하게 승격시키고자 했습니다."
-     ],
-     "titleKo": "리암 로슨의 F1 시즌 커리어 구제의 토대가 된 인상적인 통계",
-     "descKo": "레이싱 불스가 마침내 리암 로슨과 아르비드 린드블라드가 2027시즌에도 팀에 남게 될 것이라고 발표했습니다. 팀과 레드불 그룹 전체가 고민을 거듭한 끝에 오랜 논쟁이 마무리된 것입니다."
+     ]
     },
     {
      "title": "Ralf Schumacher questions Lewis Hamilton's leadership as he issues Max Verstappen warning",
      "desc": "Former Formula 1 driver Ralf Schumacher believes Max Verstappen would find life at Mercedes \"very difficult\" and has argued that Lewis Hamilton has never learned to run a team. On…",
      "link": "https://www.motorsport.com/f1/news/ralf-schumacher-questions-lewis-hamiltons-leadership-as-he-issues-max-verstappen-warning/10874111/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-     "image": "https://cdn-2.motorsport.com/images/amp/6Alv9e9Y/s6/motorsport-com-graphics-90.jpg",
+     "image": "https://cdn-3.motorsport.com/images/amp/6Alv9e9Y/s6/motorsport-com-graphics-90.jpg",
      "date": "2026-11-12T12:38:07+00:00",
      "author": "",
      "id": "a4a94b862c",
+     "titleKo": "랄프 슈마허, 루이스 해밀턴의 리더십에 의문을 제기하며 막스 페르스타펜에게 경고",
+     "descKo": "전 F1 드라이버인 랄프 슈마허는 맥스 페르스타펜이 메르세데스에서 생활하는 것이 \"매우 어려울 것\"이라고 생각하며, 루이스 해밀턴이 팀을 운영하는 법을 전혀 배우지 못했다고 주장했습니다.",
      "lead": [
       "Former Formula 1 driver Ralf Schumacher believes Max Verstappen would find life at Mercedes \"very difficult\" and has argued that Lewis Hamilton has never learned to run a team.",
       "On Sky Sports Germany's Backstage Boxengasse podcast, Schumacher said that Verstappen's deep involvement in the technical side of Red Bull would likely not carry over easily to another team such as Mercedes.",
@@ -1887,18 +2015,18 @@
       "전 F1 드라이버인 랄프 슈마허는 맥스 페르스타펜이 메르세데스에서 생활하는 것이 \"매우 어려울 것\"이라고 생각하며, 루이스 해밀턴이 팀을 운영하는 법을 전혀 배우지 못했다고 주장했습니다.",
       "슈마허는 스카이 스포츠 독일의 백스테이지 복스엥가세 팟캐스트에서 베르스타펜이 레드불의 기술적 측면에 깊이 관여하는 것이 메르세데스 같은 다른 팀으로 쉽게 이어지지 않을 것이라고 말했다.",
       "\"그건 매우 어려울 것 같습니다.\"라고 독일인 드라이버는 말했습니다. \"맥스는 [다른 것]에 익숙합니다... 그는 기술적으로 매우 민감해서 무슨 일이 일어나고 있는지 정확히 알고 싶어 합니다."
-     ],
-     "titleKo": "랄프 슈마허, 루이스 해밀턴의 리더십에 의문을 제기하며 막스 페르스타펜에게 경고",
-     "descKo": "전 F1 드라이버인 랄프 슈마허는 맥스 페르스타펜이 메르세데스에서 생활하는 것이 \"매우 어려울 것\"이라고 생각하며, 루이스 해밀턴이 팀을 운영하는 법을 전혀 배우지 못했다고 주장했습니다."
+     ]
     },
     {
      "title": "George Russell launches karting academy",
      "desc": "Formula 1 star George Russell has launched a karting academy in partnership with Silverstone to make motorsport more accessible and discover the next young superstar. The…",
      "link": "https://www.motorsport.com/f1/news/george-russell-launches-karting-academy/10874105/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-     "image": "https://cdn-6.motorsport.com/images/amp/YvKB3V16/s6/gr63-academy-unveil-2.jpg",
+     "image": "https://cdn-3.motorsport.com/images/amp/YvKB3V16/s6/gr63-academy-unveil-2.jpg",
      "date": "2026-11-12T12:18:46+00:00",
      "author": "",
      "id": "e9911b7d47",
+     "titleKo": "조지 러셀, 카트 아카데미 개설",
+     "descKo": "포뮬러원(F1) 스타 조지 러셀이 실버스톤과 제휴하여 카트 아카데미를 개설하고 모터스포츠를 보다 쉽게 접할 수 있도록 하며 차세대 젊은 슈퍼스타를 발굴합니다.",
      "lead": [
       "Formula 1 star George Russell has launched a karting academy in partnership with Silverstone to make motorsport more accessible and discover the next young superstar.",
       "The eight-time grand prix winner launched his GR63 Karting Academy on Thursday with it open to boys and girls aged eight to nine, based at the kart track in Silverstone.",
@@ -1908,134 +2036,6 @@
       "포뮬러원(F1) 스타 조지 러셀(George Russell)이 실버스톤(Silverstone)과 제휴하여 카트 아카데미를 개설하고 모터스포츠를 보다 쉽게 접할 수 있도록 하며 차세대 젊은 슈퍼스타를 발굴합니다.",
       "8번의 그랑프리 우승자인 그는 목요일에 실버스톤의 카트 트랙에 위치한 GR63 카팅 아카데미를 개원했습니다. 이 아카데미는 8~9세의 남녀 어린이를 대상으로 합니다.",
       "이 프로그램은 '정상을 향한 4단계 여정'을 특징으로 하며, 12월에 모든 자격을 갖춘 드라이버를 실버스톤으로 초대하는 공개 참가 형식으로 시작됩니다. 이 중 80명이 2단계에 진출하게 됩니다."
-     ],
-     "titleKo": "조지 러셀, 카트 아카데미 개설",
-     "descKo": "포뮬러원(F1) 스타 조지 러셀이 실버스톤과 제휴하여 카트 아카데미를 개설하고 모터스포츠를 보다 쉽게 접할 수 있도록 하며 차세대 젊은 슈퍼스타를 발굴합니다."
-    },
-    {
-     "title": "Ayrton Senna's 1994 Williams F1 car heads to auction with $6million estimate",
-     "desc": "A Williams FW16 driven by three-time Formula 1 champion Ayrton Senna in his final season in the series is going under the hammer in New York. RM Sotheby's is offering chassis…",
-     "link": "https://www.motorsport.com/f1/news/ayrton-sennas-1994-williams-f1-car-heads-to-auction-with-6million-estimate/10874089/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-     "image": "https://cdn-5.motorsport.com/images/amp/0kZX9ro6/s6/motorsport-com-graphics-89.jpg",
-     "date": "2026-11-12T11:43:09+00:00",
-     "author": "",
-     "id": "245fc78e3f",
-     "lead": [
-      "A Williams FW16 driven by three-time Formula 1 champion Ayrton Senna in his final season in the series is going under the hammer in New York.",
-      "RM Sotheby's is offering chassis FW16B-01 in Sotheby's 'The Now & Contemporary Evening Auction', with an estimate of $4million to $6million (£2.95million to £4.45million). It is the first time the car has been put up for public sale.",
-      "When the Brazilian driver joined Williams from McLaren in 1994, the Grove outfit agreed that he would receive one of its chassis if it won that year's constructors' championship."
-     ],
-     "leadKo": [
-      "포뮬러원 3회 챔피언인 아이르톤 세나가 마지막 시즌에 운전했던 윌리엄스 FW16이 뉴욕에서 경매에 부쳐집니다.",
-      "RM 소더비는 소더비의 '더 나우 & 컨템포러리 이브닝 옥션'에서 섀시 FW16B-01을 4백만~6백만 달러(295만~445만 파운드)의 예상가로 선보입니다. 이 차량이 공개적으로 판매되는 것은 이번이 처음입니다.",
-      "브라질 출신의 이 드라이버가 1994년 맥라렌에서 윌리엄스로 이적했을 때, 그로브 팀은 그해 컨스트럭터 챔피언십에서 우승할 경우 섀시 중 하나를 그에게 주기로 합의했습니다."
-     ],
-     "titleKo": "아이르톤 세나의 1994년 윌리엄스 F1 머신이 6백만 달러의 예상가로 경매에 출품됩니다.",
-     "descKo": "포뮬러 원 3회 챔피언인 아이르톤 세나가 시리즈 마지막 시즌에 운전했던 윌리엄스 FW16이 뉴욕에서 경매에 부쳐집니다. RM 소더비는 섀시를 제공합니다..."
-    },
-    {
-     "title": "Liam Lawson retained by Racing Bulls for 2027 alongside Arvid Lindblad",
-     "desc": "Racing Bulls has confirmed Liam Lawson will stay with the team for the 2027 Formula 1 season, partnering Arvid Lindblad for a second year. Lawson and Lindblad formed a formidable…",
-     "link": "https://www.motorsport.com/f1/news/liam-lawson-retained-by-racing-bulls-for-2027-alongside-arvid-lindblad/10874061/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-     "image": "https://cdn-6.motorsport.com/images/amp/YWKAEqxY/s6/arvid-lindblad-racing-bulls-li.jpg",
-     "date": "2026-11-12T11:05:10+00:00",
-     "author": "",
-     "id": "47dd0085cd",
-     "lead": [
-      "Racing Bulls has confirmed Liam Lawson will stay with the team for the 2027 Formula 1 season, partnering Arvid Lindblad for a second year.",
-      "Lawson and Lindblad formed a formidable duo this year as they propelled Racing Bulls to fifth in the constructors' championship, which is set to be the Anglo-Italian team's best-ever result.",
-      "But despite accounting for 89 points, twice the number rookie Lindblad managed, Lawson's future had been thrown into doubt as Racing Bulls weighed up its need for short-term performance with its explicit goal of training young drivers for its parent team Red Bull Racing."
-     ],
-     "leadKo": [
-      "레이싱 불스(Racing Bulls)가 리암 로슨이 2027년 포뮬러원 시즌에도 팀에 잔류하며 2년 연속 아르비드 린드블라드와 파트너십을 맺을 것이라고 확인했습니다.",
-      "로슨과 린드블라드는 올해 레이싱 불스를 컨스트럭터 챔피언십 5위로 이끌며 강력한 듀오를 형성했습니다. 이는 영국-이탈리아 팀 사상 최고의 성적입니다.",
-      "하지만 루키 린드블라드가 획득한 포인트의 두 배인 89포인트를 획득했음에도 불구하고, 레이싱 불스가 모팀인 레드불 레이싱을 위한 젊은 드라이버 육성이라는 명확한 목표와 단기적인 성과에 대한 필요성을 저울질하면서 로슨의 미래는 불확실해졌습니다."
-     ],
-     "titleKo": "리암 로슨, 2027년 아르비드 린드블라드와 함께 레이싱 불스에 잔류",
-     "descKo": "레이싱 불스(Racing Bulls)는 리암 로슨(Liam Lawson)이 2027년 포뮬러 원 시즌에도 팀에 남아 2년 연속 아르비드 린드블라드(Arvid Lindblad)와 함께하게 될 것이라고 확인했습니다. 로슨과 린드블라드는 강력한..."
-    },
-    {
-     "title": "George Russell launches fully-funded GR63 Karting Academy at Silverstone",
-     "desc": "Motorsport has an alarming financial barrier to entry, with seasons of junior karting frequently running deep into the six figures. Mercedes Formula 1 star George Russell is…",
-     "link": "https://www.motorsport.com/f1/news/george-russell-launches-fully-funded-gr63-karting-academy-at-silverstone/10874038/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-     "image": "https://cdn-5.motorsport.com/images/amp/2dEorgDY/s6/motorsport-com-graphics-95-2.jpg",
-     "date": "2026-11-12T10:35:02+00:00",
-     "author": "",
-     "id": "3c03ec2508",
-     "lead": [
-      "Motorsport has an alarming financial barrier to entry, with seasons of junior karting frequently running deep into the six figures. Mercedes Formula 1 star George Russell is taking direct action to change that.",
-      "Russell officially announced the launch of the GR63 Academy , a grassroots karting initiative created in partnership with Silverstone and the British Racing Drivers' Club. The programme is explicitly designed to bypass the traditional pay-to-play model of junior motorsport and provide a legitimate, fully funded ladder for talented kids.",
-      "\"Karting is where it all started for me and has played an essential role in my career,\" Russell wrote in his announcement. \"I also know how difficult it is for talented young drivers to get their first opportunity, especially when budgets are limited.\""
-     ],
-     "leadKo": [
-      "모터스포츠는 진입 장벽이 매우 높은 스포츠로, 주니어 카트 시즌 비용이 6자리 수에 달하는 경우가 많습니다. 메르세데스 포뮬러원 스타 조지 러셀이 이를 바꾸기 위해 직접적인 조치를 취하고 있습니다.",
-      "러셀은 실버스톤(Silverstone) 및 영국 레이싱 드라이버 클럽(British Racing Drivers' Club)과 협력하여 만든 아마추어 카트 레이싱 이니셔티브인 GR63 아카데미(GR63 Academy)의 출범을 공식적으로 발표했습니다. 이 프로그램은 주니어 모터스포츠의 전통적인 '돈을 내고 경주하는' 모델을 우회하고 재능 있는 어린이들에게 정당하고 전액 지원되는 사다리를 제공하기 위해 명시적으로 설계되었습니다.",
-      "러셀은 자신의 발표에서 \"카트는 저에게 모든 것이 시작된 곳이며 제 경력에서 중요한 역할을 했습니다\"라고 밝혔습니다. \"또한, 특히 예산이 제한적인 상황에서 재능 있는 젊은 드라이버들이 첫 기회를 얻는 것이 얼마나 어려운지 잘 알고 있습니다.\""
-     ],
-     "titleKo": "조지 러셀, 실버스톤에서 전액 지원 GR63 카트 아카데미 출범",
-     "descKo": "모터스포츠는 진입 장벽이 매우 높은데, 주니어 카트 시즌 비용이 종종 6자리 수에 달하는 경우가 많습니다. 메르세데스 포뮬러원 스타 조지 러셀은..."
-    },
-    {
-     "title": "Max Verstappen on Ferrari clashes: \"I would never sign two number-one drivers\"",
-     "desc": "Although Ferrari Formula 1 team principal Frederic Vasseur spoke to Lewis Hamilton and Charles Leclerc on Thursday evening in Sao Paulo to clear the air, an extraordinary amount…",
-     "link": "https://www.motorsport.com/f1/news/max-verstappen-reacts-to-ferrari-clash-i-would-never-sign-two-number-one-drivers/10873588/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-     "image": "https://cdn-6.motorsport.com/images/amp/2jEAGa90/s6/charles-leclerc-ferrari-lewis--2.jpg",
-     "date": "2026-11-12T09:05:37+00:00",
-     "author": "",
-     "id": "c9f5a133a7",
-     "lead": [
-      "Although Ferrari Formula 1 team principal Frederic Vasseur spoke to Lewis Hamilton and Charles Leclerc on Thursday evening in Sao Paulo to clear the air, an extraordinary amount had already been said and written about the Ferrari clash in Mexico.",
-      "When Max Verstappen was asked for his opinion in Brazil, the Red Bull driver indicated that he primarily sees the incident as a consequence of Ferrari’s driver line-up. With two captains on one ship, such things are bound to happen, the Dutchman told Viaplay.",
-      "\"If you simply had one clear number one and one clear number two, they would have gone through that corner in first and second, and they would have finished first and second as well. Or maybe first and third, but that's fine too. As a team, you're still scoring good points,\" Verstappen said."
-     ],
-     "leadKo": [
-      "페라리 포뮬러원 팀의 프레드릭 바세르(Frederic Vasseur) 대표가 목요일 저녁 상파울루에서 루이스 해밀턴과 샤를 르클레르에게 상황을 설명하기 위해 이야기를 나눴지만, 멕시코에서 발생한 페라리 충돌 사건에 대해 이미 많은 이야기가 오가고 기사가 쏟아졌습니다.",
-      "브라질에서 맥스 페르스타펜에게 의견을 묻자, 레드불 드라이버는 이 사건을 주로 페라리의 드라이버 라인업의 결과로 본다고 밝혔습니다. 한 배에 선장이 두 명이면 이런 일이 일어나기 마련이라고 네덜란드 선수는 Viaplay에 말했습니다.",
-      "\"만약 명확한 1위와 2위가 있었다면, 그들은 그 코너를 1위와 2위로 통과했을 것이고, 1위와 2위로 경주를 마쳤을 것입니다. 아니면 1위와 3위일 수도 있지만, 그것도 괜찮습니다. 팀으로서 여전히 좋은 점수를 얻고 있습니다.\"라고 베르스타펜은 말했습니다."
-     ],
-     "titleKo": "페라리 충돌에 대한 막스 페르스타펜의 의견: \"나는 결코 두 명의 1번 드라이버를 영입하지 않을 것이다\"",
-     "descKo": "페라리 포뮬러원 팀의 프레데릭 바수르(Frederic Vasseur) 대표가 목요일 저녁 상파울루에서 루이스 해밀턴과 샤를 르클레르와 대화를 나누며 분위기를 풀어보려 했지만, 엄청난 양의..."
-    },
-    {
-     "title": "Final Mercedes-Benz SLR McLaren Stirling Moss heads to auction for over $6million",
-     "desc": "The final Mercedes-Benz SLR McLaren Stirling Moss to leave the factory is back on the market, with RM Sotheby's valuing the roofless speedster at more than $6million…",
-     "link": "https://www.motorsport.com/f1/news/final-mercedes-benz-slr-mclaren-stirling-moss-heads-to-auction-for-over-6million/10873978/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-     "image": "https://cdn-5.motorsport.com/images/amp/YBVjRG7Y/s6/motorsport-com-graphics-88.jpg",
-     "date": "2026-11-12T00:31:56+00:00",
-     "author": "",
-     "id": "caa19a3fec",
-     "titleKo": "마지막 메르세데스-벤츠 SLR 맥라렌 스털링 모스가 6백만 달러 이상에 경매에 부쳐집니다.",
-     "descKo": "공장을 떠난 마지막 메르세데스-벤츠 SLR 맥라렌 스털링 모스가 RM 소더비 경매에 다시 등장했으며, 지붕이 없는 이 스피드스터의 가치는 6백만 달러 이상으로 평가됩니다.",
-     "lead": [
-      "The final Mercedes-Benz SLR McLaren Stirling Moss to leave the factory is back on the market, with RM Sotheby's valuing the roofless speedster at more than $6million (£4.5million).",
-      "The car, chassis number 75, is in the auction house's online Sealed December sale, with bidding open from 25 November until 2 December.",
-      "Mercedes and McLaren built 75 Stirling Moss models from June 2009 until the end of December 2009 as the final version of the SLR. It has no roof, windscreen or side windows, and its 650-horsepower supercharged V8 gives a top speed of 350km/h. It was priced at €750,000 at the time and was only offered to existing SLR owners."
-     ],
-     "leadKo": [
-      "공장을 떠난 마지막 메르세데스-벤츠 SLR 맥라렌 스털링 모스가 다시 시장에 나왔으며, RM 소더비는 이 루프리스 스피드스터의 가치를 6백만 달러(450만 파운드) 이상으로 평가했습니다.",
-      "섀시 번호 75번인 이 차량은 경매 회사의 12월 온라인 밀봉 경매에 출품되며, 입찰은 11월 25일부터 12월 2일까지 진행됩니다.",
-      "메르세데스와 맥라렌은 2009년 6월부터 2009년 12월 말까지 SLR의 최종 버전으로 스털링 모스 모델 75대를 생산했습니다. 이 모델은 지붕, 앞유리, 측면 창문이 없으며, 650마력의 슈퍼차저 V8 엔진을 탑재해 최고 속도 350km/h를 자랑합니다. 당시 가격은 75만 유로였으며 기존 SLR 소유자에게만 제공되었습니다."
-     ]
-    },
-    {
-     "title": "George Russell credits Toto Wolff's loyalty for Mercedes' F1 title return: \"Nobody was hired or fired\"",
-     "desc": "George Russell says Toto Wolff's refusal to change Mercedes during the difficult years of the ground effect era is a big reason the team is back on top of Formula 1. The Brackley…",
-     "link": "https://www.motorsport.com/f1/news/george-russell-credits-toto-wolffs-loyalty-for-mercedes-f1-title-return-nobody-was-hired-or-fired/10873975/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-     "image": "https://cdn-3.motorsport.com/images/amp/68VwM3B2/s6/motorsport-com-graphics-94.jpg",
-     "date": "2026-11-12T00:01:07+00:00",
-     "author": "",
-     "id": "44db60def3",
-     "titleKo": "조지 러셀, 메르세데스의 F1 타이틀 탈환에 토토 볼프의 충성심을 높이 평가: \"아무도 고용되거나 해고되지 않았다\"",
-     "descKo": "조지 러셀은 토토 볼프가 그라운드 이펙트 시대의 어려운 시기에 메르세데스를 바꾸지 않은 것이 팀이 포뮬러원 정상에 다시 오른 큰 이유라고 말합니다. 브래클리…",
-     "lead": [
-      "George Russell says Toto Wolff's refusal to change Mercedes during the difficult years of the ground effect era is a big reason the team is back on top of Formula 1.",
-      "The Brackley outfit sealed its ninth constructors' title at the Sao Paulo Grand Prix on Sunday, its first since the end of its run of eight in a row in 2021. From 2022 to 2025, it went four seasons with little success as it struggled to overcome the challenges of the ground effect cars.",
-      "Speaking to media, Russell said the team had remained trusting in its people despite teh sudden drop in performance."
-     ],
-     "leadKo": [
-      "조지 러셀은 토토 볼프가 그라운드 이펙트 시대의 어려운 시기에 메르세데스를 바꾸지 않은 것이 팀이 포뮬러원 정상에 다시 오른 큰 이유라고 말합니다.",
-      "브래클리 팀은 일요일에 열린 상파울루 그랑프리에서 9번째 컨스트럭터 타이틀을 차지했습니다. 이는 2021년에 8연패를 달성한 이후 처음으로 거둔 성과입니다. 2022년부터 2025년까지 4시즌 동안 그라운드 이펙트 머신의 어려움을 극복하는 데 어려움을 겪으며 성과가 저조했습니다.",
-      "러셀은 언론과의 인터뷰에서, 성적이 갑자기 하락했음에도 불구하고 팀이 선수들을 신뢰하고 있다고 말했습니다."
      ]
     }
    ]
@@ -2045,6 +2045,69 @@
    "sourceUrl": "https://the-race.com/category/formula-1/feed/",
    "items": [
     {
+     "title": "Hearing set for Audi appeal against rival",
+     "desc": "The FIA has announced the hearing date for Audi’s appeal against Yuki Tsunoda not getting a penalty at Formula 1’s Italian Grand Prix",
+     "link": "https://www.the-race.com/formula-1/audi-appeal-f1-italian-gp-yuki-tsunoda/",
+     "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1434343_HiRes.jpg",
+     "date": "2026-11-12T16:30:27+00:00",
+     "author": "Jon Noble",
+     "id": "a5469d81ec",
+     "lead": [
+      "The FIA has announced that Audi’s appeal against Yuki Tsunoda not getting a penalty at Formula 1’s Italian Grand Prix will be heard on November 25.",
+      "Audi complained after the Monza race for what it felt was an incorrect application of the rules against Tsunoda for an alleged grid infringement at the restart.",
+      "Tsunoda had been due to line up 14th but, after mistakenly initially heading towards the 15th-place grid slot, he veered at the last-minute to the right-hand side."
+     ],
+     "leadKo": [
+      "FIA는 아우디가 포뮬러원 이탈리아 그랑프리에서 유키 츠노다에게 페널티가 부과되지 않은 것에 대해 제기한 이의신청을 11월 25일에 심리할 것이라고 발표했습니다.",
+      "아우디는 츠노다가 재시작 시 그리드 위반 혐의로 규정을 잘못 적용했다고 판단하여 몬자 레이스 이후 이의를 제기했습니다.",
+      "츠노다는 14번째 그리드에 서야 했지만, 처음에 실수로 15번째 그리드 슬롯을 향해 나아간 후 막바지에 오른쪽으로 방향을 틀었습니다."
+     ],
+     "titleKo": "경쟁사에 대한 아우디의 항소 청문회 개최 예정",
+     "descKo": "FIA가 이탈리아 그랑프리에서 유키 츠노다에게 페널티가 부과되지 않은 것에 대한 아우디의 항소 심리 날짜를 발표했습니다."
+    },
+    {
+     "title": "Tsolov gets twin F1 2027 reserve role to prepare him for race seat",
+     "desc": "Red Bull has named Nikola Tsolov the official reserve driver of both of its Formula 1 teams in 2027",
+     "link": "https://www.the-race.com/formula-1/tsolov-gets-twin-f1-2027-reserve-role-to-prepare-him-for-race-seat/",
+     "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/SI202610300433_hires_jpeg_24bit_rgb.jpg",
+     "date": "2026-11-12T15:21:26+00:00",
+     "author": "Josh Suttill",
+     "id": "ff44410b4d",
+     "lead": [
+      "Red Bull has named Nikola Tsolov the official reserve driver of both of its Formula 1 teams in 2027 with a programme “designed to ensure he is fully prepared to race in F1 at the highest level”.",
+      "Tsolov missed out on a 2027 Racing Bulls seat as Liam Lawson and Arvid Lindblad were both handed extensions into next year.",
+      "But Red Bull has made clear Tsolov is still very much the next driver in line for an F1 seat, confirming on the same day Lawson and Lindblad were confirmed for 2027 that Tsolov would be made reserve."
+     ],
+     "leadKo": [
+      "레드불은 2027년 포뮬러원(F1) 팀 두 곳의 공식 리저브 드라이버로 니콜라 졸로프를 지명했으며, \"그가 최고 수준의 F1 레이스에 출전할 준비를 완벽히 갖출 수 있도록 마련된\" 프로그램을 진행하고 있습니다.",
+      "촐로프는 리암 로슨과 아르비드 린드블라드가 모두 내년까지 계약을 연장하면서 2027년 레이싱 불스 시트를 놓쳤습니다.",
+      "하지만 레드불은 졸로프가 여전히 F1 드라이버 자리를 노리는 차기 주자임을 분명히 했습니다. 로슨과 린드블라드가 2027년 드라이버로 확정된 같은 날, 졸로프가 리저브 드라이버로 임명될 것이라고 확인했습니다."
+     ],
+     "titleKo": "촐로프, 레이스 시트를 위한 준비를 위해 F1 2027 리저브 드라이버 역할 겸임",
+     "descKo": "레드불이 2027년 포뮬러원(F1) 팀 두 곳의 공식 리저브 드라이버로 니콜라 졸로프를 지명했습니다."
+    },
+    {
+     "title": "Our verdict on Lawson earning a 2027 F1 extension",
+     "desc": "Liam Lawson has secured another year with Racing Bulls - but is it the right move?",
+     "link": "https://www.the-race.com/formula-1/liam-lawson-2027-f1-extension-our-verdict/",
+     "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/Spacesuit-CE-F1-BGP-06-11-26-0862.jpg",
+     "date": "2026-11-12T13:04:00+00:00",
+     "author": "Jon Noble",
+     "id": "4472d48971",
+     "lead": [
+      "Liam Lawson and Arvid Lindblad will continue to race for Racing Bulls in 2027, with Red Bull electing against what would have been a huge Formula 1 driver sacking.",
+      "Here's what our team makes of the move to keep Lawson and Lindblad and not promote Formula 2 title contender Nikola Tsolov into a race seat.",
+      "Very few driver decisions have felt as right as Lawson getting a fresh contract with Racing Bulls."
+     ],
+     "leadKo": [
+      "리암 로슨과 아르비드 린드블라드는 2027년에도 레이싱 불스 소속으로 레이스를 계속할 예정이며, 레드불은 대규모 포뮬러원 드라이버 해고를 하지 않기로 결정했습니다.",
+      "로슨과 린드블라드를 유지하고 포뮬러 2 타이틀 경쟁자인 니콜라 졸로프를 레이스 시트로 승격시키지 않는 결정에 대해 우리 팀이 생각하는 바는 다음과 같습니다.",
+      "로슨이 레이싱 불스와 새로운 계약을 체결한 것만큼 올바른 결정으로 느껴지는 드라이버의 결정은 거의 없습니다."
+     ],
+     "titleKo": "로슨이 2027년 F1 계약 연장을 이끌어낸 데 대한 우리의 평가",
+     "descKo": "리암 로슨이 레이싱 불스와 1년 더 계약을 체결했습니다. 하지만 과연 옳은 선택일까요?"
+    },
+    {
      "title": "Red Bull's Lawson decision is a clean break from its Marko era",
      "desc": "Liam Lawson's Racing Bulls seat was in genuine jeopardy - but he made himself undroppable",
      "link": "https://www.the-race.com/formula-1/why-red-bull-avoided-an-unprecedented-driver-sacking/",
@@ -2052,6 +2115,8 @@
      "date": "2026-11-12T11:28:52+00:00",
      "author": "Edd Straw",
      "id": "a7c7bddf2b",
+     "titleKo": "레드불의 로슨 영입 결정은 마르코 시대와의 완전한 단절을 의미합니다.",
+     "descKo": "리암 로슨의 레이싱 불스 시트는 정말 위험한 상황이었지만, 그는 자신을 대체할 수 없는 존재로 만들었습니다.",
      "lead": [
       "Racing Bulls has extended Liam Lawson’s Formula 1 contract into the 2027 season - and Lawson can thank his recent performances for convincing Red Bull to avoid an unprecedented driver sacking.",
       "Lawson’s seat in Red Bull’s second team has been at very real risk in recent rounds, with Formula 2 race winner Nikola Tsolov waiting in the wings and Red Bull needing to decide which two of Lawson, Tsolov and Arvid Lindblad race for Racing Bulls next year.",
@@ -2061,18 +2126,18 @@
       "레이싱 불스가 리암 로슨의 포뮬러원 계약을 2027년 시즌까지 연장했습니다. 로슨은 최근 활약 덕분에 레드불이 전례 없는 드라이버 해고를 피하도록 설득할 수 있었습니다.",
       "레드불의 세컨드 팀에서 로슨의 자리는 최근 몇 차례의 라운드에서 매우 위태로운 상황에 놓여 있었습니다. 포뮬러 2 레이스 우승자인 니콜라 졸로프가 대기 중이며, 레드불은 내년에 레이싱 불스에서 로슨, 졸로프, 아르비드 린드블라드 중 두 명이 레이스를 펼칠지를 결정해야 합니다.",
       "하지만 로슨이 자리를 잃었다면 - 2027년에 레이스에 참가할 수 있는 다른 팀이 없었기 때문에 - 전례 없는 일이 되었을 것입니다."
-     ],
-     "titleKo": "레드불의 로슨 영입 결정은 마르코 시대와의 완전한 단절을 의미합니다.",
-     "descKo": "리암 로슨의 레이싱 불스 시트는 정말 위험한 상황이었지만, 그는 자신을 대체할 수 없는 존재로 만들었습니다."
+     ]
     },
     {
-     "title": "Racing Bulls commits to Lawson and Lindblad as 2027 F1 line-up",
+     "title": "Racing Bulls officially keeps Lawson for 2027",
      "desc": "Liam Lawson will remain at Racing Bulls next season after the squad announced an unchanged Formula 1 line-up for 2027",
      "link": "https://www.the-race.com/formula-1/racing-bulls-commits-to-lawson-and-lindblad-as-2027-f1-line-up/",
      "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1453177_HiRes.jpg",
      "date": "2026-11-12T11:22:23+00:00",
      "author": "Jon Noble",
      "id": "936cec21fb",
+     "titleKo": "레이싱 불스, 2027년 F1 드라이버 라인업으로 로슨과 린드블라드 확정",
+     "descKo": "레이싱 불스가 2027년 포뮬러원 드라이버 라인업에 변화가 없다고 발표한 후, 리암 로슨은 다음 시즌에도 레이싱 불스에 남게 됩니다.",
      "lead": [
       "Liam Lawson will remain at Racing Bulls next season after the squad announced an unchanged Formula 1 line-up for 2027.",
       "The New Zealander’s future had been uncertain for many weeks, with the Red Bull-owned outfit pondering whether to keep him on alongside Arvid Lindblad or promote its junior driver Nikola Tsolov.",
@@ -2082,9 +2147,7 @@
       "레이싱 불스 팀이 2027년 포뮬러원 드라이버 라인업에 변화가 없다고 발표한 후, 리암 로슨은 다음 시즌에도 레이싱 불스에 남게 됩니다.",
       "뉴질랜드 출신인 그의 미래는 몇 주 동안 불확실했습니다. 레드불이 소유한 팀은 그를 아르비드 린드블라드와 함께 계속 기용할지 아니면 주니어 드라이버인 니콜라 졸로프를 승격시킬지 고민하고 있었습니다.",
       "그러나 이번 주 초에 보도된 바와 같이, 로슨이 최근 멕시코와 브라질에서 보여준 뛰어난 성과는 그를 새로운 계약을 향한 길로 이끌었고, 레이싱 불스에게 그가 최고의 후보라는 확신을 심어준 것으로 알려졌습니다."
-     ],
-     "titleKo": "레이싱 불스, 2027년 F1 드라이버 라인업으로 로슨과 린드블라드 확정",
-     "descKo": "레이싱 불스가 2027년 포뮬러원 드라이버 라인업에 변화가 없다고 발표한 후, 리암 로슨은 다음 시즌에도 레이싱 불스에 남게 됩니다."
+     ]
     },
     {
      "title": "Russell launches fully-funded new karting academy",
@@ -2094,6 +2157,8 @@
      "date": "2026-11-12T09:35:42+00:00",
      "author": "Fleur Mealing",
      "id": "1a3b911b2f",
+     "titleKo": "러셀, 전액 지원 신규 카트 아카데미 개설",
+     "descKo": "메르세데스 드라이버, 젊은 인재를 발굴하기 위한 GR63 카팅 아카데미 출범",
      "lead": [
       "Mercedes Formula 1 driver George Russell has launched a new karting academy at Silverstone aimed at developing the next generation of motorsport talent, with 25 young drivers set to receive a fully funded championship opportunity in 2027.",
       "The GR63 Karting Academy will be open to boys and girls aged eight and nine, with Russell hoping to provide a route into motorsport for talented youngsters who might otherwise be held back by the financial demands of the sport.",
@@ -2103,9 +2168,7 @@
       "메르세데스 포뮬러원 드라이버 조지 러셀이 차세대 모터스포츠 인재를 육성하기 위한 새로운 카트 아카데미를 실버스톤에 개설했습니다. 25명의 젊은 드라이버가 2027년 챔피언십에 전액 지원을 받아 참가할 예정입니다.",
       "GR63 카팅 아카데미는 8세 및 9세 남아 및 여아에게 열려 있으며, 러셀은 스포츠의 재정적 요구로 인해 어려움을 겪을 수 있는 재능 있는 청소년들에게 모터스포츠 진출 경로를 제공하고자 합니다.",
       "실버스톤 카트 서킷을 기반으로 하는 이 이니셔티브는 2026년 12월에 열리는 공개 예선전을 시작으로 4단계에 걸쳐 진행됩니다."
-     ],
-     "titleKo": "러셀, 전액 지원 신규 카트 아카데미 개설",
-     "descKo": "메르세데스 드라이버, 젊은 인재를 발굴하기 위한 GR63 카팅 아카데미 출범"
+     ]
     },
     {
      "title": "Why Mercedes cannot dominate F1's new era",
@@ -2115,6 +2178,8 @@
      "date": "2026-11-12T09:19:02+00:00",
      "author": "Jon Noble",
      "id": "406cd73d74",
+     "titleKo": "메르세데스가 F1의 새로운 시대를 지배할 수 없는 이유",
+     "descKo": "F1 규정 주기의 시작은 일반적으로 이후의 상황에 대한 단서를 제공합니다. 메르세데스가 이러한 타이틀을 쉽게 차지했지만, 이번에는 그렇지 않을 것으로 예상됩니다.",
      "lead": [
       "They say history doesn't repeat itself, but it often rhymes. And that applies to Formula 1 as well.",
       "The start of new-rules eras have often been hugely indicative of what is to come, as the trends of the inaugural season lay down the story of future years.",
@@ -2124,9 +2189,7 @@
       "역사는 반복되지 않지만 종종 유사한 패턴을 보인다고 합니다. 그리고 이는 포뮬러원에도 마찬가지로 적용됩니다.",
       "새로운 규정이 도입되는 시기의 시작은 종종 앞으로 다가올 일에 대해 매우 잘 보여줍니다. 개막 시즌의 트렌드가 향후 몇 년간의 이야기를 만들어내기 때문입니다.",
       "가장 최근의 주요 규칙 변경 시기의 첫 몇 년을 비교해 보면, 각 시즌의 전반기와 후반기를 비교했을 때 다음 시즌에 어떤 일이 일어날지 짐작할 수 있습니다."
-     ],
-     "titleKo": "메르세데스가 F1의 새로운 시대를 지배할 수 없는 이유",
-     "descKo": "F1 규정 주기의 시작은 일반적으로 이후의 상황에 대한 단서를 제공합니다. 메르세데스가 이러한 타이틀을 쉽게 차지했지만, 이번에는 그렇지 않을 것으로 예상됩니다."
+     ]
     },
     {
      "title": "Hamilton loses 'most marketable athlete' status in 2026",
@@ -2168,69 +2231,6 @@
       "Honda의 걱정스러운 신뢰성 문제 복귀에는 Formula 1 시즌이 끝나기 전에는 근본 원인을 추적할 수 없는 새로운 문제가 포함되어 있습니다.",
       "Aston Martin과 엔진 파트너인 Honda는 Lance Stroll이 두 번째 레이스에서 연속으로 은퇴하면서 브라질에서 세 번째 트리플 헤더 DNF를 겪었습니다.",
       "Stroll은 브라질 주말 동안 두 가지 별도의 배터리 문제를 겪었고 일요일 그랑프리에서는 중간 거리에 도달하지 못했습니다."
-     ]
-    },
-    {
-     "title": "F1's divisive wet weather tyres to change in 2027 - what needs solving",
-     "desc": "The wet weather tyres that have divided F1 driver opinion will change for 2027 - here's what we know",
-     "link": "https://www.the-race.com/formula-1/f1-divisive-wet-weather-tyres-to-change-in-2027-what-we-know/",
-     "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/Spacesuit-CE-F1-BGP-07-11-26-9011.jpg",
-     "date": "2026-11-11T07:41:56+00:00",
-     "author": "Jon Noble",
-     "id": "992cbe1140",
-     "titleKo": "2027년에 바뀔 F1의 분열적인 습한 날씨 타이어 - 해결이 필요한 것",
-     "descKo": "F1 드라이버들의 의견이 분분했던 습한 날씨 타이어는 2027년에 바뀔 것이다 - 우리가 알고 있는 것은 이렇다",
-     "lead": [
-      "Formula 1 tyre supplier Pirelli is close to finalising new specification wet-weather tyres for next season that already address concerns drivers voiced last weekend.",
-      "F1 had its first proper wet weekend of the year at Interlagos, with both qualifying and the race impacted by the rain.",
-      "Saturday’s running took place in conditions that were so extreme that the wet tyre, which has rarely been used in recent years, became the preferred choice for the conditions."
-     ],
-     "leadKo": [
-      "포뮬러 1 타이어 공급업체인 피렐리(Pirelli)는 지난 주말 운전자들이 제기한 우려를 이미 해결한 다음 시즌을 위한 새로운 사양의 습한 날씨 타이어를 마무리하는 데 가까워졌습니다.",
-      "F1은 Interlagos에서 올해의 첫 번째 비가 오는 주말을 보냈습니다. 예선과 레이스 모두 비의 영향을 받았습니다.",
-      "토요일의 러닝은 최근 몇 년간 거의 사용하지 않았던 젖은 타이어가 선호될 정도로 가혹한 조건에서 진행됐다."
-     ]
-    },
-    {
-     "title": "Liberty Media founder sells voting power of F1's parent company",
-     "desc": "Liberty Media founder and ex-chairman John Malone has sold his significant voting power in F1's parent company",
-     "link": "https://www.the-race.com/business/liberty-media-founder-john-malone-sells-voting-power-f1-parent-company/",
-     "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1453856_HiRes.jpg",
-     "date": "2026-11-10T17:09:30+00:00",
-     "author": "Samarth Kanal",
-     "id": "20d9128275",
-     "titleKo": "Liberty Media 창립자는 F1의 모회사의 투표권을 판매합니다",
-     "descKo": "Liberty Media 창립자 겸 전 회장 John Malone은 F1의 모회사에서 중요한 투표권을 매각했습니다.",
-     "lead": [
-      "Liberty Media founder and ex-chairman John Malone has sold his significant voting power in Formula 1's parent company.",
-      "Malone founded Liberty Media in 1991 and stepped down as chairman of the board in 2026, nine years after Liberty Media acquired F1 for $4.6billion USD (£3.4bn).",
-      "Malone was the most significant voting shareholder of Liberty Media until early November 2026 when Liberty Media announced that it had purchased Malone's 'high-vote' stock and exchanged it for 'low-vote' stock, essentially diluting Malone's voting power from around 48% to 3%."
-     ],
-     "leadKo": [
-      "리버티 미디어의 설립자이자 전 회장인 존 말론 (John Malone) 은 포뮬러 1의 모회사에서 중요한 투표권을 매각했습니다.",
-      "Malone은 1991년 Liberty Media를 설립하고 Liberty Media가 F1을 46억 달러 (34억 파운드) 에 인수한 후 9년 후인 2026년 이사회 의장으로 물러났습니다.",
-      "말론은 2026년 11월 초까지 리버티 미디어의 가장 중요한 의결권 주주였다. 리버티 미디어는 말론의 '고투표' 주식을 매입하여 '저투표' 주식으로 교환하여 말론의 의결권을 약 48% 에서 3% 로 희석시켰다고 발표했다."
-     ]
-    },
-    {
-     "title": "Imola stood down - what it means for F1's 2026 and '27 calendars",
-     "desc": "Imola has been formally stood down as a fall-back option for Formula 1's 2026 season finale",
-     "link": "https://www.the-race.com/formula-1/f1-stands-imola-down-what-it-means-for-2026-and-27-calendars/",
-     "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/testpirelliimola-charleslecler5.webp",
-     "date": "2026-11-10T14:22:02+00:00",
-     "author": "Jon Noble",
-     "id": "53867ac4d1",
-     "titleKo": "F1은 Imola를 아래로 향하게 합니다 - 2026년과 '27년 달력의 의미",
-     "descKo": "Imola는 공식적으로 포뮬러 1의 2026년 시즌 피날레를 위한 후퇴 옵션으로 물러났습니다.",
-     "lead": [
-      "Imola has been formally stood down as a fall-back option for Formula 1's 2026 season finale, with the championship set to finish as originally planned in Qatar and Abu Dhabi.",
-      "Amid the ongoing tensions triggered by the US/Israel-Iran war, F1 has faced a headache with its race scheduling.",
-      "Safety concerns in the Middle East prompted April's races in Bahrain and Saudi Arabia to be called off."
-     ],
-     "leadKo": [
-      "이몰라는 공식적으로 포뮬러 1의 2026년 시즌 피날레의 폴백 옵션으로 물러났으며, 카타르와 아부다비에서 원래 계획대로 챔피언십이 마무리될 예정입니다.",
-      "미국/이스라엘-이란 전쟁으로 촉발된 긴장이 계속되는 가운데, F1은 레이스 일정으로 인해 골머리를 앓고 있습니다.",
-      "중동의 안전 문제로 인해 바레인과 사우디아라비아의 에이프릴 레이스가 철회되었다."
      ]
     }
    ]
@@ -2435,6 +2435,18 @@
    "sourceUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCB_qr75-ydFVKSF9Dmo6izg",
    "items": [
     {
+     "title": "Unheard Radio: Exclusive Radio From Lewis Hamilton's First Win For Ferrari",
+     "desc": "Take a look back at all the unheard strategy calls from the pit wall at the Barcelona Grand Prix, as Lewis Hamilton secured his first victory in red for Scuderia Ferrari.",
+     "link": "https://www.youtube.com/watch?v=0MhcEdcMFfE",
+     "image": "https://i.ytimg.com/vi/0MhcEdcMFfE/hqdefault.jpg",
+     "date": "2026-11-12T16:00:12+00:00",
+     "author": "FORMULA 1",
+     "videoId": "0MhcEdcMFfE",
+     "id": "b84a7fa549",
+     "titleKo": "Unheard Radio: 루이스 해밀턴의 페라리 첫 우승 당시 독점 라디오",
+     "descKo": ""
+    },
+    {
      "title": "Wet Track, Slick Tyres, INSANE Control From Colapinto 👏",
      "desc": "Franco raced his team mate to the pits to lead an Alpine double-stack as the rain fell in Sao Paulo.",
      "link": "https://www.youtube.com/watch?v=lDMmPqnV_iA",
@@ -2528,18 +2540,6 @@
      "videoId": "ABXqt0N_70s",
      "id": "08ebcbfecb",
      "titleKo": "9회 월드 챔피언 팀 보스 🤩",
-     "descKo": ""
-    },
-    {
-     "title": "Top 10 Onboards | 2026 Sao Paulo Grand Prix | Qatar Airways",
-     "desc": "With wet weather causing challenging conditions for the drivers all weekend, take a look back at all the action from Brazil, onboard with the grid.",
-     "link": "https://www.youtube.com/watch?v=_09gPxeE_gc",
-     "image": "https://i.ytimg.com/vi/_09gPxeE_gc/hqdefault.jpg",
-     "date": "2026-11-10T11:30:09+00:00",
-     "author": "FORMULA 1",
-     "videoId": "_09gPxeE_gc",
-     "id": "29518a9361",
-     "titleKo": "탑 10 기내 | 2026 상파울루 그랑프리 | 카타르 항공",
      "descKo": ""
     }
    ]
