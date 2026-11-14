@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T23:39:32+00:00",
+ "updated": "2026-11-14T06:39:07+00:00",
  "failed": [
   "video"
  ],
@@ -214,10 +214,10 @@
      "historyUrl": "https://en.wikipedia.org/wiki/2026_Mexico_City_Grand_Prix?action=history",
      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Aut%C3%B3dromo_Hermanos_Rodr%C3%ADguez_2015.svg/1280px-Aut%C3%B3dromo_Hermanos_Rodr%C3%ADguez_2015.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "imageFile": "Autódromo_Hermanos_Rodríguez_2015.svg",
-     "date": "2026-11-11T05:54:00Z",
+     "date": "2026-11-14T00:11:32Z",
      "raceDate": "2026-11-01",
      "author": "위키백과 편집자들",
-     "revid": 1384983685,
+     "revid": 1385569145,
      "license": "CC BY-SA 4.0",
      "body": [
       {
@@ -284,7 +284,7 @@
         "Freddie Slater for Audi in place of Gabriel Bortoleto.",
         "Colton Herta for Cadillac in place of Valtteri Bottas.",
         "Nikola Tsolov for Racing Bulls in place of Liam Lawson.",
-        "Minì, Slater and Tsolov made their Formula One practice debuts.",
+        "Minì, Slater and Tsolov made their Formula One practice debuts. Tsolov became the first driver from Bulgaria to participate in a Formula One weekend.",
         "The Grand Prix marked Sergio Pérez's (Cadillac) 300th start."
        ],
        "hKo": "출전 명단",
@@ -301,7 +301,7 @@
         "Gabriel Bortoleto를 대신하여 Audi의 Freddie Slater가 탄생했습니다.",
         "Valtteri Bottas 대신 Cadillac의 Colton Herta가 탄생했습니다.",
         "Liam Lawson을 대신하여 Racing Bulls의 Nikola Tsolov.",
-        "Minì, Slater 및 Tsolov는 Formula One 연습 데뷔를 했습니다.",
+        "미니, 슬레이터, 촐로프가 포뮬러원 연습 주행에 데뷔했습니다. 촐로프는 포뮬러 원 주말 경주에 참가한 최초의 불가리아인 드라이버가 되었습니다.",
         "그랑프리는 세르지오 페레즈(캐딜락)의 300번째 출발을 기록했다."
        ]
       },
@@ -1855,10 +1855,12 @@
      "title": "James Allison reveals the \"very adventurous\" trick behind Kimi Antonelli's F1 title",
      "desc": "Mercedes technical director James Allison has explained how Kimi Antonelli's bold use of the tools on his steering wheel helped him become Formula 1's youngest world champion. The…",
      "link": "https://www.motorsport.com/f1/news/james-allison-reveals-the-very-adventurous-trick-behind-kimi-antonellis-f1-title/10874402/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-     "image": "https://cdn-3.motorsport.com/images/amp/0R7BEmE2/s6/motorsport-com-graphics-2026-1.jpg",
+     "image": "https://cdn-5.motorsport.com/images/amp/0R7BEmE2/s6/motorsport-com-graphics-2026-1.jpg",
      "date": "2026-11-13T21:56:05+00:00",
      "author": "",
      "id": "35d9b31cd0",
+     "titleKo": "제임스 앨리슨, 키미 안토넬리의 F1 타이틀 획득 뒤에 숨겨진 '매우 모험적인' 비결을 공개하다",
+     "descKo": "메르세데스의 기술 책임자인 제임스 앨리슨이 키미 안토넬리가 스티어링 휠의 도구를 대담하게 사용한 것이 어떻게 포뮬러원(F1) 최연소 월드 챔피언이 되는 데 도움이 되었는지 설명했습니다.",
      "lead": [
       "Mercedes technical director James Allison has explained how Kimi Antonelli's bold use of the tools on his steering wheel helped him become Formula 1's youngest world champion.",
       "The Italian driver secured the 2026 title at the Mexican Grand Prix at the age of 20, in only his second season in F1, and has won nine grands prix so far this year.",
@@ -1868,9 +1870,7 @@
       "메르세데스의 제임스 앨리슨 기술 책임자는 키미 안토넬리가 스티어링 휠의 도구를 대담하게 사용한 것이 포뮬러원(F1) 최연소 월드 챔피언이 되는 데 어떻게 도움이 되었는지 설명했습니다.",
       "이탈리아 출신의 이 드라이버는 F1 데뷔 2년 차인 2026년 멕시코 그랑프리에서 만 20세의 나이로 챔피언 타이틀을 차지했으며, 올해 들어서만 9번의 그랑프리 우승을 거뒀습니다.",
       "NU 실버 애로우 라디오 쇼에서 앨리슨은 안토넬리가 코너를 돌 때 차량의 앞뒤로 제동력이 분배되는 방식과 차동 장치를 조절하는 제동력 이동을 사용하는 방식이 \"매우, 매우 민첩하다\"고 말했습니다."
-     ],
-     "titleKo": "제임스 앨리슨, 키미 안토넬리의 F1 타이틀 획득 뒤에 숨겨진 '매우 모험적인' 비결을 공개하다",
-     "descKo": "메르세데스의 기술 책임자인 제임스 앨리슨이 키미 안토넬리가 스티어링 휠의 도구를 대담하게 사용한 것이 어떻게 포뮬러원(F1) 최연소 월드 챔피언이 되는 데 도움이 되었는지 설명했습니다."
+     ]
     },
     {
      "title": "Guenther Steiner suggests Mark Webber became too involved in Oscar Piastri’s career",
@@ -1897,7 +1897,7 @@
      "title": "“I was getting beat up” – How Daniel Ricciardo burned out on ‘humiliating’ F1 return",
      "desc": "As Daniel Ricciardo joined the Beyond The Grid podcast last month, he sounded more grounded, almost wiser. Two years away from Formula 1’s limelight have provided the Australian…",
      "link": "https://www.motorsport.com/f1/news/i-was-getting-beat-up-how-daniel-ricciardo-burned-out-on-humiliating-f1-return/10874248/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-     "image": "https://cdn-8.motorsport.com/images/amp/27vEn7m0/s6/daniel-ricciardo-rb-f1-team.jpg",
+     "image": "https://cdn-9.motorsport.com/images/amp/27vEn7m0/s6/daniel-ricciardo-rb-f1-team.jpg",
      "date": "2026-11-13T17:06:56+00:00",
      "author": "",
      "id": "0671b80596",
@@ -1918,7 +1918,7 @@
      "title": "Damon Hill: Ferrari has a “political problem” as Lewis Hamilton “rebuilt himself”",
      "desc": "Ferrari team principal Fred Vasseur recently insisted that Lewis Hamilton and Charles Leclerc \"left my room joking together\" following a private meeting in Brazil to clear the…",
      "link": "https://www.motorsport.com/f1/news/damon-hill-ferrari-has-a-political-problem-as-lewis-hamilton-rebuilt-himself-after-abu-dhabi-202/10874278/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-     "image": "https://cdn-2.motorsport.com/images/amp/YBVjRDMY/s6/motorsport-com-graphics-2026-1-2.jpg",
+     "image": "https://cdn-3.motorsport.com/images/amp/YBVjRDMY/s6/motorsport-com-graphics-2026-1-2.jpg",
      "date": "2026-11-13T16:25:05+00:00",
      "author": "",
      "id": "0e1792a05a",
@@ -1939,7 +1939,7 @@
      "title": "Las Vegas GP reveals neon sign-inspired trophy design",
      "desc": "The Las Vegas Grand Prix has unveiled a new trophy design for next weekend’s Formula 1 round, inspired by the city and its neon lights. The 3.6kg, 56cm-tall winners’ trophy took…",
      "link": "https://www.motorsport.com/f1/news/las-vegas-gp-reveals-neon-sign-inspired-trophy-design/10874361/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-     "image": "https://cdn-9.motorsport.com/images/amp/6zoD8dJ0/s6/20949for-2026-f1-trophy206172.jpg",
+     "image": "https://cdn-6.motorsport.com/images/amp/6zoD8dJ0/s6/20949for-2026-f1-trophy206172.jpg",
      "date": "2026-11-13T16:09:45+00:00",
      "author": "",
      "id": "fc79e07f92",
@@ -1981,7 +1981,7 @@
      "title": "Toto Wolff offered his resignation during Mercedes’ struggles, but his boss refused",
      "desc": "In motorsport, extended periods of failure usually result in swift executive turnover. But when Mercedes team principal Toto Wolff attempted to hold himself accountable for the…",
      "link": "https://www.motorsport.com/f1/news/toto-wolff-offered-his-resignation-during-mercedes-struggles-but-the-ceo-refused/10874282/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-     "image": "https://cdn-4.motorsport.com/images/amp/YN7vz9j6/s6/motorsport-com-graphics-99-2.jpg",
+     "image": "https://cdn-3.motorsport.com/images/amp/YN7vz9j6/s6/motorsport-com-graphics-99-2.jpg",
      "date": "2026-11-13T12:37:04+00:00",
      "author": "",
      "id": "ae6d33f0d8",
@@ -2002,7 +2002,7 @@
      "title": "Red Bull F1 car takes on MotoGP bike, rally car and snowmobile in extreme ice race",
      "desc": "Red Bull pitted a Formula 1 car, MotoGP bike, rally car, Pro 4 truck and a snowmobile against each other in the first Ultimate Winter race. Former MotoGP rider Dani Pedrosa won,…",
      "link": "https://www.motorsport.com/f1/news/red-bull-f1-car-takes-on-motogp-bike-rally-car-and-snowmobile-in-extreme-ice-race/10874304/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-     "image": "https://cdn-8.motorsport.com/images/amp/27No3m30/s6/motorsport-com-graphics-98.jpg",
+     "image": "https://cdn-4.motorsport.com/images/amp/27No3m30/s6/motorsport-com-graphics-98.jpg",
      "date": "2026-11-13T12:25:26+00:00",
      "author": "",
      "id": "916274ef2b",
@@ -2023,7 +2023,7 @@
      "title": "\"It's horribly painful\" - Williams drops 2026 car upgrades to benefit 2027",
      "desc": "Williams F1 team boss James Vowles says it was \"horribly painful\" for the squad to forego 2026 aero upgrades and save the resources for 2027 instead. Williams has been forced into…",
      "link": "https://www.motorsport.com/f1/news/horribly-painful-williams-2026-car-upgrades-benefit-2027/10874290/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-     "image": "https://cdn-5.motorsport.com/images/amp/68VwMox2/s6/alexander-albon-williams.jpg",
+     "image": "https://cdn-4.motorsport.com/images/amp/68VwMox2/s6/alexander-albon-williams.jpg",
      "date": "2026-11-13T12:15:32+00:00",
      "author": "",
      "id": "42d627b204",
