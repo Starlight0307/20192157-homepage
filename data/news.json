@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T14:16:25+00:00",
+ "updated": "2026-11-14T19:16:17+00:00",
  "failed": [],
  "tabs": {
   "report": {
@@ -1413,17 +1413,17 @@
      "id": "7a441cb2ed",
      "wikiTitle": "2026 Italian Grand Prix",
      "title": "2026 Italian Grand Prix",
-     "titleKo": "2026년 이탈리아 그랑프리",
+     "titleKo": "2026 이탈리아 그랑프리",
      "desc": "The 2026 Italian Grand Prix (officially known as the Formula 1 Pirelli Gran Premio d'Italia 2026) was a Formula One motor race that was held on 6 September 2026 at the Monza…",
      "descKo": "2026년 이탈리아 그랑프리(공식 명칭: Formula 1 Pirelli Gran Premio d'Italia 2026)는 2026년 9월 6일 이탈리아 몬차의 몬차 서킷에서 열린 포뮬러 1 자동차 경주입니다. 2026년 포뮬러 원 월드 챔피언십의 13번째 라운드였습니다.",
      "link": "https://en.wikipedia.org/wiki/2026_Italian_Grand_Prix",
      "historyUrl": "https://en.wikipedia.org/wiki/2026_Italian_Grand_Prix?action=history",
      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Monza_track_map.svg/1280px-Monza_track_map.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "imageFile": "Monza_track_map.svg",
-     "date": "2026-11-11T06:25:37Z",
+     "date": "2026-11-14T16:44:18Z",
      "raceDate": "2026-09-06",
      "author": "위키백과 편집자들",
-     "revid": 1384986418,
+     "revid": 1385670574,
      "license": "CC BY-SA 4.0",
      "body": [
       {
@@ -1431,12 +1431,12 @@
        "level": 1,
        "p": [
         "The 2026 Italian Grand Prix (officially known as the Formula 1 Pirelli Gran Premio d'Italia 2026) was a Formula One motor race that was held on 6 September 2026 at the Monza Circuit in Monza, Italy. It was the thirteenth round of the 2026 Formula One World Championship.",
-        "During qualifying, Pierre Gasly (Alpine) achieved his and the team's first pole position. George Russell (Mercedes) battled Max Verstappen (Red Bull) for the lead of the race and went on to control it. However, his teammate Kimi Antonelli, who started in nineteenth position on the grid, overtook him for the lead in the closing stages of the race and went on to win, becoming the first Italian driver to win on home soil since Riccardo Patrese won the 1990 San Marino Grand Prix, and the first Italian driver to win the Italian Grand Prix since Ludovico Scarfiotti won the 1966 race. Russell settled for second, with Verstappen completing the podium."
+        "During qualifying, Pierre Gasly (Alpine) achieved his and the team's first pole position. George Russell (Mercedes) battled Max Verstappen (Red Bull) for the lead of the race and went on to control it. However, his teammate Kimi Antonelli, who started in nineteenth position on the grid, overtook him for the lead in the closing stages of the race and went on to win, becoming the first Italian driver to win on home soil since Riccardo Patrese won the 1990 San Marino Grand Prix. Russell settled for second, with Verstappen completing the podium."
        ],
        "hKo": "",
        "pKo": [
         "2026년 이탈리아 그랑프리(공식 명칭: Formula 1 Pirelli Gran Premio d'Italia 2026)는 2026년 9월 6일 이탈리아 몬차의 몬차 서킷에서 열린 포뮬러 1 자동차 경주입니다. 2026년 포뮬러 원 월드 챔피언십의 13번째 라운드였습니다.",
-        "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS"
+        "예선 기간 동안 Pierre Gasly(Alpine)는 자신과 팀의 첫 번째 폴 포지션을 달성했습니다. 조지 러셀(메르세데스)은 레이스 선두를 놓고 막스 베르스타펜(레드불)과 맞붙었고 계속해서 선두를 차지했습니다. 그러나 그리드에서 19위로 출발한 그의 팀 동료 키미 안토넬리(Kimi Antonelli)는 레이스의 마지막 단계에서 그를 따라잡아 선두를 차지했고, 계속해서 승리를 거두었고, 1990년 산 마리노 그랑프리에서 우승한 리카르도 파트레스(Riccardo Patrese) 이후 홈 경기장에서 우승한 최초의 이탈리아 드라이버가 되었습니다. Russell은 2위를 차지했고 Verstappen이 시상대를 완료했습니다."
        ]
       },
       {
@@ -1850,6 +1850,69 @@
    "sourceUrl": "https://www.motorsport.com/rss/f1/news/",
    "items": [
     {
+     "title": "Oscar Piastri: You've got to \"manhandle\" McLaren's F1 car to find its potential",
+     "desc": "Oscar Piastri says McLaren's 2026 Formula 1 car has to be \"manhandled\" to be quick, describing the MCL40 as a car that punishes drivers the moment they are not at the limit. The…",
+     "link": "https://www.motorsport.com/f1/news/oscar-piastri-youve-got-to-manhandle-mclarens-f1-car-to-find-its-potential/10874559/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+     "image": "https://cdn-5.motorsport.com/images/amp/6zoD8ea0/s6/motorsport-com-graphics-2026-1.jpg",
+     "date": "2026-11-14T17:39:40+00:00",
+     "author": "",
+     "id": "37161d91af",
+     "lead": [
+      "Oscar Piastri says McLaren's 2026 Formula 1 car has to be \"manhandled\" to be quick, describing the MCL40 as a car that punishes drivers the moment they are not at the limit.",
+      "The Australian driver has endured a difficult campaign after fighting for the title last year. He has two podiums in Japan and Miami, and sits seventh in the drivers' standings with three races to go.",
+      "While speaking to the media in Brazil, Piastri was asked to explain what he has to do with the car on every lap."
+     ],
+     "leadKo": [
+      "오스카 피아스트리(Oscar Piastri)는 McLaren의 2026년형 포뮬러 1 자동차는 속도를 높이려면 \"사람이 직접 다루어야\" 하며 MCL40을 운전자가 한계에 도달하지 않는 순간 처벌하는 자동차라고 설명합니다.",
+      "이 호주 출신 드라이버는 지난해 타이틀을 놓고 치열한 경쟁을 벌인 뒤 힘든 시즌을 견뎌왔습니다. 그는 일본과 마이애미에서 2개의 포디엄을 보유하고 있으며, 3개의 레이스를 앞두고 드라이버 순위 7위를 차지하고 있습니다.",
+      "브라질 언론과 인터뷰하는 동안 Piastri는 랩마다 자동차와 어떤 관련이 있는지 설명하라는 요청을 받았습니다."
+     ],
+     "titleKo": "오스카 피아스트리: McLaren의 F1 자동차의 잠재력을 찾으려면 \"손질\"해야 합니다",
+     "descKo": "오스카 피아스트리(Oscar Piastri)는 McLaren의 2026년형 포뮬러 1 자동차는 속도를 높이려면 \"사람이 직접 다루어야\" 하며 MCL40을 운전자가 한계에 도달하지 않는 순간 처벌하는 자동차라고 설명합니다. 그만큼…"
+    },
+    {
+     "title": "‘Lewis suspected a conspiracy’ – Nico Rosberg explains how Lewis Hamilton F1 rivalry went awry at Mercedes",
+     "desc": "When Lewis Hamilton joined Nico Rosberg at Mercedes for the 2013 Formula 1 season, it was a feel-good story: two long-time friends becoming team-mates. However, their amicable…",
+     "link": "https://www.motorsport.com/f1/news/lewis-suspected-a-conspiracy-nico-rosberg-explains-how-hamilton-f1-rivalry-went-awry-at-mercedes/10874271/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+     "image": "https://cdn-7.motorsport.com/images/amp/0R7BEVZ2/s6/lewis-hamilton-mercdes-nico-ro.jpg",
+     "date": "2026-11-14T16:30:03+00:00",
+     "author": "",
+     "id": "889a2d292f",
+     "lead": [
+      "When Lewis Hamilton joined Nico Rosberg at Mercedes for the 2013 Formula 1 season, it was a feel-good story: two long-time friends becoming team-mates.",
+      "However, their amicable relationship soon turned sour, as Mercedes dominated the world championship’s early turbo hybrid era from 2014 and title battles turned into intra-team duels.",
+      "The first signs of tension appeared early, and in the 2014 Belgian Grand Prix, the pair collided on lap two as Rosberg attacked Hamilton around the outside of Les Combes, with his front wing clipping his team-mate’s rear-left wheel; they both suffered damage and lost victory to Daniel Ricciardo ."
+     ],
+     "leadKo": [
+      "루이스 해밀턴이 2013년 포뮬러 1 시즌을 위해 메르세데스의 니코 로즈버그에 합류했을 때, 오랜 친구 두 명이 팀 동료가 된 것은 기분 좋은 이야기였습니다.",
+      "그러나 2014년부터 메르세데스가 월드 챔피언십 초기 터보 하이브리드 시대를 장악하고 타이틀 경쟁이 팀 내 결투로 바뀌면서 이들의 우호적인 관계는 곧 틀어졌습니다.",
+      "긴장의 첫 징후는 일찍 나타났고, 2014년 벨기에 그랑프리에서는 Rosberg가 Les Combes 바깥쪽에서 해밀턴을 공격하면서 두 사람이 랩 2에서 충돌했고, 그의 앞날개가 팀 동료의 왼쪽 뒤 바퀴를 클리핑했습니다. 둘 다 피해를 입었고 Daniel Ricciardo에게 승리를 잃었습니다."
+     ],
+     "titleKo": "'Lewis는 음모를 의심했습니다' – Nico Rosberg가 Mercedes에서 Lewis Hamilton F1 경쟁이 어떻게 실패했는지 설명합니다.",
+     "descKo": "루이스 해밀턴이 2013년 포뮬러 1 시즌을 위해 메르세데스의 니코 로즈버그에 합류했을 때, 오랜 친구 두 명이 팀 동료가 된 것은 기분 좋은 이야기였습니다. 그러나 그들의 우호적인…"
+    },
+    {
+     "title": "Topps celebrates Lewis Hamilton’s 400th F1 start with limited NOW card",
+     "desc": "Topps has released a Topps NOW trading card in celebration of Lewis Hamilton's 400th Formula 1 start, which came at the São Paulo Grand Prix last weekend. The Ferrari driver…",
+     "link": "https://www.motorsport.com/f1/news/topps-celebrates-lewis-hamiltons-400th-f1-start-with-limited-now-card/10874547/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+     "image": "https://cdn-7.motorsport.com/images/amp/YE9EV1qY/s6/motorsport-com-graphics-2026-1.jpg",
+     "date": "2026-11-14T16:24:23+00:00",
+     "author": "",
+     "id": "d9abd5b189",
+     "lead": [
+      "Topps has released a Topps NOW trading card in celebration of Lewis Hamilton's 400th Formula 1 start, which came at the São Paulo Grand Prix last weekend.",
+      "The Ferrari driver became only the second driver in the championship's history to reach the milestone, after Aston Martin's Fernando Alonso , who got there in 2024.",
+      "Topps announced the card on Instagram on Friday, saying: \"Lewis Hamilton becomes only the second driver to start 400 grands prix in F1. Mark the moment with Topps NOW.\""
+     ],
+     "leadKo": [
+      "Topps는 지난 주말 상파울루 그랑프리에서 선보인 루이스 해밀턴의 400번째 Formula 1 출전을 기념하여 Topps NOW 트레이딩 카드를 출시했습니다.",
+      "페라리 드라이버는 2024년에 이정표에 도달한 Aston Martin의 Fernando Alonso에 이어 챔피언십 역사상 이정표에 도달한 두 번째 드라이버가 되었습니다.",
+      "Topps는 금요일 인스타그램을 통해 \"루이스 해밀턴은 F1에서 400 그랑프리를 출발한 두 번째 드라이버가 되었습니다. Topps NOW와 함께 그 순간을 기념하세요\"라고 적으며 이 카드를 발표했습니다."
+     ],
+     "titleKo": "Topps는 제한된 NOW 카드로 루이스 해밀턴의 400번째 F1 출발을 기념합니다.",
+     "descKo": "Topps는 지난 주말 상파울루 그랑프리에서 선보인 루이스 해밀턴의 400번째 Formula 1 출전을 기념하여 Topps NOW 트레이딩 카드를 출시했습니다. 페라리 드라이버…"
+    },
+    {
      "title": "Mercedes technical director warns F1 teams won’t “lie down” over 2027 downforce cuts",
      "desc": "Formula 1's transition to the new 2026 engine and chassis regulations completely reshuffled the competitive order, but the rulebook is far from finalised. As teams prepare for…",
      "link": "https://www.motorsport.com/f1/news/mercedes-tech-boss-warns-f1-teams-wont-lie-down-over-massive-2027-downforce-cuts/10874433/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -1857,6 +1920,8 @@
      "date": "2026-11-14T12:14:36+00:00",
      "author": "",
      "id": "bf0828cdad",
+     "titleKo": "메르세데스 기술 책임자, F1 팀들이 2027년 다운포스 감소에 대해 \"가만히 있지 않을 것\"이라고 경고",
+     "descKo": "포뮬러원이 2026년 새로운 엔진 및 섀시 규정으로 전환하면서 경쟁 구도가 완전히 뒤바뀌었지만, 규정집은 아직 완성되려면 한참 남았습니다. 팀들이 준비하는 동안...",
      "lead": [
       "Formula 1's transition to the new 2026 engine and chassis regulations completely reshuffled the competitive order, but the rulebook is far from finalised. As teams prepare for their second year under the new formula in 2027, the FIA is pushing to mandate another drop in downforce.",
       "Early reports indicate the governing body is targeting a reduction of 20 to 50 points of downforce for the 2027 season. To achieve this, the FIA plans to ban several key rear aerodynamic elements in a bid to improve hybrid energy management and reduce the turbulent \"dirty air\" that prevents cars from following each other closely.",
@@ -1866,18 +1931,18 @@
       "포뮬러원이 2026년 새로운 엔진 및 섀시 규정으로 전환하면서 경쟁 구도가 완전히 뒤바뀌었지만, 규정집은 아직 완성되려면 한참 남았습니다. 팀들이 2027년에 새로운 규정 하에서 두 번째 시즌을 준비하는 가운데, FIA는 다운포스를 한 번 더 낮추도록 의무화하기 위해 노력하고 있습니다.",
       "초기 보도에 따르면, 관리 기구는 2027시즌에 다운포스를 20~50포인트 줄이는 것을 목표로 하고 있습니다. 이를 달성하기 위해 FIA는 하이브리드 에너지 관리를 개선하고 차량이 서로 밀착하여 주행하는 것을 방해하는 난류 '더티 에어'를 줄이기 위해 몇 가지 주요 후방 공기역학 요소를 금지할 계획입니다.",
       "하지만 메르세데스의 기술 책임자인 제임스 앨리슨(James Allison)은 최근 포뮬러원 머신의 속도를 늦추기 위한 규정을 마련해도 그리드의 최고 엔지니어들이 이를 우회할 방법을 찾지 못하는 경우는 드물다고 경고했습니다."
-     ],
-     "titleKo": "메르세데스 기술 책임자, F1 팀들이 2027년 다운포스 감소에 대해 \"가만히 있지 않을 것\"이라고 경고",
-     "descKo": "포뮬러원이 2026년 새로운 엔진 및 섀시 규정으로 전환하면서 경쟁 구도가 완전히 뒤바뀌었지만, 규정집은 아직 완성되려면 한참 남았습니다. 팀들이 준비하는 동안..."
+     ]
     },
     {
      "title": "Mercedes and Audi unveil adidas collections for F1 Las Vegas Grand Prix",
      "desc": "Mercedes and Audi have unveiled special adidas fan collections for the upcoming Formula 1 Las Vegas Grand Prix. Mercedes' range is called \"Neon Lights\", while Audi's is named…",
      "link": "https://www.motorsport.com/f1/news/mercedes-and-audi-unveil-adidas-collections-for-f1-las-vegas-grand-prix/10874493/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-     "image": "https://cdn-1.motorsport.com/images/amp/0o5AVbPY/s6/motorsport-com-graphics-2026-1.jpg",
+     "image": "https://cdn-6.motorsport.com/images/amp/0o5AVbPY/s6/motorsport-com-graphics-2026-1.jpg",
      "date": "2026-11-14T11:32:50+00:00",
      "author": "",
      "id": "f7d299a844",
+     "titleKo": "메르세데스-벤츠와 아우디, F1 라스베이거스 그랑프리 아디다스 컬렉션 공개",
+     "descKo": "메르세데스와 아우디가 다가오는 포뮬러원 라스베이거스 그랑프리를 맞아 특별한 아디다스 팬 컬렉션을 공개했습니다. 메르세데스의 컬렉션은 '네온 라이트'라고 불리며, 아우디의 컬렉션은...",
      "lead": [
       "Mercedes and Audi have unveiled special adidas fan collections for the upcoming Formula 1 Las Vegas Grand Prix.",
       "Mercedes' range is called \"Neon Lights\", while Audi's is named \"After Hours\". Both collections are available now through adidas.com, and the pieces listed on the brand's US store range in price from $30 to $200.",
@@ -1887,18 +1952,18 @@
       "메르세데스와 아우디가 다가오는 포뮬러원 라스베이거스 그랑프리를 맞아 특별한 아디다스 팬 컬렉션을 공개했습니다.",
       "메르세데스의 컬렉션은 'Neon Lights'라고 불리며, 아우디의 컬렉션은 'After Hours'라고 불립니다. 두 컬렉션 모두 현재 adidas.com에서 구매할 수 있으며, 브랜드의 미국 스토어에 등록된 제품의 가격은 $30~$200입니다.",
       "가장 비싼 아이템은 아우터웨어입니다. 메르세데스의 라스베이거스 재킷과 아우디의 라스베이거스 봄버 재킷은 모두 200달러입니다."
-     ],
-     "titleKo": "메르세데스-벤츠와 아우디, F1 라스베이거스 그랑프리 아디다스 컬렉션 공개",
-     "descKo": "메르세데스와 아우디가 다가오는 포뮬러원 라스베이거스 그랑프리를 맞아 특별한 아디다스 팬 컬렉션을 공개했습니다. 메르세데스의 컬렉션은 '네온 라이트'라고 불리며, 아우디의 컬렉션은..."
+     ]
     },
     {
      "title": "Max Verstappen signs ambassador deal with Dutch technical group VDK",
      "desc": "Four-time Formula 1 champion Max Verstappen has become the new ambassador of the VDK Group, a Dutch group of installation and technical companies that is expanding across Europe.…",
      "link": "https://www.motorsport.com/f1/news/max-verstappen-signs-ambassador-deal-with-dutch-technical-group-vdk/10874486/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-     "image": "https://cdn-3.motorsport.com/images/amp/YN7vzaP6/s6/motorsport-com-graphics-2026-1.jpg",
+     "image": "https://cdn-5.motorsport.com/images/amp/YN7vzaP6/s6/motorsport-com-graphics-2026-1.jpg",
      "date": "2026-11-14T11:03:24+00:00",
      "author": "",
      "id": "fcf98b82e0",
+     "titleKo": "맥스 페르스타펜, 네덜란드 기술 그룹 VDK와 홍보대사 계약 체결",
+     "descKo": "포뮬러원(F1) 4회 챔피언인 막스 페르스타펜이 유럽 전역으로 사업을 확장하고 있는 네덜란드 설비 및 기술 기업 그룹인 VDK Group의 새로운 홍보대사로 선정되었습니다.…",
      "lead": [
       "Four-time Formula 1 champion Max Verstappen has become the new ambassador of the VDK Group, a Dutch group of installation and technical companies that is expanding across Europe.",
       "The Dutchman will play a prominent role in the company's international branding over the coming years and will feature in its communications and marketing campaigns.",
@@ -1908,18 +1973,18 @@
       "포뮬러원(F1) 4회 챔피언인 막스 페르스타펜이 유럽 전역으로 사업을 확장하고 있는 네덜란드 설비 및 기술 기업 그룹인 VDK Group의 새로운 홍보대사가 되었습니다.",
       "이 네덜란드 선수는 향후 몇 년 동안 회사의 국제적인 브랜딩에서 두드러진 역할을 할 것이며, 커뮤니케이션 및 마케팅 캠페인에 참여할 예정입니다.",
       "VDK는 2013년에 네덜란드 기술 기업 그룹으로 설립되었으며 현재 네덜란드, 독일, 스웨덴, 오스트리아, 스위스, 벨기에에 사업장을 두고 있습니다."
-     ],
-     "titleKo": "맥스 페르스타펜, 네덜란드 기술 그룹 VDK와 홍보대사 계약 체결",
-     "descKo": "포뮬러원(F1) 4회 챔피언인 막스 페르스타펜이 유럽 전역으로 사업을 확장하고 있는 네덜란드 설비 및 기술 기업 그룹인 VDK Group의 새로운 홍보대사로 선정되었습니다.…"
+     ]
     },
     {
      "title": "Kimi Antonelli meets Italian president Sergio Mattarella",
      "desc": "\"To President Mattarella, with great admiration,\" signed Kimi Antonelli. The new Formula 1 world champion is in the middle of a whirlwind of meetings, events and celebrations for…",
      "link": "https://www.motorsport.com/f1/news/kimi-antonelli-meets-italian-president-sergio-mattarella/10874471/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-     "image": "https://cdn-3.motorsport.com/images/amp/0R7BEaE2/s6/il-presidente-sergio-mattarell.jpg",
+     "image": "https://cdn-6.motorsport.com/images/amp/0R7BEaE2/s6/il-presidente-sergio-mattarell.jpg",
      "date": "2026-11-14T10:37:42+00:00",
      "author": "",
      "id": "d4afaa4dc9",
+     "titleKo": "키미 안토넬리, 세르조 마타렐라 이탈리아 대통령과 만남",
+     "descKo": "\"마타렐라 대통령께, 깊은 존경을 담아.\" 서명: 키미 안토넬리. 새로운 포뮬러원 월드 챔피언은 다음과 같은 이유로 회의, 이벤트, 축하 행사가 연이어 이어지는 바쁜 일정을 보내고 있습니다...",
      "lead": [
       "\"To President Mattarella, with great admiration,\" signed Kimi Antonelli .",
       "The new Formula 1 world champion is in the middle of a whirlwind of meetings, events and celebrations for the world title he won two weeks ago at the Mexico Grand Prix, with which he ended a title drought for an Italian driver to win the world championship dating back to 1953.",
@@ -1929,18 +1994,18 @@
       "\"마타렐라 대통령께, 큰 존경을 담아,\" 서명: 키미 안토넬리.",
       "새로운 포뮬러원 월드 챔피언은 2주 전 멕시코 그랑프리에서 우승하며 1953년 이후 이탈리아인 드라이버가 월드 챔피언십에서 우승하지 못한 징크스를 깨고 획득한 월드 타이틀을 기념하는 회의, 행사, 축하 행사의 소용돌이에 휩싸여 있습니다.",
       "안토넬리 군은 부모님인 마르코 님과 베로니카 님, 여동생 매기 양과 함께 지난 금요일 이탈리아 공화국 대통령 세르조 마타렐라의 접견을 받았습니다."
-     ],
-     "titleKo": "키미 안토넬리, 세르조 마타렐라 이탈리아 대통령과 만남",
-     "descKo": "\"마타렐라 대통령께, 깊은 존경을 담아.\" 서명: 키미 안토넬리. 새로운 포뮬러원 월드 챔피언은 다음과 같은 이유로 회의, 이벤트, 축하 행사가 연이어 이어지는 바쁜 일정을 보내고 있습니다..."
+     ]
     },
     {
      "title": "George Russell is “looking down the barrel” of Kimi Antonelli’s raw pace, says James Allison",
      "desc": "For an established Formula 1 driver, being beaten by a 20-year-old team-mate can sometimes lead to garage politics and excuses. For George Russell, the 2026 season delivered…",
      "link": "https://www.motorsport.com/f1/news/george-russell-is-looking-down-the-barrel-of-kimi-antonellis-raw-pace-says-allison/10874424/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-     "image": "https://cdn-3.motorsport.com/images/amp/63QaO7J2/s6/motorsport-com-graphics-2026-1-2.jpg",
+     "image": "https://cdn-7.motorsport.com/images/amp/63QaO7J2/s6/motorsport-com-graphics-2026-1-2.jpg",
      "date": "2026-11-14T10:10:30+00:00",
      "author": "",
      "id": "157af94616",
+     "titleKo": "제임스 앨리슨, \"조지 러셀이 키미 안토넬리의 순수한 속도를 '정면으로 마주하고' 있다\"고 말함",
+     "descKo": "경력이 탄탄한 포뮬러원 드라이버가 20세의 팀 동료에게 패배하면 때때로 팀 내 정치와 변명으로 이어질 수 있습니다. 조지 러셀에게 2026시즌은...",
      "lead": [
       "For an established Formula 1 driver, being beaten by a 20-year-old team-mate can sometimes lead to garage politics and excuses. For George Russell , the 2026 season delivered exactly that high-pressure scenario as Kimi Antonelli stormed to the world championship in the sister Mercedes W17.",
       "But rather than deflecting blame after a season marred by mechanical misfortune and driving errors, Russell is confronting the reality of Antonelli's raw speed head-on.",
@@ -1950,18 +2015,18 @@
       "경력이 탄탄한 포뮬러원 드라이버가 20세의 팀 동료에게 패배하면 때로 팀 내 정치적 갈등과 변명으로 이어질 수 있습니다. 조지 러셀에게 2026시즌은 키미 안토넬리가 같은 팀의 메르세데스 W17로 월드 챔피언십을 차지하면서 바로 그런 고도의 압박 상황을 맞이하게 되었습니다.",
       "하지만 러셀은 기계적 문제와 드라이빙 실수로 얼룩진 시즌 이후 책임을 돌리는 대신, 안토넬리의 순수한 스피드라는 현실에 정면으로 맞서고 있습니다.",
       "메르세데스의 제임스 앨리슨(James Allison) 기술 책임자는 Nu Silver Arrows 라디오 쇼 에서 브래클리의 팀 내 역학 관계를 엿볼 수 있는 기회를 제공하며, 패배에 직면했을 때 러셀이 보여준 냉철한 자기 인식에 대해 칭찬했습니다."
-     ],
-     "titleKo": "제임스 앨리슨, \"조지 러셀이 키미 안토넬리의 순수한 속도를 '정면으로 마주하고' 있다\"고 말함",
-     "descKo": "경력이 탄탄한 포뮬러원 드라이버가 20세의 팀 동료에게 패배하면 때때로 팀 내 정치와 변명으로 이어질 수 있습니다. 조지 러셀에게 2026시즌은..."
+     ]
     },
     {
      "title": "McLaren to upgrade MCL40 car at its bogey F1 track Las Vegas",
      "desc": "McLaren will introduce upgrades to its MCL40 at Formula 1’s Las Vegas Grand Prix, with the new parts labelled as “the foundation for next year’s car”. The team launched its 2027…",
      "link": "https://www.motorsport.com/f1/news/mclaren-to-upgrade-mcl40-car-at-its-bogey-f1-track-las-vegas/10874307/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-     "image": "https://cdn-7.motorsport.com/images/amp/01QNp9q0/s6/leonardo-fornaroli-mclaren.jpg",
+     "image": "https://cdn-1.motorsport.com/images/amp/01QNp9q0/s6/leonardo-fornaroli-mclaren.jpg",
      "date": "2026-11-14T09:09:51+00:00",
      "author": "",
      "id": "fa96191159",
+     "titleKo": "맥라렌, 라스베이거스 F1 서킷에서 MCL40 차량 업그레이드 예정",
+     "descKo": "맥라렌은 포뮬러원 라스베이거스 그랑프리에서 MCL40에 업그레이드를 도입할 예정이며, 새로운 부품은 '내년 차량의 기반'으로 명명되었습니다. 팀은 2027년형 차량을 공개했습니다...",
      "lead": [
       "McLaren will introduce upgrades to its MCL40 at Formula 1’s Las Vegas Grand Prix, with the new parts labelled as “the foundation for next year’s car”.",
       "The team launched its 2027 front wing concept in Brazil, with team principal Andrea Stella describing it as an improvement for driveability and predictability ; McLaren returned to form at Interlagos, with Lando Norris clinching pole position and victory in wet conditions. This ended a five-round podium-less streak, the squad’s worst since the first half of the 2023 campaign.",
@@ -1971,71 +2036,6 @@
       "맥라렌은 포뮬러원 라스베이거스 그랑프리에서 MCL40에 대한 업그레이드를 선보일 예정이며, 새로운 부품은 '내년 차량의 기반'으로 명명되었습니다.",
       "팀은 브라질에서 2027년 프론트 윙 콘셉트를 선보였으며, 팀 대표인 안드레아 스텔라는 이를 주행성과 예측 가능성을 향상시키는 것으로 설명했습니다. 맥라렌은 인터라고스에서 다시 좋은 모습을 보였으며, 랜도 노리스가 젖은 노면에서 폴 포지션과 우승을 차지했습니다. 이로써 5라운드 연속 포디움 진출 실패라는 기록이 끝났으며, 이는 2023년 시즌 전반기 이후 팀의 최악의 성적입니다.",
       "\"헝가리에서 업그레이드를 마친 후, 우리가 우승할 수 있는 위치에 있었다는 점은 고무적이었습니다. 사실 마드리드에서 우승했어야 했습니다.\" 스텔라 대표는 스페인에서 버추얼 세이프티 카가 등장한 시점이 불운했음을 언급하며, 이로 인해 노리스가 마드리드에서 우승을 놓쳤을 가능성이 높다고 말했습니다."
-     ],
-     "titleKo": "맥라렌, 라스베이거스 F1 서킷에서 MCL40 차량 업그레이드 예정",
-     "descKo": "맥라렌은 포뮬러원 라스베이거스 그랑프리에서 MCL40에 업그레이드를 도입할 예정이며, 새로운 부품은 '내년 차량의 기반'으로 명명되었습니다. 팀은 2027년형 차량을 공개했습니다..."
-    },
-    {
-     "title": "James Allison reveals the \"very adventurous\" trick behind Kimi Antonelli's F1 title",
-     "desc": "Mercedes technical director James Allison has explained how Kimi Antonelli's bold use of the tools on his steering wheel helped him become Formula 1's youngest world champion. The…",
-     "link": "https://www.motorsport.com/f1/news/james-allison-reveals-the-very-adventurous-trick-behind-kimi-antonellis-f1-title/10874402/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-     "image": "https://cdn-5.motorsport.com/images/amp/0R7BEmE2/s6/motorsport-com-graphics-2026-1.jpg",
-     "date": "2026-11-13T21:56:05+00:00",
-     "author": "",
-     "id": "35d9b31cd0",
-     "titleKo": "제임스 앨리슨, 키미 안토넬리의 F1 타이틀 획득 뒤에 숨겨진 '매우 모험적인' 비결을 공개하다",
-     "descKo": "메르세데스의 기술 책임자인 제임스 앨리슨이 키미 안토넬리가 스티어링 휠의 도구를 대담하게 사용한 것이 어떻게 포뮬러원(F1) 최연소 월드 챔피언이 되는 데 도움이 되었는지 설명했습니다.",
-     "lead": [
-      "Mercedes technical director James Allison has explained how Kimi Antonelli's bold use of the tools on his steering wheel helped him become Formula 1's youngest world champion.",
-      "The Italian driver secured the 2026 title at the Mexican Grand Prix at the age of 20, in only his second season in F1, and has won nine grands prix so far this year.",
-      "Speaking on the NU Silver Arrows Radio Show , Allison said Antonelli was \"very, very agile\" in how he uses brake migration, which changes how the braking force is shared between the front and rear of the car as a corner unfolds, and the differential."
-     ],
-     "leadKo": [
-      "메르세데스의 제임스 앨리슨 기술 책임자는 키미 안토넬리가 스티어링 휠의 도구를 대담하게 사용한 것이 포뮬러원(F1) 최연소 월드 챔피언이 되는 데 어떻게 도움이 되었는지 설명했습니다.",
-      "이탈리아 출신의 이 드라이버는 F1 데뷔 2년 차인 2026년 멕시코 그랑프리에서 만 20세의 나이로 챔피언 타이틀을 차지했으며, 올해 들어서만 9번의 그랑프리 우승을 거뒀습니다.",
-      "NU 실버 애로우 라디오 쇼에서 앨리슨은 안토넬리가 코너를 돌 때 차량의 앞뒤로 제동력이 분배되는 방식과 차동 장치를 조절하는 제동력 이동을 사용하는 방식이 \"매우, 매우 민첩하다\"고 말했습니다."
-     ]
-    },
-    {
-     "title": "Guenther Steiner suggests Mark Webber became too involved in Oscar Piastri’s career",
-     "desc": "Former Haas Formula 1 team principal Guenther Steiner believes Mark Webber may have become too involved in Oscar Piastri’s career in the second half of 2025, before the McLaren…",
-     "link": "https://www.motorsport.com/f1/news/guenther-steiner-suggests-mark-webber-became-too-involved-in-oscar-piastris-career/10874383/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-     "image": "https://cdn-6.motorsport.com/images/amp/6zoD8dL0/s6/motorsport-com-graphics-2026-1.jpg",
-     "date": "2026-11-13T17:20:10+00:00",
-     "author": "",
-     "id": "53de82edaa",
-     "titleKo": "귄터 슈타이너, 마크 웨버가 오스카 피아스트리의 커리어에 너무 깊이 관여했다고 주장",
-     "descKo": "하스 포뮬러원 팀의 전 대표인 귄터 슈타이너는 맥라렌이 오스카 피아스트리의 계약을 연장하기 전에 2025년 하반기에 마크 웨버가 피아스트리의 커리어에 지나치게 관여했을 수 있다고…",
-     "lead": [
-      "Former Haas Formula 1 team principal Guenther Steiner believes Mark Webber may have become too involved in Oscar Piastri ’s career in the second half of 2025, before the McLaren driver decided he wanted to “do this on my own”.",
-      "Piastri and Webber announced after the São Paulo Grand Prix that they had mutually agreed to end their management agreement, which began in 2019 and saw the Australian rise through Formula 3 and Formula 2 to a McLaren race seat.",
-      "Webber had already scaled back his role this year and stopped attending races alongside Piastri."
-     ],
-     "leadKo": [
-      "하스 F1 팀의 전 대표인 귄터 슈타이너는 맥라렌 드라이버 오스카 피아스트리가 \"스스로 해보고 싶다\"고 결정하기 전인 2025년 하반기에 마크 웨버가 피아스트리의 커리어에 지나치게 관여했을 수 있다고 생각합니다.",
-      "피아스트리와 웨버는 상파울루 그랑프리 이후 2019년에 시작되어 포뮬러 3와 포뮬러 2를 거쳐 맥라렌 레이스 시트에 오르는 호주 선수의 모습을 지켜본 매니지먼트 계약을 상호 합의하에 종료하기로 했다고 발표했습니다.",
-      "웨버는 이미 올해 자신의 역할을 축소했으며 피아스트리와 함께 레이스에 참석하지 않았습니다."
-     ]
-    },
-    {
-     "title": "“I was getting beat up” – How Daniel Ricciardo burned out on ‘humiliating’ F1 return",
-     "desc": "As Daniel Ricciardo joined the Beyond The Grid podcast last month, he sounded more grounded, almost wiser. Two years away from Formula 1’s limelight have provided the Australian…",
-     "link": "https://www.motorsport.com/f1/news/i-was-getting-beat-up-how-daniel-ricciardo-burned-out-on-humiliating-f1-return/10874248/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-     "image": "https://cdn-8.motorsport.com/images/amp/27vEn7m0/s6/daniel-ricciardo-rb-f1-team.jpg",
-     "date": "2026-11-13T17:06:56+00:00",
-     "author": "",
-     "id": "0671b80596",
-     "titleKo": "\"저는 두들겨 맞고 있었습니다\" – 다니엘 리카르도가 '굴욕적인' F1 복귀로 번아웃을 겪은 이야기",
-     "descKo": "지난달 비욘드 더 그리드(Beyond The Grid) 팟캐스트에 출연한 다니엘 리카르도는 한층 더 침착하고 거의 현명해진 듯한 인상을 주었습니다. 포뮬러원(F1)의 스포트라이트에서 벗어난 2년 동안 호주 출신 드라이버는...",
-     "lead": [
-      "As Daniel Ricciardo joined the Beyond The Grid podcast last month, he sounded more grounded, almost wiser. Two years away from Formula 1’s limelight have provided the Australian with the time he required for introspection, allowing him to view his final years in the championship from a new angle.",
-      "Those final years were a struggle. After losing his McLaren seat, Ricciardo returned to his old Faenza team with a view to make a Red Bull comeback – to no avail. He never found his long-lost performance again, having previously experienced a bruising time in Woking. His shock Italian Grand Prix victory hardly distracts from the fact that, other than that, he never finished on the podium in his final 70 races.",
-      "While his F1 adventure did not wind up on his own terms – with Red Bull deciding that youngster Liam Lawson was the way to go for the second RB seat – Ricciardo has grown aware, even persuading himself that he wasn’t ready to retire, that he no longer was in the right state of mind for racing."
-     ],
-     "leadKo": [
-      "지난달 비욘드 더 그리드(Beyond The Grid) 팟캐스트에 출연한 다니엘 리카르도는 한층 더 현실적이고 거의 현명해진 듯한 인상을 주었습니다. 포뮬러원(Formula 1)의 스포트라이트에서 벗어난 2년 동안 호주 출신의 이 드라이버는 자기 성찰에 필요한 시간을 가질 수 있었고, 이를 통해 챔피언십에서 보낸 마지막 몇 년을 새로운 시각으로 바라볼 수 있었습니다.",
-      "마지막 몇 년은 고난의 연속이었습니다. 맥라렌의 자리를 잃은 리카르도는 레드불로 복귀하기 위해 예전 파엔자 팀으로 돌아왔지만, 소용이 없었습니다. 그는 이전에 워킹에서 힘든 시간을 보낸 후, 오랫동안 잃어버렸던 기량을 다시 찾지 못했습니다. 그의 충격적인 이탈리아 그랑프리 우승은 그 외에 마지막 70번의 레이스에서 한 번도 포디움에 오르지 못했다는 사실을 거의 가리지 못합니다.",
-      "레드불이 두 번째 RB 시트를 위해 젊은 선수인 리암 로슨을 선택하면서 리카르도의 F1 모험은 그가 원하는 방식으로 끝나지 않았지만, 리카르도는 은퇴할 준비가 되지 않았다는 사실을 깨닫고, 더 이상 레이싱에 적합한 정신 상태가 아니라는 사실을 스스로 납득시키게 되었습니다."
      ]
     }
    ]
@@ -2052,6 +2052,8 @@
      "date": "2026-11-14T08:47:00+00:00",
      "author": "Jon Noble",
      "id": "19cd8def6d",
+     "titleKo": "'팀용 ADUO' 플랜은 F1에서 논의 예정",
+     "descKo": "포뮬러원 위원회에서 '팀을 위한 ADUO' 제안이 논의되는 월요일, 비용 상한선 규정에 대한 대대적인 변경이 주요 논의 사안이 될 것으로 보인다.",
      "lead": [
       "Sweeping changes to cost cap rules look set to become a key area of discussion on Monday when an “ADUO for teams” proposal is debated at the Formula 1 Commission.",
       "As first revealed by The Race, Williams team boss James Vowles has tabled the idea of a spending catch-up mechanism to help F1 teams escape what he thinks has become a “cost cap trap”.",
@@ -2061,9 +2063,7 @@
       "'팀을 위한 ADUO' 제안이 포뮬러원 위원회에서 논의될 예정인 월요일, 비용 상한선 규정에 대한 대대적인 변경이 주요 논의 사안이 될 것으로 보인다.",
       "The Race가 처음 보도한 바와 같이, 윌리엄스 팀의 제임스 보울스(James Vowles) 팀 대표는 F1 팀들이 '비용 상한선 함정'이 되었다고 생각하는 것에서 벗어날 수 있도록 돕기 위한 비용 추격 메커니즘 아이디어를 제시했습니다.",
       "볼스 대표는 비용 상한제가 모든 팀을 재정적으로 건전하게 만드는 데 큰 역할을 했지만, 동시에 소규모 팀이 대규모 팀을 따라잡기 어렵게 만드는 기존의 이점도 고착시켰다고 주장합니다."
-     ],
-     "titleKo": "'팀용 ADUO' 플랜은 F1에서 논의 예정",
-     "descKo": "포뮬러원 위원회에서 '팀을 위한 ADUO' 제안이 논의되는 월요일, 비용 상한선 규정에 대한 대대적인 변경이 주요 논의 사안이 될 것으로 보인다."
+     ]
     },
     {
      "title": "Was Madrid F1 race an economic upgrade on Barcelona?",
@@ -2435,6 +2435,18 @@
    "sourceUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCB_qr75-ydFVKSF9Dmo6izg",
    "items": [
     {
+     "title": "It Was All A Lie?! ☕️",
+     "desc": "Watch the drivers share their thoughts on some of the internet's toughest questions!",
+     "link": "https://www.youtube.com/watch?v=OiCr86ML9R0",
+     "image": "https://i.ytimg.com/vi/OiCr86ML9R0/hqdefault.jpg",
+     "date": "2026-11-14T15:00:01+00:00",
+     "author": "FORMULA 1",
+     "videoId": "OiCr86ML9R0",
+     "id": "c5a3c78835",
+     "titleKo": "그것은 모두 거짓말이었다?! ☺️",
+     "descKo": ""
+    },
+    {
      "title": "No Hesitation From Charles 😂",
      "desc": "Charles Leclerc, Lando Norris, Carlos Sainz and the rest of the grid give their answers to some of the internet's toughest questions!",
      "link": "https://www.youtube.com/watch?v=66gYzsy3qx8",
@@ -2528,18 +2540,6 @@
      "videoId": "Nxt99BDMecU",
      "id": "ed827d10ee",
      "titleKo": "대니 릭과 함께 앉기 🤩",
-     "descKo": ""
-    },
-    {
-     "title": "Daniel Ricciardo Reacts To Iconic & Hilarious Career Moments | Salesforce: Inside F1",
-     "desc": "For one of the first times since his last race in 2024, Daniel Ricciardo sits down exclusively to react to some of his most iconic career moments, featuring some of his best…",
-     "link": "https://www.youtube.com/watch?v=zTBCMBS0UEo",
-     "image": "https://i.ytimg.com/vi/zTBCMBS0UEo/hqdefault.jpg",
-     "date": "2026-11-10T19:00:09+00:00",
-     "author": "FORMULA 1",
-     "videoId": "zTBCMBS0UEo",
-     "id": "0360e7e1da",
-     "titleKo": "다니엘 리카도, 아이코닉하고 유쾌한 커리어 순간에 반응하다 | Salesforce: Inside F1",
      "descKo": ""
     }
    ]
