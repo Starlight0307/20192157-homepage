@@ -1,6 +1,8 @@
 {
- "updated": "2026-11-14T19:16:17+00:00",
- "failed": [],
+ "updated": "2026-11-15T02:46:36+00:00",
+ "failed": [
+  "video"
+ ],
  "tabs": {
   "report": {
    "source": "Wikipedia",
@@ -1850,13 +1852,36 @@
    "sourceUrl": "https://www.motorsport.com/rss/f1/news/",
    "items": [
     {
+     "title": "James Allison admits flawed “Update 18” made the Mercedes W17 a “handful”",
+     "desc": "Mercedes stormed out of the gates in 2026, quickly establishing a dominant lead that ultimately secured both the drivers' and constructors' championships. But as the season nears…",
+     "link": "https://www.motorsport.com/f1/news/james-allison-admits-flawed-update-18-made-the-mercedes-w17-a-handful/10874437/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+     "image": "https://cdn-7.motorsport.com/images/amp/0Zq8VQo6/s6/motorsport-com-graphics-2026-1-2.jpg",
+     "date": "2026-11-14T23:12:53+00:00",
+     "author": "",
+     "id": "cdbc944183",
+     "lead": [
+      "Mercedes stormed out of the gates in 2026, quickly establishing a dominant lead that ultimately secured both the drivers' and constructors' championships. But as the season nears its conclusion, the performance gap between the W17 and the rest of the grid has visibly shrunk.",
+      "According to Mercedes technical director James Allison, this convergence was not just a natural result of rivals catching up. Speaking on the NU Silver Arrows Radio Show , Allison confessed that Mercedes' own development path actively hampered the car's driveability late in the year.",
+      "While discussing the shrinking gap to the competition, Allison pointed to the team's latest major aerodynamic package."
+     ],
+     "leadKo": [
+      "메르세데스는 2026년 시즌 초반부터 강력한 기세를 보이며 빠르게 우위를 점했고, 결국 드라이버 챔피언십과 컨스트럭터 챔피언십을 모두 차지했습니다. 그러나 시즌이 막바지에 이르면서 W17과 나머지 그리드 간의 성능 격차가 눈에 띄게 줄어들었습니다.",
+      "메르세데스의 제임스 앨리슨(James Allison) 기술 책임자에 따르면, 이러한 격차 감소는 단순히 경쟁자들이 따라잡은 자연스러운 결과가 아니었습니다. 앨리슨은 NU 실버 애로우 라디오 쇼 에서 메르세데스의 자체 개발 방향이 연말에 차량의 주행성을 적극적으로 저해했다고 고백했습니다.",
+      "경쟁과의 격차 축소에 대해 논의하는 동안, 앨리슨은 팀의 최신 주요 공기역학 패키지를 언급했습니다."
+     ],
+     "titleKo": "제임스 앨리슨, 결함이 있는 \"업데이트 18\"로 인해 메르세데스 W17이 \"힘든\" 차가 되었다고 인정",
+     "descKo": "메르세데스는 2026년 시즌 초반부터 강력한 기세를 보이며 빠르게 선두를 차지했고, 결국 드라이버 챔피언십과 컨스트럭터 챔피언십을 모두 석권했습니다. 하지만 시즌이 다가오면서..."
+    },
+    {
      "title": "Oscar Piastri: You've got to \"manhandle\" McLaren's F1 car to find its potential",
      "desc": "Oscar Piastri says McLaren's 2026 Formula 1 car has to be \"manhandled\" to be quick, describing the MCL40 as a car that punishes drivers the moment they are not at the limit. The…",
      "link": "https://www.motorsport.com/f1/news/oscar-piastri-youve-got-to-manhandle-mclarens-f1-car-to-find-its-potential/10874559/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-     "image": "https://cdn-5.motorsport.com/images/amp/6zoD8ea0/s6/motorsport-com-graphics-2026-1.jpg",
+     "image": "https://cdn-3.motorsport.com/images/amp/6zoD8ea0/s6/motorsport-com-graphics-2026-1.jpg",
      "date": "2026-11-14T17:39:40+00:00",
      "author": "",
      "id": "37161d91af",
+     "titleKo": "오스카 피아스트리: McLaren의 F1 자동차의 잠재력을 찾으려면 \"손질\"해야 합니다",
+     "descKo": "오스카 피아스트리(Oscar Piastri)는 McLaren의 2026년형 포뮬러 1 자동차는 속도를 높이려면 \"사람이 직접 다루어야\" 하며 MCL40을 운전자가 한계에 도달하지 않는 순간 처벌하는 자동차라고 설명합니다. 그만큼…",
      "lead": [
       "Oscar Piastri says McLaren's 2026 Formula 1 car has to be \"manhandled\" to be quick, describing the MCL40 as a car that punishes drivers the moment they are not at the limit.",
       "The Australian driver has endured a difficult campaign after fighting for the title last year. He has two podiums in Japan and Miami, and sits seventh in the drivers' standings with three races to go.",
@@ -1866,9 +1891,7 @@
       "오스카 피아스트리(Oscar Piastri)는 McLaren의 2026년형 포뮬러 1 자동차는 속도를 높이려면 \"사람이 직접 다루어야\" 하며 MCL40을 운전자가 한계에 도달하지 않는 순간 처벌하는 자동차라고 설명합니다.",
       "이 호주 출신 드라이버는 지난해 타이틀을 놓고 치열한 경쟁을 벌인 뒤 힘든 시즌을 견뎌왔습니다. 그는 일본과 마이애미에서 2개의 포디엄을 보유하고 있으며, 3개의 레이스를 앞두고 드라이버 순위 7위를 차지하고 있습니다.",
       "브라질 언론과 인터뷰하는 동안 Piastri는 랩마다 자동차와 어떤 관련이 있는지 설명하라는 요청을 받았습니다."
-     ],
-     "titleKo": "오스카 피아스트리: McLaren의 F1 자동차의 잠재력을 찾으려면 \"손질\"해야 합니다",
-     "descKo": "오스카 피아스트리(Oscar Piastri)는 McLaren의 2026년형 포뮬러 1 자동차는 속도를 높이려면 \"사람이 직접 다루어야\" 하며 MCL40을 운전자가 한계에 도달하지 않는 순간 처벌하는 자동차라고 설명합니다. 그만큼…"
+     ]
     },
     {
      "title": "‘Lewis suspected a conspiracy’ – Nico Rosberg explains how Lewis Hamilton F1 rivalry went awry at Mercedes",
@@ -1878,6 +1901,8 @@
      "date": "2026-11-14T16:30:03+00:00",
      "author": "",
      "id": "889a2d292f",
+     "titleKo": "'Lewis는 음모를 의심했습니다' – Nico Rosberg가 Mercedes에서 Lewis Hamilton F1 경쟁이 어떻게 실패했는지 설명합니다.",
+     "descKo": "루이스 해밀턴이 2013년 포뮬러 1 시즌을 위해 메르세데스의 니코 로즈버그에 합류했을 때, 오랜 친구 두 명이 팀 동료가 된 것은 기분 좋은 이야기였습니다. 그러나 그들의 우호적인…",
      "lead": [
       "When Lewis Hamilton joined Nico Rosberg at Mercedes for the 2013 Formula 1 season, it was a feel-good story: two long-time friends becoming team-mates.",
       "However, their amicable relationship soon turned sour, as Mercedes dominated the world championship’s early turbo hybrid era from 2014 and title battles turned into intra-team duels.",
@@ -1887,9 +1912,7 @@
       "루이스 해밀턴이 2013년 포뮬러 1 시즌을 위해 메르세데스의 니코 로즈버그에 합류했을 때, 오랜 친구 두 명이 팀 동료가 된 것은 기분 좋은 이야기였습니다.",
       "그러나 2014년부터 메르세데스가 월드 챔피언십 초기 터보 하이브리드 시대를 장악하고 타이틀 경쟁이 팀 내 결투로 바뀌면서 이들의 우호적인 관계는 곧 틀어졌습니다.",
       "긴장의 첫 징후는 일찍 나타났고, 2014년 벨기에 그랑프리에서는 Rosberg가 Les Combes 바깥쪽에서 해밀턴을 공격하면서 두 사람이 랩 2에서 충돌했고, 그의 앞날개가 팀 동료의 왼쪽 뒤 바퀴를 클리핑했습니다. 둘 다 피해를 입었고 Daniel Ricciardo에게 승리를 잃었습니다."
-     ],
-     "titleKo": "'Lewis는 음모를 의심했습니다' – Nico Rosberg가 Mercedes에서 Lewis Hamilton F1 경쟁이 어떻게 실패했는지 설명합니다.",
-     "descKo": "루이스 해밀턴이 2013년 포뮬러 1 시즌을 위해 메르세데스의 니코 로즈버그에 합류했을 때, 오랜 친구 두 명이 팀 동료가 된 것은 기분 좋은 이야기였습니다. 그러나 그들의 우호적인…"
+     ]
     },
     {
      "title": "Topps celebrates Lewis Hamilton’s 400th F1 start with limited NOW card",
@@ -1899,6 +1922,8 @@
      "date": "2026-11-14T16:24:23+00:00",
      "author": "",
      "id": "d9abd5b189",
+     "titleKo": "Topps는 제한된 NOW 카드로 루이스 해밀턴의 400번째 F1 출발을 기념합니다.",
+     "descKo": "Topps는 지난 주말 상파울루 그랑프리에서 선보인 루이스 해밀턴의 400번째 Formula 1 출전을 기념하여 Topps NOW 트레이딩 카드를 출시했습니다. 페라리 드라이버…",
      "lead": [
       "Topps has released a Topps NOW trading card in celebration of Lewis Hamilton's 400th Formula 1 start, which came at the São Paulo Grand Prix last weekend.",
       "The Ferrari driver became only the second driver in the championship's history to reach the milestone, after Aston Martin's Fernando Alonso , who got there in 2024.",
@@ -1908,15 +1933,13 @@
       "Topps는 지난 주말 상파울루 그랑프리에서 선보인 루이스 해밀턴의 400번째 Formula 1 출전을 기념하여 Topps NOW 트레이딩 카드를 출시했습니다.",
       "페라리 드라이버는 2024년에 이정표에 도달한 Aston Martin의 Fernando Alonso에 이어 챔피언십 역사상 이정표에 도달한 두 번째 드라이버가 되었습니다.",
       "Topps는 금요일 인스타그램을 통해 \"루이스 해밀턴은 F1에서 400 그랑프리를 출발한 두 번째 드라이버가 되었습니다. Topps NOW와 함께 그 순간을 기념하세요\"라고 적으며 이 카드를 발표했습니다."
-     ],
-     "titleKo": "Topps는 제한된 NOW 카드로 루이스 해밀턴의 400번째 F1 출발을 기념합니다.",
-     "descKo": "Topps는 지난 주말 상파울루 그랑프리에서 선보인 루이스 해밀턴의 400번째 Formula 1 출전을 기념하여 Topps NOW 트레이딩 카드를 출시했습니다. 페라리 드라이버…"
+     ]
     },
     {
      "title": "Mercedes technical director warns F1 teams won’t “lie down” over 2027 downforce cuts",
      "desc": "Formula 1's transition to the new 2026 engine and chassis regulations completely reshuffled the competitive order, but the rulebook is far from finalised. As teams prepare for…",
      "link": "https://www.motorsport.com/f1/news/mercedes-tech-boss-warns-f1-teams-wont-lie-down-over-massive-2027-downforce-cuts/10874433/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-     "image": "https://cdn-3.motorsport.com/images/amp/6lmARXD0/s6/motorsport-com-graphics-2026-1-2.jpg",
+     "image": "https://cdn-2.motorsport.com/images/amp/6lmARXD0/s6/motorsport-com-graphics-2026-1-2.jpg",
      "date": "2026-11-14T12:14:36+00:00",
      "author": "",
      "id": "bf0828cdad",
@@ -1937,7 +1960,7 @@
      "title": "Mercedes and Audi unveil adidas collections for F1 Las Vegas Grand Prix",
      "desc": "Mercedes and Audi have unveiled special adidas fan collections for the upcoming Formula 1 Las Vegas Grand Prix. Mercedes' range is called \"Neon Lights\", while Audi's is named…",
      "link": "https://www.motorsport.com/f1/news/mercedes-and-audi-unveil-adidas-collections-for-f1-las-vegas-grand-prix/10874493/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-     "image": "https://cdn-6.motorsport.com/images/amp/0o5AVbPY/s6/motorsport-com-graphics-2026-1.jpg",
+     "image": "https://cdn-4.motorsport.com/images/amp/0o5AVbPY/s6/motorsport-com-graphics-2026-1.jpg",
      "date": "2026-11-14T11:32:50+00:00",
      "author": "",
      "id": "f7d299a844",
@@ -2000,7 +2023,7 @@
      "title": "George Russell is “looking down the barrel” of Kimi Antonelli’s raw pace, says James Allison",
      "desc": "For an established Formula 1 driver, being beaten by a 20-year-old team-mate can sometimes lead to garage politics and excuses. For George Russell, the 2026 season delivered…",
      "link": "https://www.motorsport.com/f1/news/george-russell-is-looking-down-the-barrel-of-kimi-antonellis-raw-pace-says-allison/10874424/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-     "image": "https://cdn-7.motorsport.com/images/amp/63QaO7J2/s6/motorsport-com-graphics-2026-1-2.jpg",
+     "image": "https://cdn-5.motorsport.com/images/amp/63QaO7J2/s6/motorsport-com-graphics-2026-1-2.jpg",
      "date": "2026-11-14T10:10:30+00:00",
      "author": "",
      "id": "157af94616",
@@ -2015,27 +2038,6 @@
       "경력이 탄탄한 포뮬러원 드라이버가 20세의 팀 동료에게 패배하면 때로 팀 내 정치적 갈등과 변명으로 이어질 수 있습니다. 조지 러셀에게 2026시즌은 키미 안토넬리가 같은 팀의 메르세데스 W17로 월드 챔피언십을 차지하면서 바로 그런 고도의 압박 상황을 맞이하게 되었습니다.",
       "하지만 러셀은 기계적 문제와 드라이빙 실수로 얼룩진 시즌 이후 책임을 돌리는 대신, 안토넬리의 순수한 스피드라는 현실에 정면으로 맞서고 있습니다.",
       "메르세데스의 제임스 앨리슨(James Allison) 기술 책임자는 Nu Silver Arrows 라디오 쇼 에서 브래클리의 팀 내 역학 관계를 엿볼 수 있는 기회를 제공하며, 패배에 직면했을 때 러셀이 보여준 냉철한 자기 인식에 대해 칭찬했습니다."
-     ]
-    },
-    {
-     "title": "McLaren to upgrade MCL40 car at its bogey F1 track Las Vegas",
-     "desc": "McLaren will introduce upgrades to its MCL40 at Formula 1’s Las Vegas Grand Prix, with the new parts labelled as “the foundation for next year’s car”. The team launched its 2027…",
-     "link": "https://www.motorsport.com/f1/news/mclaren-to-upgrade-mcl40-car-at-its-bogey-f1-track-las-vegas/10874307/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-     "image": "https://cdn-1.motorsport.com/images/amp/01QNp9q0/s6/leonardo-fornaroli-mclaren.jpg",
-     "date": "2026-11-14T09:09:51+00:00",
-     "author": "",
-     "id": "fa96191159",
-     "titleKo": "맥라렌, 라스베이거스 F1 서킷에서 MCL40 차량 업그레이드 예정",
-     "descKo": "맥라렌은 포뮬러원 라스베이거스 그랑프리에서 MCL40에 업그레이드를 도입할 예정이며, 새로운 부품은 '내년 차량의 기반'으로 명명되었습니다. 팀은 2027년형 차량을 공개했습니다...",
-     "lead": [
-      "McLaren will introduce upgrades to its MCL40 at Formula 1’s Las Vegas Grand Prix, with the new parts labelled as “the foundation for next year’s car”.",
-      "The team launched its 2027 front wing concept in Brazil, with team principal Andrea Stella describing it as an improvement for driveability and predictability ; McLaren returned to form at Interlagos, with Lando Norris clinching pole position and victory in wet conditions. This ended a five-round podium-less streak, the squad’s worst since the first half of the 2023 campaign.",
-      "“After the upgrades in Hungary, it was encouraging that we were in a position to win – we should have won Madrid, really,” Stella said, referring to the unfortunate timing of the Virtual Safety Car in Spain, which likely cost Norris the victory at Madring."
-     ],
-     "leadKo": [
-      "맥라렌은 포뮬러원 라스베이거스 그랑프리에서 MCL40에 대한 업그레이드를 선보일 예정이며, 새로운 부품은 '내년 차량의 기반'으로 명명되었습니다.",
-      "팀은 브라질에서 2027년 프론트 윙 콘셉트를 선보였으며, 팀 대표인 안드레아 스텔라는 이를 주행성과 예측 가능성을 향상시키는 것으로 설명했습니다. 맥라렌은 인터라고스에서 다시 좋은 모습을 보였으며, 랜도 노리스가 젖은 노면에서 폴 포지션과 우승을 차지했습니다. 이로써 5라운드 연속 포디움 진출 실패라는 기록이 끝났으며, 이는 2023년 시즌 전반기 이후 팀의 최악의 성적입니다.",
-      "\"헝가리에서 업그레이드를 마친 후, 우리가 우승할 수 있는 위치에 있었다는 점은 고무적이었습니다. 사실 마드리드에서 우승했어야 했습니다.\" 스텔라 대표는 스페인에서 버추얼 세이프티 카가 등장한 시점이 불운했음을 언급하며, 이로 인해 노리스가 마드리드에서 우승을 놓쳤을 가능성이 높다고 말했습니다."
      ]
     }
    ]
