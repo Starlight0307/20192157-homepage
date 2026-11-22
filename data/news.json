@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T16:24:55+00:00",
+ "updated": "2026-11-22T22:31:14+00:00",
  "failed": [],
  "tabs": {
   "report": {
@@ -18,10 +18,10 @@
      "historyUrl": "https://en.wikipedia.org/wiki/2026_Las_Vegas_Grand_Prix?action=history",
      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/2023_Las_Vegas_street_circuit.svg/1280px-2023_Las_Vegas_street_circuit.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "imageFile": "2023_Las_Vegas_street_circuit.svg",
-     "date": "2026-11-22T15:58:21Z",
+     "date": "2026-11-22T20:56:47Z",
      "raceDate": "2026-11-22",
      "author": "위키백과 편집자들",
-     "revid": 1387108106,
+     "revid": 1387159667,
      "license": "CC BY-SA 4.0",
      "body": [
       {
@@ -119,18 +119,18 @@
        "h": "Qualifying report",
        "level": 3,
        "p": [
-        "Qualifying began with a track temperature of 15 °C (59 °F), following a rain-affected Thursday that had left teams with only one dry practice session. In the first segment (Q1), the drivers used soft tyres and completed several preparation laps to build tyre temperature. Gabriel Bortoleto (Audi) was initially delayed in the garage, while Rafael Câmara (Haas) spun at turn 1 after locking his rear brakes, but continued. George Russell (Mercedes) finished fastest with a time of 1:34.664, 0.020 seconds ahead of teammate Kimi Antonelli, followed by Charles Leclerc (Ferrari) and Lando Norris (McLaren).",
-        "Oliver Bearman, who already faced a grid penalty, gave Haas teammate Câmara a tow on his final attempt. Câmara was eliminated in 17th, 0.071 seconds behind Bortoleto, followed by Sergio Pérez (Cadillac), Fernando Alonso and Lance Stroll (Aston Martin), and Valtteri Bottas (Cadillac). Bearman's best lap of 1:48.005 was outside the 107% limit of 1:41.290, leaving him unclassified.",
-        "Liam Lawson (Racing Bulls) and Oscar Piastri (McLaren) initially set the pace in the second segment (Q2), before Russell moved ahead. Lewis Hamilton (Ferrari) struggled for grip and ran off at turn 1; his subsequent improvement briefly placed him eighth before other drivers went faster. Max Verstappen (Red Bull) was at risk of elimination before his final lap put him fastest. He later attributed much of the improvement to a tow, estimating that following another car by four to four-and-a-half seconds had helped him gain seven to eight tenths. His 1:34.394 placed him ahead of Pierre Gasly (Alpine) and Russell, while Antonelli progressed in tenth.",
+        "Qualifying began with a track temperature of 15 °C (59 °F), following a rain-affected Thursday that had left teams with only one dry practice session. In the first segment (Q1), the drivers used soft tyres and completed several preparation laps to build tyre temperature. Gabriel Bortoleto (Audi) was initially delayed in the garage, while Rafael Câmara (Haas) spun at turn 1 after locking his rear brakes, but continued. George Russell (Mercedes) finished fastest ahead of teammate Kimi Antonelli, followed by Charles Leclerc (Ferrari) and Lando Norris (McLaren).",
+        "Oliver Bearman, who already faced a grid penalty, gave Haas teammate Câmara a tow on his final attempt. Câmara was eliminated in 17th, followed by Sergio Pérez (Cadillac), Fernando Alonso and Lance Stroll (Aston Martin), and Valtteri Bottas (Cadillac). Bearman's best lap was outside the 107% limit, leaving him unclassified.",
+        "Liam Lawson (Racing Bulls) and Oscar Piastri (McLaren) initially set the pace in the second segment (Q2), before Russell moved ahead. Lewis Hamilton (Ferrari) struggled for grip and ran off at turn 1; his subsequent improvement briefly placed him eighth before other drivers went faster. Max Verstappen (Red Bull) was at risk of elimination before his final lap put him fastest. He later attributed much of the improvement to a tow, estimating that following another car by four to four-and-a-half seconds had helped him gain seven to eight tenths. He placed ahead of Pierre Gasly (Alpine) and Russell, while Antonelli progressed in tenth.",
         "Leclerc made a mistake in the middle sector on his final attempt, while Hamilton later reported that debris had damaged his floor early in qualifying, reducing downforce. Neither Ferrari reached Q3, the first time this had happened since the 2024 Canadian Grand Prix. Leclerc and Hamilton finished 11th and 12th, followed by Nico Hülkenberg (Audi), Carlos Sainz Jr. (Williams), Bortoleto and Alexander Albon (Williams).",
-        "Verstappen led after the opening attempts in the final segment (Q3), setting a 1:34.151 ahead of Norris, Russell and Red Bull teammate Isack Hadjar. Mercedes sent Russell out ahead of Antonelli for the final runs, despite Russell having requested to follow his teammate. Russell slowed at the start of his second preparation lap to seek a tow from cars leaving the pits, contributing to a group comprising both Mercedes, Alpines and Racing Bulls. Antonelli, at the rear of the group, crossed the line with only seconds remaining, approximately 1.5 seconds behind Arvid Lindblad (Racing Bulls). The slipstream on the straights compensated for the disadvantage of following closely through the corners.",
-        "Verstappen did not improve on his second attempt. Antonelli's final lap of 1:33.893 secured the fastest time, 0.258 seconds ahead of Verstappen. Antonelli later reported difficulty warming his tyres and excessive brake-pedal travel, but said the tow had helped him complete his final lap. Russell improved to third, ahead of Norris, Hadjar, Lindblad, Piastri, Lawson, Gasly and Franco Colapinto (Alpine). Verstappen described qualifying as his strongest session of the weekend, despite continuing to experience handling problems that he said had first appeared at the São Paulo Grand Prix.",
+        "Verstappen led after the opening attempts in the final segment (Q3), ahead of Norris, Russell and Red Bull teammate Isack Hadjar. Mercedes sent Russell out ahead of Antonelli for the final runs, despite Russell having requested to follow his teammate. Russell slowed at the start of his second preparation lap to seek a tow from cars leaving the pits, contributing to a group comprising both Mercedes, Alpines and Racing Bulls. Antonelli, at the rear of the group, crossed the line with only seconds remaining. The slipstream on the straights compensated for the disadvantage of following closely through the corners.",
+        "Verstappen did not improve on his second attempt. Antonelli's final lap secured the fastest time ahead of Verstappen. Antonelli later reported difficulty warming his tyres and excessive brake-pedal travel, but said the tow had helped him complete his final lap. Russell improved to third, ahead of Norris, Hadjar, Lindblad, Piastri, Lawson, Gasly and Franco Colapinto (Alpine). Verstappen described qualifying as his strongest session of the weekend, despite continuing to experience handling problems that he said had first appeared at the São Paulo Grand Prix.",
         "Antonelli's five-place penalty for exceeding his allocation of power unit components moved him to sixth on the grid, giving Verstappen pole position alongside Russell, with Norris and Hadjar on the second row and Lindblad fifth. Lindblad's fifth place was his highest grid position in Formula One. Piastri's ten-place penalty dropped him from seventh to 17th, promoting Lawson, Gasly, Colapinto and Leclerc to seventh through tenth respectively. Sainz and Stroll also received ten-place penalties, placing them 20th and 21st. Bearman received a 35-place penalty and was placed 22nd after the stewards granted him permission to race despite failing to meet the 107% requirement."
        ],
        "hKo": "예선 리포트",
        "pKo": [
         "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
-        "이미 그리드 페널티를 받은 올리버 베어맨은 마지막 시도에서 하스 팀 동료인 카마라에게 드래프팅을 제공했습니다. 카마라는 보르톨레토에 0.071초 뒤진 17위로 탈락했으며, 그 뒤를 세르히오 페레스(캐딜락), 페르난도 알론소와 랜스 스트롤(애스턴 마틴), 발테리 보타스(캐딜락)가 이었습니다. 베어맨의 최고 랩타임은 1분 48초 005로, 107% 한계인 1분 41초 290을 넘지 못해 기록이 인정되지 않았습니다.",
+        "이미 그리드 페널티를 받은 올리버 베어맨은 마지막 시도에서 하스 팀 동료인 카마라에게 토우를 제공했습니다. 카마라는 17위로 탈락했으며, 이어 세르히오 페레스(캐딜락), 페르난도 알론소와 랜스 스트롤(애스턴 마틴), 발테리 보타스(캐딜락)가 탈락했습니다. 베어맨의 최고 랩타임은 107% 한도를 넘어서 기록되지 않았습니다.",
         "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
         "르클레르는 마지막 시도에서 미들 섹터에서 실수를 저질렀고, 해밀턴은 나중에 퀄리파잉 초반에 잔해로 인해 바닥이 손상되어 다운포스가 감소했다고 밝혔습니다. 두 페라리 드라이버 모두 Q3에 진출하지 못했는데, 이는 2024년 캐나다 그랑프리 이후 처음 있는 일이었습니다. 르클레르와 해밀턴이 각각 11위와 12위를 차지했으며, 그 뒤를 니코 휠켄베르그(아우디), 카를로스 사인츠 주니어 (윌리엄스), 보르톨레토와 알렉산더 알본(윌리엄스)이 뒤를 이었습니다.",
         "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
@@ -659,23 +659,21 @@
      "historyUrl": "https://en.wikipedia.org/wiki/2026_United_States_Grand_Prix?action=history",
      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Austin_circuit.svg/1280px-Austin_circuit.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "imageFile": "Austin_circuit.svg",
-     "date": "2026-11-22T15:53:42Z",
+     "date": "2026-11-22T17:49:55Z",
      "raceDate": "2026-10-25",
      "author": "위키백과 편집자들",
-     "revid": 1387107604,
+     "revid": 1387124715,
      "license": "CC BY-SA 4.0",
      "body": [
       {
        "h": "",
        "level": 1,
        "p": [
-        "The 2026 United States Grand Prix (officially known as the Formula 1 MSC Cruises United States Grand Prix 2026) was a Formula One motor race that was held on October 25, 2026, at the Circuit of the Americas in Austin, Texas, United States. It was the eighteenth round of the 2026 Formula One World Championship. Championship leader Kimi Antonelli (Mercedes) took his seventh pole position which he converted into his ninth Grand Prix victory. Charles Leclerc (Ferrari) and Max Verstappen (Red Bull) came in second and third place, respectively.",
-        "This was the last race start for Esteban Ocon who was removed from the Haas line-up midway through the following race in Mexico due to disagreements with the team."
+        "The 2026 United States Grand Prix (officially known as the Formula 1 MSC Cruises United States Grand Prix 2026) was a Formula One motor race that was held on October 25, 2026, at the Circuit of the Americas in Austin, Texas, United States. It was the eighteenth round of the 2026 Formula One World Championship. Championship leader Kimi Antonelli (Mercedes) took his seventh pole position which he converted into his ninth Grand Prix victory. Charles Leclerc (Ferrari) and Max Verstappen (Red Bull) came in second and third place, respectively."
        ],
        "hKo": "",
        "pKo": [
-        "2026년 미국 그랑프리(공식 명칭: Formula 1 MSC Cruises United States Grand Prix 2026)는 2026년 10월 25일 미국 텍사스주 오스틴에 있는 서킷 오브 더 아메리카스(Circuit of the Americas)에서 열린 포뮬러 1 자동차 경주였습니다. 2026년 포뮬러 원 월드 챔피언십의 18번째 라운드였습니다. 챔피언십 리더인 키미 안토넬리(Mercedes)는 7번째 폴 포지션을 차지하여 9번째 그랑프리 우승을 달성했습니다. 찰스 르클레르(페라리)와 막스 베르스타펜(레드불)이 각각 2위와 3위를 차지했다.",
-        "이것은 팀과의 불화로 인해 다음 레이스인 멕시코 그랑프리 중반에 하스 드라이버 라인업에서 제외된 에스테반 오콘의 마지막 레이스 스타트였습니다."
+        "2026년 미국 그랑프리(공식 명칭: Formula 1 MSC Cruises United States Grand Prix 2026)는 2026년 10월 25일 미국 텍사스주 오스틴에 있는 서킷 오브 더 아메리카스(Circuit of the Americas)에서 열린 포뮬러 1 자동차 경주였습니다. 2026년 포뮬러 원 월드 챔피언십의 18번째 라운드였습니다. 챔피언십 리더인 키미 안토넬리(Mercedes)는 7번째 폴 포지션을 차지하여 9번째 그랑프리 우승을 달성했습니다. 찰스 르클레르(페라리)와 막스 베르스타펜(레드불)이 각각 2위와 3위를 차지했다."
        ]
       },
       {
@@ -1816,6 +1814,69 @@
    "sourceUrl": "https://www.motorsport.com/rss/f1/news/",
    "items": [
     {
+     "title": "F1 set to reduce customer teams as key 2030 details emerge",
+     "desc": "F1 is planning a shift to just two power unit supplies per manufacturer in 2030, Motorsport.com has learned, raising questions over the status of Mercedes' three current…",
+     "link": "https://www.motorsport.com/f1/news/f1-set-to-reduce-customer-teams-as-key-2030-details-emerge/10877055/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+     "image": "https://cdn-1.motorsport.com/images/amp/68Vw5vX2/s6/andrea-kimi-antonelli-mercedes.jpg",
+     "date": "2026-11-22T20:26:49+00:00",
+     "author": "",
+     "id": "320dcec075",
+     "lead": [
+      "F1 is planning a shift to just two power unit supplies per manufacturer in 2030, Motorsport.com has learned, raising questions over the status of Mercedes' three current customers.",
+      "Over the Las Vegas weekend the FIA announced there was unanimous support to bring the next generation of power unit regulations forward to 2030. That includes a move to 2.1-litre V8 engines, including a turbocharger, a maximum of 200 kilowatts of electric power and the use of sustainable fuels.",
+      "That move satisfies the demand for cheaper and less complex engines, which FIA president Mohammed Ben Sulayem and F1 chief Stefano Domenicali had been pursuing in unison. Meanwhile, adding a turbo was a key requirement for the likes of Audi and also ensures engine noise remains at a suitable level for some of F1's urban venues."
+     ],
+     "leadKo": [
+      "모터스포츠닷컴(Motorsport.com)이 입수한 바에 따르면, F1은 2030년에 제조업체당 파워 유닛 공급업체를 단 2곳으로 줄일 계획이며, 이에 따라 메르세데스의 현재 고객 3곳의 지위에 대한 의문이 제기되고 있습니다.",
+      "라스베이거스 주말 동안 FIA는 차세대 파워 유닛 규정을 2030년으로 앞당기는 데 만장일치로 찬성했다고 발표했습니다. 여기에는 터보차저를 포함한 2.1리터 V8 엔진으로의 전환, 최대 200킬로와트의 전기 동력, 그리고 지속 가능한 연료의 사용이 포함됩니다.",
+      "이러한 조치는 FIA 회장 모하메드 벤 술라옘과 F1 수장 스테파노 도메니칼리가 함께 추구해 온 저렴하고 덜 복잡한 엔진에 대한 수요를 충족시킵니다. 한편, 터보를 추가하는 것은 아우디와 같은 팀에게 핵심적인 요구 사항이었으며, 또한 F1의 일부 도심 서킷에서 엔진 소음이 적절한 수준으로 유지되도록 보장합니다."
+     ],
+     "titleKo": "2030년 주요 세부 사항이 드러나면서 F1, 고객 팀 축소 예정",
+     "descKo": "Motorsport.com이 입수한 바에 따르면, F1은 2030년에 제조업체당 파워 유닛 공급업체를 단 2곳으로 줄이는 것을 계획하고 있으며, 이에 따라 메르세데스의 현재 3개 파워 유닛 공급업체의 지위에 대한 의문이 제기되고 있습니다."
+    },
+    {
+     "title": "Haas keeps Rafael Camara in F1, ending his 2026 F2 title bid",
+     "desc": "Haas rookie Rafael Camara will see out the season with Haas in Qatar and Abu Dhabi, effectively ending his F2 championship challenge. Camara was confirmed in October as a…",
+     "link": "https://www.motorsport.com/f1/news/rafael-camara-gives-up-f2-title-chance-to-finish-2026-f1-season-with-haas/10877028/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+     "image": "https://cdn-1.motorsport.com/images/amp/YvKBe8e6/s6/rafael-camara-haas.jpg",
+     "date": "2026-11-22T18:28:04+00:00",
+     "author": "",
+     "id": "d858e72325",
+     "lead": [
+      "Haas rookie Rafael Camara will see out the season with Haas in Qatar and Abu Dhabi, effectively ending his F2 championship challenge.",
+      "Camara was confirmed in October as a full-time replacement for Esteban Ocon in 2027, and was fast-tracked into the seat after Ocon's relationship with the US-owned team deteriorated.",
+      "After test driver Ryo Hirakawa took over Ocon's car midway through the Mexico Grand Prix weekend, Camara made his F1 debut on home soil in Brazil and was also in the VF-26 at this weekend's Las Vegas Grand Prix."
+     ],
+     "leadKo": [
+      "하스의 루키 라파엘 카마라는 카타르와 아부다비에서 하스와 함께 시즌을 마무리하며, 사실상 F2 챔피언십 도전은 끝이 납니다.",
+      "카마라는 2027년 에스테반 오콘의 정규 드라이버 대체 선수로 10월에 확정되었으며, 오콘과 미국 소유 팀과의 관계가 악화된 후 빠르게 자리를 차지했습니다.",
+      "테스트 드라이버인 료 히라카와가 멕시코 그랑프리 주말 중반에 오콘의 머신을 대신 맡은 후, 카마라는 브라질에서 F1 데뷔전을 치렀으며 이번 주말 라스베이거스 그랑프리에서도 VF-26를 운전했습니다."
+     ],
+     "titleKo": "하스가 라파엘 카마라를 F1에 잔류시키면서 그의 2026년 F2 타이틀 도전이 종료됩니다.",
+     "descKo": "하스의 루키 라파엘 카마라는 카타르와 아부다비에서 하스와 함께 시즌을 마무리하며 사실상 F2 챔피언십 도전이 종료됩니다. 카마라는 10월에...로 확정되었습니다."
+    },
+    {
+     "title": "\"I actually liked it\" – McLaren boss defends Piastri's four-letter outburst in Las Vegas GP",
+     "desc": "Completing the podium behind a victorious Max Verstappen in Las Vegas probably wasn't on McLaren's bingo card after a troubled qualifying session for Lando Norris and Oscar…",
+     "link": "https://www.motorsport.com/f1/news/i-actually-liked-it-mclaren-boss-defends-piastris-four-letter-outburst-in-las-vegas-gp/10876928/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+     "image": "https://cdn-1.motorsport.com/images/amp/0JXR7QEY/s6/oscar-piastri-mclaren-2.jpg",
+     "date": "2026-11-22T18:01:18+00:00",
+     "author": "",
+     "id": "977d0be731",
+     "lead": [
+      "Completing the podium behind a victorious Max Verstappen in Las Vegas probably wasn't on McLaren's bingo card after a troubled qualifying session for Lando Norris and Oscar Piastri . Finishing third would have seemed particularly unlikely for Piastri given that penalties for fitting out-of-quota engine components dropped him to 17th on the grid.",
+      "Afterwards, McLaren team principal Andrea Stella likened Piastri's mindset to that of world champions with whom he worked as an engineer: Michael Schumacher , Fernando Alonso and Kimi Raikkonen . His remark was a response to being asked about the sharp retort Piastri delivered to race engineer Tom Stallard when asked to \"be careful around our team-mate\" while running in fifth place behind Lando Norris and George Russell on lap 41.",
+      "\"Stop telling me to fucking be careful,\" was Piastri's response."
+     ],
+     "leadKo": [
+      "란도 노리스와 오스카 피아스트리가 퀄리파잉 세션에서 어려움을 겪은 후, 라스베이거스에서 우승한 맥스 페르스타펜에 이어 포디움에 오르는 것은 맥라렌의 예상 밖의 결과였을 것입니다. 쿼터 초과 엔진 부품 장착에 따른 페널티로 인해 그리드 17위로 밀려난 피아스트리가 3위를 차지하는 것은 특히나 불가능해 보였습니다.",
+      "이후, 맥라렌 팀 대표 안드레아 스텔라는 피아스트리의 사고방식을 엔지니어로 함께 일했던 월드 챔피언들, 즉 미하엘 슈마허, 페르난도 알론소, 키미 래이쾨넨의 사고방식과 비교했습니다. 이 발언은 41번째 랩에서 랜도 노리스와 조지 러셀에 이어 5위를 달리고 있을 때 \"팀 동료 주변에서 조심하라\"는 레이스 엔지니어 톰 스탈러드의 요청에 피아스트리가 날카롭게 응수한 것에 대한 질문에 대한 답변이었습니다.",
+      "피아스트리는 \"젠장, 조심하라는 말 좀 그만해\"라고 답했습니다."
+     ],
+     "titleKo": "\"사실 마음에 들었습니다\" – 맥라렌 팀 대표, 라스베이거스 GP에서 피아스트리의 욕설을 옹호",
+     "descKo": "란도 노리스와 오스카 피아스트리가 어려움을 겪은 예선 세션 이후, 맥라렌이 라스베이거스에서 우승한 막스 페르스타펜에 이어 포디움을 차지할 것이라고는 아마도 예상하지 못했을 것입니다."
+    },
+    {
      "title": "The one aspect of Max Verstappen \"outsmarting\" Mercedes that left Red Bull speechless",
      "desc": "Max Verstappen claimed his fourth victory in the last six Formula 1 Grands Prix. This time, the Dutchman won at what is known as an energy-poor circuit, which is noteworthy given…",
      "link": "https://www.motorsport.com/f1/news/the-one-aspect-of-max-verstappen-outsmarting-mercedes-that-left-red-bull-speechless/10876912/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -1823,6 +1884,8 @@
      "date": "2026-11-22T11:58:03+00:00",
      "author": "",
      "id": "2bba99f152",
+     "titleKo": "레드불을 말문이 막히게 만든 맥스 페르스타펜의 '메르세데스 능가' 한 가지 측면",
+     "descKo": "맥스 페르스타펜이 최근 6번의 포뮬러원 그랑프리에서 4번째 우승을 차지했습니다. 이번에는 네덜란드 선수가 에너지 효율이 낮은 것으로 알려진 서킷에서 우승했는데, 이는 다음과 같은 이유로 주목할 만합니다...",
      "lead": [
       "Max Verstappen claimed his fourth victory in the last six Formula 1 Grands Prix. This time, the Dutchman won at what is known as an energy-poor circuit, which is noteworthy given that Red Bull Ford Powertrains was still struggling at such venues at the start of this year.",
       "The victory in Las Vegas appears to underline just how much progress Red Bull has made in that area, although team principal Laurent Mekies believes the result primarily tells a different story. According to him, Verstappen handled the tactical challenges of energy management and the extremely powerful slipstream particularly well.",
@@ -1832,9 +1895,7 @@
       "맥스 페르스타펜이 최근 6번의 포뮬러원 그랑프리에서 4번째 우승을 차지했습니다. 이번에는 에너지 효율이 낮은 것으로 알려진 서킷에서 네덜란드 선수가 우승했는데, 올해 초만 해도 레드불 포드 파워트레인(Red Bull Ford Powertrains)이 이러한 서킷에서 고전했다는 점을 감안하면 주목할 만한 성과입니다.",
       "라스베이거스에서의 우승은 레드불이 해당 분야에서 얼마나 많은 발전을 이루었는지 잘 보여주는 것 같지만, 로랑 메키스 팀 대표는 이 결과가 주로 다른 이야기를 들려준다고 생각합니다. 그에 따르면, 페르스타펜은 에너지 관리와 매우 강력한 슬립스트림이라는 전술적 과제를 특히 잘 처리했습니다.",
       "메키스는 모터스포츠닷컴(Motorsport.com)이 베르스타펜이 메르세데스를 능가한 덕분에 승리한 부분이 얼마나 되는지, 그리고 레드불이 파워 유닛을 최적화한 덕분에 승리한 부분이 얼마나 되는지 묻자, \"베르스타펜이 50랩 동안 방어하는 데 성공한 방식으로 오늘 상대팀을 분명히 능가했다고 생각한다\"라고 답했다."
-     ],
-     "titleKo": "레드불을 말문이 막히게 만든 맥스 페르스타펜의 '메르세데스 능가' 한 가지 측면",
-     "descKo": "맥스 페르스타펜이 최근 6번의 포뮬러원 그랑프리에서 4번째 우승을 차지했습니다. 이번에는 네덜란드 선수가 에너지 효율이 낮은 것으로 알려진 서킷에서 우승했는데, 이는 다음과 같은 이유로 주목할 만합니다..."
+     ]
     },
     {
      "title": "Lewis Hamilton: ‘Charles Leclerc’s frame of mind cost us a lot of points today’",
@@ -1844,6 +1905,8 @@
      "date": "2026-11-22T11:26:45+00:00",
      "author": "",
      "id": "2cf11befdf",
+     "titleKo": "루이스 해밀턴: '샤를 르클레르의 심리 상태가 오늘 우리에게 많은 포인트를 손실하게 만들었습니다'",
+     "descKo": "루이스 해밀턴은 포뮬러원 라스베이거스 그랑프리에서 발생한 충돌 사고의 원인이 샤를 르클레르의 \"심리 상태\" 때문이었다고 은연중에 시사했습니다. 해밀턴과 르클레르는 각각 6위와 7위를 차지했습니다...",
      "lead": [
       "Lewis Hamilton subtly implied Charles Leclerc ’s “frame of mind” was to blame for their collision in Formula 1’s Las Vegas Grand Prix.",
       "Hamilton and Leclerc were sixth and seventh on lap 37 of the Nevadan race, only some two seconds adrift of race leader Max Verstappen , when the Monegasque dived down the inside in Turn 7. His front wheels were nearly alongside the Briton’s, but he seemingly saw the door closing and backed out; as a result, his front axle was next to Hamilton’s sidepod at the apex and he ended up clipping his team-mate’s rear-left wheel, sending the sister car…",
@@ -1853,9 +1916,7 @@
       "루이스 해밀턴은 포뮬러원 라스베이거스 그랑프리에서 발생한 충돌 사고의 원인이 샤를 르클레르의 \"심리 상태\" 때문이었다고 은연중에 시사했습니다.",
       "해밀턴과 르클레르는 네바다 레이스의 37바퀴째에 6위와 7위를 차지했으며, 모나코 출신의 르클레르가 7번 코너 안쪽으로 파고들었을 때 레이스 선두인 막스 페르스타펜과 불과 2초 차이였습니다. 르클레르의 앞바퀴는 거의 영국인 드라이버의 앞바퀴와 나란히 있었지만, 그는 틈이 좁아지는 것을 보고 후진한 것으로 보입니다. 그 결과, 그의 앞 차축은 코너의 정점에서 해밀턴의 사이드포드 옆에 있었고, 결국 팀 동료의 왼쪽 뒷바퀴를 건드려 같은 팀의 머신을…",
       "이로 인해 르클레르는 10초의 페널티를 받았고, 해밀턴은 4위와 약 8초를 잃었습니다. 그 결과, 두 드라이버는 각각 10위와 7위로 체커 플래그를 통과했으며, 상위 5위권 진입과 포디움 진출 가능성을 놓치게 되었습니다."
-     ],
-     "titleKo": "루이스 해밀턴: '샤를 르클레르의 심리 상태가 오늘 우리에게 많은 포인트를 손실하게 만들었습니다'",
-     "descKo": "루이스 해밀턴은 포뮬러원 라스베이거스 그랑프리에서 발생한 충돌 사고의 원인이 샤를 르클레르의 \"심리 상태\" 때문이었다고 은연중에 시사했습니다. 해밀턴과 르클레르는 각각 6위와 7위를 차지했습니다..."
+     ]
     },
     {
      "title": "Winners and losers from F1's chaotically extraordinary Las Vegas GP",
@@ -1865,6 +1926,8 @@
      "date": "2026-11-22T10:34:15+00:00",
      "author": "",
      "id": "0a1b35704f",
+     "titleKo": "F1의 혼돈스럽고 특별한 라스베이거스 GP의 승자와 패자",
+     "descKo": "단 몇 초 차이로 떼지어 달리는 자동차들, 35번의 선두 교체 중 1위를 다투는 상위 3대의 자동차들, 그리고 결승선에서 앞서기 위해 최적의 포지셔닝을 찾으려는 드라이버들...",
      "lead": [
       "A pack of cars covered by seconds, the top three trading first position as part of 35 lead changes, and drivers trying to figure out the best positioning to be ahead at the finish line on the final lap; The Las Vegas Grand Prix felt like the glitzy, battery-assisted street course version of the Indy 500.",
       "It was quite fitting to see how in America's artificial entertainment capital, F1 put on an entertaining, if somewhat artificial, spectacle. It may not have been everyone's cup of tea, but you'll be hard-pressed to find anyone in attendance that didn't feel like they got their hard-earned money's worth.",
@@ -1874,9 +1937,7 @@
       "몇 초 간격으로 따라붙는 차량 행렬, 35번의 선두 교체 중 1위를 차지하기 위해 경쟁하는 상위 3대의 차량, 그리고 마지막 랩에서 결승선을 가장 먼저 통과하기 위해 최적의 포지셔닝을 찾으려는 드라이버들. 라스베이거스 그랑프리는 마치 인디 500의 화려한 배터리 지원 스트리트 서킷 버전 같았습니다.",
       "미국의 인공적인 엔터테인먼트의 중심지에서 F1이 다소 인공적이긴 하지만 흥미로운 볼거리를 선사하는 모습을 보는 것이 꽤 적절했습니다. 모든 사람의 취향에 맞지는 않았을지 모르지만, 힘들게 번 돈이 아깝지 않았다고 느끼지 않은 관중을 찾기란 어려울 것입니다.",
       "라스베이거스 스트립에서 우승하기 위해 무엇이 필요했을까요? 물론 용기와 레이싱 기술이 필요했죠. 하지만 두뇌도 필요했습니다. 선두를 유지하기 위한 올바른 에너지 배분 전략을 파악한 다음, 1번 코너가 아닌 마지막 랩에서 결승선을 통과할 때 선두에 서기 위해 그 전략을 조정해야 했습니다."
-     ],
-     "titleKo": "F1의 혼돈스럽고 특별한 라스베이거스 GP의 승자와 패자",
-     "descKo": "단 몇 초 차이로 떼지어 달리는 자동차들, 35번의 선두 교체 중 1위를 다투는 상위 3대의 자동차들, 그리고 결승선에서 앞서기 위해 최적의 포지셔닝을 찾으려는 드라이버들..."
+     ]
     },
     {
      "title": "Max Verstappen continues George Russell fallout, labels his 2026 F1 season a \"complete disaster\"",
@@ -1886,6 +1947,8 @@
      "date": "2026-11-22T10:13:23+00:00",
      "author": "",
      "id": "50767d663d",
+     "titleKo": "맥스 페르스타펜, 조지 러셀과의 갈등을 이어가며 2026년 F1 시즌을 \"완전한 재앙\"이라고 표현",
+     "descKo": "포뮬러원 라스베이거스 그랑프리 3차 자유 연습 세션에서 막스 페르스타펜과 조지 러셀 간의 충돌이...",
      "lead": [
       "While the clash between Max Verstappen and George Russell during the third free practice session for the Formula 1 Las Vegas Grand Prix appeared to have been settled with a warning for the Red Bull driver, the dispute has since escalated in the media.",
       "Speaking to Sky Sports Italy after qualifying, Russell made it clear that he was no longer willing to accept \"somebody to screw me over like this and walk around like they’re bigger and better than everyone else.\"",
@@ -1895,9 +1958,7 @@
       "포뮬러원 라스베이거스 그랑프리 3차 자유 연습 세션에서 막스 페르스타펜과 조지 러셀 간의 충돌이 레드불 드라이버에 대한 경고로 일단락된 것처럼 보였지만, 이후 언론에서 논쟁이 가열되었습니다.",
       "러셀은 예선전 후 스카이 스포츠 이탈리아와의 인터뷰에서 \"누군가가 나를 이렇게 망쳐놓고 마치 자신이 다른 모든 사람보다 더 대단하고 더 낫다는 듯이 행동하는 것을 더 이상 용납할 수 없다\"고 분명히 밝혔습니다.",
       "페르스타펜은 금요일에 이러한 발언에 응답하지 않았지만, 라스베이거스 그랑프리 우승 후 이에 대해 입장을 밝혔습니다. 러셀이 직진하여 우승 기회를 놓친 후, 페르스타펜은 이미 팀 라디오를 통해 기쁨을 표현했으며, 이후 패독에서 한 걸음 더 나아갔습니다."
-     ],
-     "titleKo": "맥스 페르스타펜, 조지 러셀과의 갈등을 이어가며 2026년 F1 시즌을 \"완전한 재앙\"이라고 표현",
-     "descKo": "포뮬러원 라스베이거스 그랑프리 3차 자유 연습 세션에서 막스 페르스타펜과 조지 러셀 간의 충돌이..."
+     ]
     },
     {
      "title": "Isack Hadjar gets penalty after backing up George Russell in Las Vegas GP",
@@ -1907,6 +1968,8 @@
      "date": "2026-11-22T08:59:53+00:00",
      "author": "",
      "id": "4c7320b483",
+     "titleKo": "이사크 하지아르, 라스베이거스 GP에서 조지 러셀을 밀어붙인 후 페널티 받음",
+     "descKo": "이사크 하지아르가 포뮬러원 라스베이거스 그랑프리에서 불필요하게 느린 주행으로 10초 페널티를 받았습니다. 이는 세이프티 카 주행 중 그의 행동에 따른 결과입니다. 경기는...",
      "lead": [
       "Isack Hadjar has received a 10-second penalty for driving unnecessarily slowly in Formula 1’s Las Vegas Grand Prix – the result of his actions under the safety car.",
       "The race was neutralised on lap 19 when Sergio Perez and Rafael Camara collided; Max Verstappen was leading team-mate Hadjar but the Red Bulls and Mercedes cars lay within just over a second; the double-stack meant Hadjar risked losing track position to Russell and other drivers.",
@@ -1916,9 +1979,7 @@
       "이사크 하지아르가 포뮬러원 라스베이거스 그랑프리에서 불필요하게 느린 주행으로 10초 페널티를 받았습니다. 이는 세이프티 카 주행 중 그의 행동에 따른 결과입니다.",
       "세르지오 페레스와 라파엘 카마라가 충돌한 19랩에서 경기가 중단되었습니다. 막스 페르스타펜이 팀 동료인 하자르를 앞서고 있었지만, 레드불과 메르세데스 머신은 1초 조금 넘는 차이로 뒤따르고 있었습니다. 더블 스택으로 인해 하자르는 러셀과 다른 드라이버들에게 트랙 포지션을 빼앗길 위험에 처했습니다.",
       "따라서 프랑스 드라이버는 속도를 줄였고, 그 결과 해당 랩에서 팀 동료보다 4.288초 느렸습니다. 이로 인해 더블 스택의 영향이 완화되었지만, 여전히 2위를 지켜내지 못했습니다."
-     ],
-     "titleKo": "이사크 하지아르, 라스베이거스 GP에서 조지 러셀을 밀어붙인 후 페널티 받음",
-     "descKo": "이사크 하지아르가 포뮬러원 라스베이거스 그랑프리에서 불필요하게 느린 주행으로 10초 페널티를 받았습니다. 이는 세이프티 카 주행 중 그의 행동에 따른 결과입니다. 경기는..."
+     ]
     },
     {
      "title": "Fred Vasseur furious with latest \"unprofessional\" Ferrari clash: \"It's the same speech as Mexico\"",
@@ -1928,6 +1989,8 @@
      "date": "2026-11-22T08:38:22+00:00",
      "author": "",
      "id": "e083e3bbb3",
+     "titleKo": "프레드 바수르, 최근의 \"비전문적인\" 페라리 충돌에 분노: \"멕시코 때와 똑같은 이야기입니다\"",
+     "descKo": "페라리 팀의 프레드 바수르(Fred Vasseur) 대표는 찰스 르클레르가 라스베이거스 그랑프리에서 루이스 해밀턴과 접촉한 것이 \"용납할 수 없는\" 행동이었으며 \"팀에 대한 존중이 부족한\" 모습을 보였다고 말했습니다.",
      "lead": [
       "Ferrari team boss Fred Vasseur says Charles Leclerc's contact with Lewis Hamilton in the Las Vegas Grand Prix was \"unacceptable\" and showed \"lack of respect for the team\", with the Formula 1 team set for fresh crisis talks just three weeks after their spat in Mexico.",
       "Vasseur had to hold talks with both Leclerc and Hamilton for their costly Mexico skirmish and will do so again after his two cars tangled on the streets of Las Vegas on lap 38, with Leclerc to blame for leaving his front wing dangling on the inside of Hamilton, sending the Briton into a spin.",
@@ -1937,71 +2000,6 @@
       "페라리 팀의 수장인 프레드 바쇠르(Fred Vasseur)는 라스베이거스 그랑프리에서 샤를 르클레르가 루이스 해밀턴과 접촉한 것이 \"용납할 수 없는\" 행동이었으며 \"팀에 대한 존중이 부족한\" 모습을 보였다고 말했습니다. 포뮬러원 팀은 멕시코에서 말다툼을 벌인 지 불과 3주 만에 새로운 위기 회담을 앞두고 있습니다.",
       "바죄르 대표는 멕시코 그랑프리에서 발생한 고가의 충돌 사고에 대해 르클레르와 해밀턴 모두와 대화를 나눠야 했으며, 두 드라이버가 라스베이거스 서킷의 38번째 랩에서 충돌한 후에도 다시 대화를 나눠야 했습니다. 르클레르는 해밀턴의 안쪽으로 프런트 윙을 내밀어 해밀턴을 스핀하게 만들었습니다.",
       "르클레르는 충돌로 인해 10초의 페널티를 받았고, 해밀턴은 10위로 밀려났다가 결국 8위로 결승선을 통과했습니다. 르클레르는 페널티가 레이스 시간에 추가된 후 10위로 기록되었습니다."
-     ],
-     "titleKo": "프레드 바수르, 최근의 \"비전문적인\" 페라리 충돌에 분노: \"멕시코 때와 똑같은 이야기입니다\"",
-     "descKo": "페라리 팀의 프레드 바수르(Fred Vasseur) 대표는 찰스 르클레르가 라스베이거스 그랑프리에서 루이스 해밀턴과 접촉한 것이 \"용납할 수 없는\" 행동이었으며 \"팀에 대한 존중이 부족한\" 모습을 보였다고 말했습니다."
-    },
-    {
-     "title": "Lewis Hamilton: With #1 driver backing at key points, we could have beaten Kimi Antonelli this season",
-     "desc": "Seven-time Formula 1 champion Lewis Hamilton believes he could have beaten Mercedes' Kimi Antonelli in their battle earlier in the season had he been given more support from…",
-     "link": "https://www.motorsport.com/f1/news/lewis-hamilton-with-no-1-driver-backing-we-could-have-beaten-kimi-antonelli-to-f1-title/10876826/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-     "image": "https://cdn-1.motorsport.com/images/amp/6zoD4yL0/s6/lewis-hamilton-ferrari-a10876826-b704-2.jpg",
-     "date": "2026-11-22T08:20:05+00:00",
-     "author": "",
-     "id": "8374f5203f",
-     "lead": [
-      "Seven-time Formula 1 champion Lewis Hamilton believes he could have beaten Mercedes' Kimi Antonelli in their battle earlier in the season had he been given more support from Ferrari .",
-      "The Briton was speaking after the Las Vegas Grand Prix, where he had another clash with his team-mate Charles Leclerc , which sent him into a spin. He recovered to finish seventh , while Leclerc was penalised and finished 10th.",
-      "Asked about 1996 F1 champion Damon Hill's suggestion that Ferrari should make him its number one driver, Hamilton said he had never asked for that status, but felt he had needed it earlier in the year."
-     ],
-     "leadKo": [
-      "7회 포뮬러원 챔피언인 루이스 해밀턴은 페라리로부터 더 많은 지원을 받았더라면 시즌 초반에 있었던 메르세데스의 키미 안토넬리와의 대결에서 이길 수 있었을 것이라고 생각합니다.",
-      "영국인 드라이버는 라스베이거스 그랑프리 이후에 발언했습니다. 그는 이 대회에서 팀 동료인 샤를 르클레르와 또 한 번 충돌하여 스핀을 일으켰습니다. 그는 7위로 경기를 마쳤고, 르클레르는 페널티를 받아 10위로 경기를 마쳤습니다.",
-      "1996년 F1 챔피언인 데이먼 힐이 페라리가 해밀턴을 1인자 드라이버로 만들어야 한다고 제안한 것에 대해 해밀턴은 자신이 그 지위를 요구한 적은 없지만, 올해 초에는 그 지위가 필요하다고 느꼈다고 말했다."
-     ],
-     "titleKo": "루이스 해밀턴: 이번 시즌 주요 시점에서 1위 드라이버의 지원을 받았다면 키미 안토넬리를 이길 수 있었을 것입니다.",
-     "descKo": "7회 포뮬러원 챔피언인 루이스 해밀턴은 시즌 초반에 메르세데스의 키미 안토넬리와의 대결에서 더 많은 지원을 받았더라면 그를 이길 수 있었을 것이라고 생각합니다."
-    },
-    {
-     "title": "Isack Hadjar says freak Las Vegas front wing failure is “ruining my fun” after podium run collapses",
-     "desc": "Isack Hadjar spent the opening half of the 2026 Las Vegas Grand Prix racing wheel-to-wheel with Formula 1’s frontrunners - even pressing Red Bull team-mate Max Verstappen for the…",
-     "link": "https://www.motorsport.com/f1/news/isack-hadjar-says-freak-las-vegas-front-wing-failure-is-ruining-my-fun-after-podium-run-collapses/10876797/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-     "image": "https://cdn-1.motorsport.com/images/amp/0R7ByJA2/s6/isack-hadjar-red-bull-racing-a10876797-b707-2.jpg",
-     "date": "2026-11-22T07:57:30+00:00",
-     "author": "",
-     "id": "a29fe31697",
-     "titleKo": "이사크 하지아르, 포디움 진출이 무산된 후 \"내 즐거움을 망치고 있다\"며 라스베이거스 프론트 윙 고장을 '괴이한 일'이라고 표현",
-     "descKo": "이삭 하자르(Isack Hadjar)는 2026년 라스베이거스 그랑프리 전반전을 포뮬러원 선두 주자들과 나란히 달리며 보냈습니다. 심지어 레드불 팀 동료인 막스 페르스타펜(Max Verstappen)을 압박하며...",
-     "lead": [
-      "Isack Hadjar spent the opening half of the 2026 Las Vegas Grand Prix racing wheel-to-wheel with Formula 1’s frontrunners - even pressing Red Bull team-mate Max Verstappen for the lead. Halfway through the 50-lap race, a freak mechanical failure reduced the rest of his night to lonely damage limitation.",
-      "Starting fourth on the grid, the 22-year-old cleared Lando Norris on Lap 1 and muscled past George Russell into second during a frantic early slipstream battle, going so far as to ask over team radio if Verstappen could \"stop defending\" as the Red Bulls ran 1–2.",
-      "Hadjar held third when racing resumed on Lap 26 following the safety car triggered by Sergio Pérez’s collision with Rafael Câmara and extended by Arvid Lindblad ’s spin."
-     ],
-     "leadKo": [
-      "이삭 하자르는 2026년 라스베이거스 그랑프리 초반 하프를 포뮬러원 선두 주자들과 나란히 달리며 보냈습니다. 심지어 레드불 팀 동료인 막스 페르스타펜을 추월해 선두를 차지하기도 했습니다. 50랩 레이스의 중반에 기계적 결함이 발생하여 남은 레이스에서 피해를 최소화하는 데만 집중해야 했습니다.",
-      "그리드에서 4위로 출발한 22세의 그는 1랩에서 랜도 노리스를 제치고, 치열한 초반 슬립스트림 배틀에서 조지 러셀을 제치고 2위로 올라섰습니다. 레드불이 1~2위를 달리는 동안, 그는 팀 라디오를 통해 페르스타펜에게 \"방어를 멈춰달라\"고 요청하기까지 했습니다.",
-      "하자르는 세르지오 페레스가 라파엘 카마라와 충돌하고 아르비드 린드블라드가 스핀한 후 세이프티 카가 투입되어 26랩에서 경주가 재개되었을 때 3위를 차지했습니다."
-     ]
-    },
-    {
-     "title": "Max Verstappen’s revenge on George Russell: “Karma is a bitch”",
-     "desc": "Max Verstappen has hit back at George Russell’s Friday comments by winning Formula 1’s Las Vegas Grand Prix – and delivering scathing remarks afterwards. The pair were involved in…",
-     "link": "https://www.motorsport.com/f1/news/max-verstappens-snarky-revenge-on-george-russell-hes-so-far-below-my-level/10876804/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-     "image": "https://cdn-1.motorsport.com/images/amp/6grQV1nY/s6/max-verstappen-red-bull-racing.jpg",
-     "date": "2026-11-22T07:57:17+00:00",
-     "author": "",
-     "id": "9ace45cece",
-     "titleKo": "맥스 페르스타펜이 조지 러셀에게 복수: \"인과는 무서운 것\"",
-     "descKo": "맥스 페르스타펜이 포뮬러원 라스베이거스 그랑프리에서 우승하며 조지 러셀의 금요일 발언에 반격했고, 이후 날카로운 발언을 쏟아냈습니다. 두 사람은...에 연루되었습니다.",
-     "lead": [
-      "Max Verstappen has hit back at George Russell ’s Friday comments by winning Formula 1’s Las Vegas Grand Prix – and delivering scathing remarks afterwards.",
-      "The pair were involved in an incident in Free Practice 3, with Verstappen breaching what Russell deemed to be a gentlemen’s agreement by overtaking him ahead of a flying lap. The Briton moved to get back ahead but Verstappen unsuccessfully attempted to close the door and the duo eventually had a small collision.",
-      "The shenanigans led stewards to officially warn Verstappen for moving under braking, while Russell unabashedly blamed his rival on Sky Sport Italy: “He does this week in week out with many drivers and everybody accepts it, and I'm not just going to accept somebody to screw me over like this and walk around like they're bigger and better than everyone else. Somebody's got to stand up to that guy.”"
-     ],
-     "leadKo": [
-      "맥스 페르스타펜이 포뮬러원 라스베이거스 그랑프리에서 우승하며 조지 러셀의 금요일 발언에 반격했고, 이후 날카로운 발언을 쏟아냈습니다.",
-      "두 사람은 3차 자유 연습 주행에서 사고를 당했습니다. 베르스타펜이 플라잉 랩을 앞두고 러셀을 추월하면서 러셀이 '신사 협정'이라고 생각한 것을 위반한 것입니다. 영국인 드라이버는 다시 앞서 나가기 위해 움직였지만, 페르스타펜은 길을 막으려다 실패했고, 결국 두 사람은 가벼운 충돌을 일으켰습니다.",
-      "이러한 꼼수 때문에 스튜어드들은 베르스타펜에게 제동 중 차선을 변경한 것에 대해 공식적으로 경고를 내렸고, 러셀은 스카이 스포츠 이탈리아에서 당당하게 라이벌을 비난했습니다. \"그는 매주 많은 드라이버들에게 이런 짓을 하는데 모두가 이를 받아들입니다. 하지만 저는 누군가가 저를 이렇게 속이고 마치 자신이 다른 모든 사람보다 더 대단하고 더 낫다는 듯이 행동하는 것을 그냥 받아들이지 않을 겁니다. 누군가는 그 사람에게 맞서야 합니다.\""
      ]
     }
    ]
@@ -2011,6 +2009,27 @@
    "sourceUrl": "https://the-race.com/category/formula-1/feed/",
    "items": [
     {
+     "title": "Camara to complete F1 season with Haas, sacrificing F2 title shot",
+     "desc": "Rafael Camara will complete the 2026 Formula 1 season with Haas, effectively sacrificing his Formula 2 championship shot",
+     "link": "https://www.the-race.com/formula-1/camara-to-complete-f1-season-with-haas-sacrificing-f2-title-shot/",
+     "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1455562_HiRes.jpg",
+     "date": "2026-11-22T18:12:46+00:00",
+     "author": "Matt Beer",
+     "id": "aad6f7aeca",
+     "lead": [
+      "Rafael Camara will complete the 2026 Formula 1 season with Haas, effectively sacrificing his Formula 2 championship shot to continue getting a headstart on his relationship with his 2027 F1 team.",
+      "Though Camara contested the Brazilian and Las Vegas Grands Prix for Haas after its sudden split with Esteban Ocon midway through the Mexican GP weekend, Camara had been on a race-by-race arrangement.",
+      "He currently leads the F2 standings by seven points over Red Bull reserve Nikola Tsolov, but the last two rounds are on the F1 bill in Qatar and Abu Dhabi and drivers are barred from trying to compete in both series at the same event (which would in any case be impractical with the timetables even if it was permitted)."
+     ],
+     "leadKo": [
+      "라파엘 카마라는 2026년 포뮬러 1 시즌을 하스와 함께 마무리할 예정이며, 2027년 F1 팀과의 관계를 계속 이어가기 위해 포뮬러 2 챔피언십 출전을 포기할 것입니다.",
+      "카마라는 멕시코 GP 주말 중반에 에스테반 오콘과 갑작스럽게 결별한 후 하스를 위해 브라질 GP와 라스베이거스 GP에 출전했지만, 경기별 계약을 맺고 있었습니다.",
+      "그는 현재 레드불 리저브 드라이버인 니콜라 졸로프(Nikola Tsolov)보다 7포인트 앞서 F2 순위에서 선두를 달리고 있지만, 마지막 2라운드는 카타르와 아부다비에서 F1과 함께 열리며 드라이버들은 같은 이벤트에서 두 시리즈에 모두 출전할 수 없습니다(허용되더라도 일정상으로 어차피 불가능할 것입니다)."
+     ],
+     "titleKo": "카마라, F2 타이틀 획득 기회를 포기하고 하스와 함께 F1 시즌을 마무리할 예정",
+     "descKo": "라파엘 카마라는 2026년 포뮬러 1 시즌을 하스와 함께 마무리할 예정이며, 사실상 포뮬러 2 챔피언십 출전 기회를 포기하게 됩니다."
+    },
+    {
      "title": "'Very artificial' - F1 drivers divided over Las Vegas overtaking frenzy",
      "desc": "The racing in F1’s overtake-filled Las Vegas Grand Prix has split opinion among drivers, with some criticising it as “very artificial” and “not F1”",
      "link": "https://www.the-race.com/formula-1/this-is-not-f1-verstappen-criticises-las-vegas-overtaking-frenzy/",
@@ -2018,6 +2037,8 @@
      "date": "2026-11-22T14:07:15+00:00",
      "author": "Josh Suttill",
      "id": "7b40877abe",
+     "titleKo": "'매우 인위적' - 라스베이거스 서킷의 추월 난무에 대해 의견이 엇갈리는 F1 드라이버들",
+     "descKo": "F1의 추월이 많은 라스베이거스 그랑프리 경주에 대해 드라이버들 사이에서 의견이 엇갈리고 있습니다. 일부는 이 경주를 \"매우 인위적\"이고 \"F1답지 않다\"고 비판하고 있습니다.",
      "lead": [
       "The racing in Formula 1’s overtake-filled Las Vegas Grand Prix has split opinion among drivers, with some criticising it as “very artificial” and “not F1”.",
       "According to F1’s figures, there were 352 overtakes, including 35 changes for the lead in Las Vegas. But quantity doesn’t always equal quality, and there were mixed verdicts from the grid.",
@@ -2027,9 +2048,7 @@
       "포뮬러원(F1)의 추월이 많은 라스베이거스 그랑프리 경주에 대해 드라이버들 사이에서 의견이 엇갈리고 있습니다. 일부는 이 경주를 \"매우 인위적\"이고 \"F1답지 않다\"고 비판하고 있습니다.",
       "F1의 수치에 따르면, 라스베이거스에서 352번의 추월이 있었으며, 그중 35번은 선두를 차지하기 위한 추월이었습니다. 하지만 양이 항상 질과 같은 것은 아니며, 그리드에서는 엇갈린 평가가 나왔습니다.",
       "2026년 규정의 강력한 비판자인 막스 페르스타펜은 레이스 후 기자회견을 시작하면서 올해 규정에 대한 자신의 좋아하는 비교 지점 중 하나를 언급하지 않으려고 농담을 던지며 스스로를 멈추려고 했습니다."
-     ],
-     "titleKo": "'매우 인위적' - 라스베이거스 서킷의 추월 난무에 대해 의견이 엇갈리는 F1 드라이버들",
-     "descKo": "F1의 추월이 많은 라스베이거스 그랑프리 경주에 대해 드라이버들 사이에서 의견이 엇갈리고 있습니다. 일부는 이 경주를 \"매우 인위적\"이고 \"F1답지 않다\"고 비판하고 있습니다."
+     ]
     },
     {
      "title": "F1 pitwall data delivery has doubled in speed since 2024",
@@ -2039,6 +2058,8 @@
      "date": "2026-11-22T13:39:10+00:00",
      "author": "Samarth Kanal",
      "id": "85e16d2a3d",
+     "titleKo": "F1 피트월 데이터 전송 속도가 2024년 이후 2배로 빨라졌습니다.",
+     "descKo": "포뮬러원 팀은 2024년에 비해 최소 2배 빠른 속도로 데이터와 동영상을 수신합니다.",
      "lead": [
       "Formula 1 teams receive data and video feeds within four seconds of recording - at least twice as fast as they would have in 2024.",
       "That’s according to Nicolas Avila, Globant Media Sports and Entertainment CEO, who spoke to The Race CEO Fabricio Drumond at The Race x Axios's Beyond the Race: Investments in Innovation and Leadership event in Las Vegas.",
@@ -2048,9 +2069,7 @@
       "포뮬러원 팀은 녹화 후 4초 이내에 데이터와 비디오 피드를 받습니다. 이는 2024년 대비 최소 2배 빠른 속도입니다.",
       "이는 라스베이거스에서 열린 The Race x Axios의 '레이스 너머: 혁신과 리더십에 대한 투자' 행사에서 The Race의 CEO인 파브리시오 드루몽(Fabricio Drumond)과 대화를 나눈 Globant Media Sports and Entertainment의 CEO인 니콜라스 아빌라(Nicolas Avila)의 의견입니다.",
       "그는 이렇게 말했습니다. \"팀 콘텐츠 전송 시스템은 공장에 있는 사람들, 피트월에 앉아 있는 사람들이 분석 데이터와 원격 측정 데이터를 포함한 모든 비디오 피드를 받아볼 수 있도록 도와줍니다. 이를 통해 그들은 대응하고 드라이버에게 명령을 내릴 수 있습니다... 그리고 10초가 넘는 지연이 있었는데, 5초 미만으로 줄었습니다.\""
-     ],
-     "titleKo": "F1 피트월 데이터 전송 속도가 2024년 이후 2배로 빨라졌습니다.",
-     "descKo": "포뮬러원 팀은 2024년에 비해 최소 2배 빠른 속도로 데이터와 동영상을 수신합니다."
+     ]
     },
     {
      "title": "Leclerc mistake 'completely unacceptable' - Ferrari",
@@ -2060,6 +2079,8 @@
      "date": "2026-11-22T09:22:11+00:00",
      "author": "Josh Suttill",
      "id": "68beadb80f",
+     "titleKo": "페라리, \"르클레르의 실수 '완전히 용납할 수 없다'\"",
+     "descKo": "샤를 르클레르, F1 팀 동료 루이스 해밀턴과 충돌한 후 페라리 팀에 대해 \"상당히 당황스러웠다\"고 인정",
      "lead": [
       "Charles Leclerc admitted he \"felt quite embarrassed for the team\" after a clash with Ferrari Formula 1 team-mate Lewis Hamilton in the Las Vegas Grand Prix that team principal Fred Vasseur labelled \"unacceptable\".",
       "Leclerc and Hamilton collided at Turn 7 on lap 38 of 50, with the stewards handing Leclerc a 10-second time penalty for causing the collision, which dropped Hamilton out of the lead pack.",
@@ -2069,9 +2090,7 @@
       "샤를 르클레르는 페라리 포뮬러원 팀 동료인 루이스 해밀턴과 라스베이거스 그랑프리에서 충돌한 후 \"팀을 위해 상당히 당황스러웠다\"고 인정했으며, 팀 대표인 프레드 바쇠르는 이를 \"용납할 수 없는\" 일이라고 표현했습니다.",
       "르클레르와 해밀턴은 50바퀴 중 38바퀴째인 7번 코너에서 충돌했으며, 심사위원들은 충돌을 유발한 르클레르에게 10초의 시간 페널티를 부과했고, 이로 인해 해밀턴은 선두 그룹에서 이탈했습니다.",
       "레이스 후 르클레르는 사과했지만, 자신의 페널티가 정당하다고 완전히 믿지 않는다는 것을 암시할 만큼 충분한 여지를 남겼습니다."
-     ],
-     "titleKo": "페라리, \"르클레르의 실수 '완전히 용납할 수 없다'\"",
-     "descKo": "샤를 르클레르, F1 팀 동료 루이스 해밀턴과 충돌한 후 페라리 팀에 대해 \"상당히 당황스러웠다\"고 인정"
+     ]
     },
     {
      "title": "Winners and losers from F1's 2026 Las Vegas Grand Prix",
@@ -2081,6 +2100,8 @@
      "date": "2026-11-22T08:22:46+00:00",
      "author": "Jon Noble",
      "id": "9783b4e0af",
+     "titleKo": "F1 2026년 라스베이거스 그랑프리의 승자와 패자",
+     "descKo": "라스베이거스 GP의 치열한 선두 경쟁은 이 그랑프리의 특징이었습니다. 하지만 여기에 연루된 F1 드라이버들이 압박감을 다루는 방식은 크게 달랐습니다.",
      "lead": [
       "A relentless lead battle was the defining feature of the Las Vegas Grand Prix, but the way the drivers involved in it dealt with it varied drastically.",
       "Here's our pick of winners and losers from Formula 1's most entertaining Vegas race yet:",
@@ -2090,9 +2111,7 @@
       "치열한 선두 경쟁은 라스베이거스 그랑프리의 특징이었지만, 그 경쟁에 참여한 드라이버들의 대응 방식은 크게 달랐습니다.",
       "다음은 지금까지 포뮬러원(F1)에서 가장 흥미진진했던 라스베이거스 레이스의 승자와 패자를 선정한 것입니다.",
       "치열한 접전이 펼쳐진 이날, 페라리 팀 동료인 루이스 해밀턴과 샤를 르클레르가 가장 많은 문제를 겪을 것이라는 것은 거의 필연적인 것처럼 보였습니다."
-     ],
-     "titleKo": "F1 2026년 라스베이거스 그랑프리의 승자와 패자",
-     "descKo": "라스베이거스 GP의 치열한 선두 경쟁은 이 그랑프리의 특징이었습니다. 하지만 여기에 연루된 F1 드라이버들이 압박감을 다루는 방식은 크게 달랐습니다."
+     ]
     },
     {
      "title": "Verstappen delivers brutal response to Russell criticism",
@@ -2176,27 +2195,6 @@
       "맥스 페르스타펜이 숨 막히는 라스베이거스 그랑프리에서 우승을 차지했습니다. 페라리 포뮬러원 드라이버들이 충돌하기도 했던 이 레이스에서 상위 5명의 결승 순위 차이는 단 3초에 불과했습니다.",
       "1위 맥스 페르스타펜(레드불) 50랩 2위 랜도 노리스(맥라렌) +0.639초 3위 오스카 피아스트리(맥라렌) +1.529초 4위 키미 안토넬리(메르세데스) +2.574초 5위 피에르 가슬리(알파인) +2.927초 6위 프랑코 콜라핀토(알파인) +7.955초 7위 루이스 해밀턴(페라리) +12.795초 8위 카를로스 사인츠(윌리엄스) +12.938초 9위 조지 러셀(메르세데스) +13.192초 10위 샤를 르클레르(페라리) +17.554초 11위 니코 휠켄베르그(아우디) +22.720초 12위 가브리엘 보르톨레토(아우디) +28.602초 13위 올리 비어맨(하스)…",
       "00:00 광고 건너뛰기 최신 포뮬러원 소식 베르스타펜, 러셀의 비판에 강력한 대응 러셀, 20번 이상의 선두 교체가 있었던 혼돈의 라스베이거스 GP에 대한 의견 페라리 드라이버들이 충돌한 가운데 베르스타펜, 숨 막히는 라스베이거스 GP 우승 기사 태그:"
-     ]
-    },
-    {
-     "title": "F1 still 'very small' in US - Domenicali",
-     "desc": "F1 CEO Stefano Domenicali believes the championship is still “very small in the US” despite huge growth.",
-     "link": "https://www.the-race.com/formula-1/f1-still-very-small-in-us-domenicali/",
-     "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/Photo-select_Axios2026_EDI-17.jpg",
-     "date": "2026-11-21T15:13:40+00:00",
-     "author": "Josh Suttill",
-     "id": "ad15137f32",
-     "titleKo": "도메니칼리, \"F1은 미국에서 여전히 '매우 작다'\"",
-     "descKo": "F1 CEO 스테파노 도메니칼리(Stefano Domenicali)는 엄청난 성장을 이뤘음에도 불구하고 챔피언십이 여전히 \"미국에서는 매우 작다\"고 생각합니다.",
-     "lead": [
-      "Formula 1 CEO Stefano Domenicali believes the championship is still “very small in the US” despite its huge growth in the region in recent years.",
-      "Domenicali was speaking to The Race co-founder Darren Cox at Axios and The Race’s Beyond the Race: Investments in Innovation and Leadership event in Las Vegas - one of three US races on the F1 calendar.",
-      "When Liberty Media completed its takeover of F1 in 2017, there was only one US race and American interest was lagging behind other key markets."
-     ],
-     "leadKo": [
-      "포뮬러원(F1) CEO 스테파노 도메니칼리(Stefano Domenicali)는 최근 몇 년 동안 미국 지역에서 F1의 인기가 크게 성장했음에도 불구하고 여전히 \"미국에서는 매우 작다\"고 생각합니다.",
-      "도메니칼리는 라스베이거스에서 열린 Axios 및 The Race의 'Beyond the Race: Investments in Innovation and Leadership' 행사에서 The Race의 공동 창립자인 대런 콕스(Darren Cox)와 대화를 나눴습니다. 라스베이거스는 F1 일정에 포함된 미국 내 3개 레이스 중 한 곳입니다.",
-      "리버티 미디어가 2017년에 F1 인수를 완료했을 때, 미국에서는 단 한 번의 레이스만 열렸으며 미국 내 관심도는 다른 주요 시장에 비해 뒤처져 있었습니다."
      ]
     }
    ]
