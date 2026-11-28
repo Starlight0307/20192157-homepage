@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T23:34:14+00:00",
+ "updated": "2026-11-28T07:59:12+00:00",
  "failed": [],
  "tabs": {
   "report": {
@@ -567,17 +567,17 @@
      "id": "77d758cc35",
      "wikiTitle": "2026 Mexico City Grand Prix",
      "title": "2026 Mexico City Grand Prix",
-     "titleKo": "2026 멕시코시티 그랑프리",
+     "titleKo": "2026년 멕시코시티 그랑프리",
      "desc": "The 2026 Mexico City Grand Prix (officially known as the Formula 1 Gran Premio de la Ciudad de México 2026) was a Formula One motor race that was held on 1 November 2026 at the…",
      "descKo": "2026년 멕시코시티 그랑프리(공식 명칭: Formula 1 Gran Premio de la Ciudad de México 2026)는 2026년 11월 1일 멕시코 멕시코시티의 Autódromo Hermanos Rodríguez에서 열린 Formula One 자동차 경주였습니다. 2026년 포뮬러 원 월드 챔피언십의…",
      "link": "https://en.wikipedia.org/wiki/2026_Mexico_City_Grand_Prix",
      "historyUrl": "https://en.wikipedia.org/wiki/2026_Mexico_City_Grand_Prix?action=history",
      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Aut%C3%B3dromo_Hermanos_Rodr%C3%ADguez_2015.svg/1280px-Aut%C3%B3dromo_Hermanos_Rodr%C3%ADguez_2015.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "imageFile": "Autódromo_Hermanos_Rodríguez_2015.svg",
-     "date": "2026-11-16T16:45:11Z",
+     "date": "2026-11-28T04:53:39Z",
      "raceDate": "2026-11-01",
      "author": "위키백과 편집자들",
-     "revid": 1386049927,
+     "revid": 1388432977,
      "license": "CC BY-SA 4.0",
      "body": [
       {
@@ -1787,13 +1787,36 @@
    "sourceUrl": "https://www.motorsport.com/rss/f1/news/",
    "items": [
     {
-     "title": "F1 Qatar GP practice analysis: Kimi Antonelli nearly a second clear of Max Verstappen on long runs",
+     "title": "George Russell drops cryptic hint over where Toto Wolff “stands off the record” on Max Verstappen",
+     "desc": "Toto Wolff has spent the past week sounding remarkably unfazed by Formula 1’s fiercest driver feud. George Russell, however, just hinted that Mercedes’ team principal sounds…",
+     "link": "https://www.motorsport.com/f1/news/george-russell-drops-cryptic-hint-over-where-toto-wolff-stands-off-the-record-on-max-verstappen/10878290/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+     "image": "https://cdn-1.motorsport.com/images/amp/24QGyyPY/s6/george-russell-mercedes-a10878290-b705-2.jpg",
+     "date": "2026-11-28T02:38:16+00:00",
+     "author": "",
+     "id": "5711394718",
+     "lead": [
+      "Toto Wolff has spent the past week sounding remarkably unfazed by Formula 1’s fiercest driver feud. George Russell , however, just hinted that Mercedes ’ team principal sounds rather different once the microphones are switched off.",
+      "Speaking exclusively to Martin Brundle for Sky Sports F1 - in an interview previewed Friday ahead of its full broadcast before Sunday’s Qatar Grand Prix - Russell was pressed on Wolff’s diplomatic public stance toward Max Verstappen following their Las Vegas flashpoint. Russell stopped short of repeating private conversations, but left little doubt that Wolff’s off-camera assessment carries a sharper edge.",
+      "\"Well, I know where he [Wolff] stands off the record, so I won't probably repeat that,\" Russell said. \"Toto and I were flying back after the race in Vegas, and we did have quite a laugh about the comments that were said after the race. But we just know how certain people go about their business.\""
+     ],
+     "leadKo": [
+      "토토 볼프는 지난 한 주 동안 포뮬러원(F1)에서 가장 치열한 드라이버 간 갈등에 대해 놀라울 정도로 태연한 모습을 보였습니다. 하지만 조지 러셀은 마이크가 꺼지면 메르세데스 팀 대표의 말투가 상당히 달라진다고 암시했습니다.",
+      "러셀은 일요일에 열리는 카타르 그랑프리 전에 전체 방송이 나갈 예정인 인터뷰에서 금요일에 미리 공개된 내용으로 스카이 스포츠 F1의 마틴 브런들(Martin Brundle)과의 단독 인터뷰에서 라스베이거스에서 발생한 갈등 이후 막스 페르스타펜(Max Verstappen)에 대한 볼프(Wolff)의 외교적인 공개 입장에 대해 질문을 받았습니다. 러셀은 사적인 대화를 반복하는 것을 삼갔지만, 볼프가 카메라가 없는 곳에서 내린 평가가 더 날카롭다는 점에 대해서는 거의 의심의 여지를 남기지 않았습니다.",
+      "러셀은 \"사실 저는 그분[볼프]이 비공식적으로 어떤 입장을 취하고 계신지 알고 있지만, 아마도 그것을 반복하지는 않을 겁니다\"라고 말했습니다. \"토토와 저는 라스베이거스에서 열린 레이스 후 돌아오는 비행기에서 레이스 후에 나온 발언들을 두고 꽤나 웃었습니다. 하지만 우리는 특정 사람들이 어떻게 일을 처리하는지 잘 알고 있습니다.\""
+     ],
+     "titleKo": "조지 러셀, 토토 볼프가 막스 페르스타펜에 대해 \"비공식적으로\" 어떤 입장을 취하고 있는지에 대해 암시",
+     "descKo": "토토 볼프는 지난주 내내 포뮬러원(F1)에서 가장 치열한 드라이버 간의 갈등에 대해 놀라울 정도로 동요하지 않는 모습을 보였습니다. 하지만 조지 러셀은 방금 메르세데스 팀 대표가...라는 뉘앙스를 풍겼습니다."
+    },
+    {
+     "title": "F1 Qatar GP long runs: Kimi Antonelli nearly a second clear of Max Verstappen on Friday",
      "desc": "Kimi Antonelli heads into the penultimate race weekend of the 2026 Formula 1 season in Qatar as the early favourite. The reigning world champion dominated Friday practice at the…",
      "link": "https://www.motorsport.com/f1/news/f1-qatar-gp-practice-analysis-antonelli-nearly-a-second-clear-of-verstappen-on-long-runs/10878464/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
      "image": "https://cdn-1.motorsport.com/images/amp/6x7LeR4Y/s6/andrea-kimi-antonelli-mercedes.jpg",
      "date": "2026-11-27T22:10:24+00:00",
      "author": "",
      "id": "d3b185dbdf",
+     "titleKo": "F1 카타르 GP 연습 주행 분석: 키미 안토넬리, 롱런에서 막스 페르스타펜보다 거의 1초 앞서",
+     "descKo": "키미 안토넬리가 2026년 포뮬러원 시즌의 마지막에서 두 번째 레이스 주말을 앞두고 카타르에서 초반 유력 우승 후보로 나섭니다. 현 세계 챔피언이 금요일 연습 주행에서 압도적인 모습을 보였습니다...",
      "lead": [
       "Kimi Antonelli heads into the penultimate race weekend of the 2026 Formula 1 season in Qatar as the early favourite. The reigning world champion dominated Friday practice at the Lusail International Circuit, both over a single lap and in the race simulations. His advantage on the long runs was particularly impressive: his closest challenger, Max Verstappen , was on average 0.83s per lap slower in the adjusted long-run analysis.",
       "Antonelli had already set the fastest time in the opening free practice session, outpacing his team-mate George Russell by 0.507 seconds. Mercedes' dominance continued in the second session, although several incidents and red flags limited the usefulness of the qualifying simulations.",
@@ -1803,9 +1826,7 @@
       "키미 안토넬리가 2026년 포뮬러원 시즌의 두 번째 마지막 레이스 주말을 앞두고 카타르에서 초반 유력한 우승 후보로 나섭니다. 현 세계 챔피언은 루사일 인터내셔널 서킷에서 열린 금요일 연습 주행에서 단일 랩과 레이스 시뮬레이션 모두에서 압도적인 모습을 보였습니다. 특히 롱런에서의 그의 우위는 인상적이었습니다. 가장 근접한 경쟁자인 막스 페르스타펜은 조정된 롱런 분석에서 평균적으로 랩당 0.83초 느렸습니다.",
       "안토넬리는 이미 첫 번째 자유 연습 세션에서 가장 빠른 기록을 세우며 팀 동료인 조지 러셀을 0.507초 차이로 앞섰습니다. 메르세데스의 우세는 두 번째 세션에서도 계속되었지만, 여러 사고와 레드 플래그로 인해 퀄리파잉 시뮬레이션의 유용성이 제한되었습니다.",
       "선두 팀 중 레드불과 맥라렌만이 소프트 타이어로 플라잉 랩을 완주할 수 있었습니다. 그럼에도 불구하고 두 팀 모두 미디엄 타이어로 달린 메르세데스의 기록을 뛰어넘지 못했습니다. 안토넬리가 1분 23초 077로 타임 시트 1위를 차지했으며, 러셀은 그보다 0.15초 뒤처졌습니다. 메르세데스 듀오에 가장 근접한 경쟁자인 랜도 노리스는 이미 거의 0.5초 뒤처져 있었습니다."
-     ],
-     "titleKo": "F1 카타르 GP 연습 주행 분석: 키미 안토넬리, 롱런에서 막스 페르스타펜보다 거의 1초 앞서",
-     "descKo": "키미 안토넬리가 2026년 포뮬러원 시즌의 마지막에서 두 번째 레이스 주말을 앞두고 카타르에서 초반 유력 우승 후보로 나섭니다. 현 세계 챔피언이 금요일 연습 주행에서 압도적인 모습을 보였습니다..."
+     ]
     },
     {
      "title": "Charles Leclerc explains Qatar GP practice spin after painfully \"slow\" day for Ferrari",
@@ -1815,6 +1836,8 @@
      "date": "2026-11-27T20:52:17+00:00",
      "author": "",
      "id": "853cd40a0a",
+     "titleKo": "샤를 르클레르, 페라리에게 고통스러울 정도로 \"느린\" 하루를 보낸 후 카타르 GP 연습 주행 스핀에 대해 설명",
+     "descKo": "샤를 르클레르는 포뮬러원 카타르 그랑프리에서 페라리가 \"매우, 매우 어려웠던\" FP2를 치렀다고 아쉬워했습니다. 르클레르가 초반에 스핀한 것은 SF-26의 전반적인 그립 부족을 보여주는 증상이었기 때문입니다.",
      "lead": [
       "Charles Leclerc rued a \"very, very difficult\" FP2 for Ferrari at the Formula 1 Qatar Grand Prix, with his early spin the symptom of a general lack of grip in the SF-26.",
       "Having already gotten off to a quiet start in FP1, Leclerc and team-mate Lewis Hamilton could only manage seventh and eighth in FP2, a full second adrift of Mercedes' leader Kimi Antonelli .",
@@ -1824,9 +1847,7 @@
       "샤를 르클레르는 포뮬러원 카타르 그랑프리에서 페라리가 '매우, 매우 어려웠던' FP2를 후회했으며, 초반에 스핀한 것은 SF-26의 전반적인 그립 부족을 보여주는 증상이라고 밝혔습니다.",
       "이미 FP1에서 조용한 출발을 보인 르클레르와 팀 동료 루이스 해밀턴은 FP2에서 7위와 8위에 그쳤으며, 메르세데스의 선두 주자인 키미 안토넬리에게 1초 뒤처졌습니다.",
       "르클레르는 세션 초반에 7번 코너를 빠져나가면서 격렬한 스핀을 겪었고, 이로 인해 플로어가 손상되어 세션 중간에 부품을 교체해야 했습니다."
-     ],
-     "titleKo": "샤를 르클레르, 페라리에게 고통스러울 정도로 \"느린\" 하루를 보낸 후 카타르 GP 연습 주행 스핀에 대해 설명",
-     "descKo": "샤를 르클레르는 포뮬러원 카타르 그랑프리에서 페라리가 \"매우, 매우 어려웠던\" FP2를 치렀다고 아쉬워했습니다. 르클레르가 초반에 스핀한 것은 SF-26의 전반적인 그립 부족을 보여주는 증상이었기 때문입니다."
+     ]
     },
     {
      "title": "Max Verstappen feels a “disconnect” as Red Bull looks to solve “massive limitation” in Qatar GP practice",
@@ -1836,6 +1857,8 @@
      "date": "2026-11-27T20:13:38+00:00",
      "author": "",
      "id": "80833e504b",
+     "titleKo": "맥스 페르스타펜, 레드불이 카타르 GP 연습 주행에서 \"엄청난 한계\"를 해결하려는 가운데 \"단절\"을 느낌",
+     "descKo": "맥스 페르스타펜이 라스베이거스에서 우승한 지 일주일 후인 이번 주말에는 완전히 다른 도전이 기다리고 있습니다. 스트립을 따라 이어진 스트리트 서킷은 긴...이 특징이었습니다.",
      "lead": [
       "A week after Max Verstappen 's victory in Las Vegas, a completely different challenge awaits this weekend. While the street circuit along the Strip was characterised by long straights interspersed with slow corners, the Lusail International Circuit is almost the exact opposite.",
       "Apart from Turn 6 – the only slow corner on the circuit – the track predominantly features high-speed corners, and according to Verstappen, that is not exactly an area in which Red Bull excels this season. The Dutchman therefore predicted during media day that this weekend would be more difficult, and that impression was reinforced during the first two practice sessions.",
@@ -1845,9 +1868,7 @@
       "맥스 페르스타펜이 라스베이거스에서 우승한 지 일주일 후, 이번 주말에는 완전히 다른 도전이 기다리고 있습니다. 스트립을 따라 이어진 스트리트 서킷은 긴 직선 구간과 느린 코너가 섞여 있는 것이 특징이었지만, 루사일 인터내셔널 서킷은 거의 정반대입니다.",
       "서킷에서 유일한 저속 코너인 6번 코너를 제외하면, 이 트랙은 주로 고속 코너로 구성되어 있으며, 페르스타펜에 따르면 이번 시즌 레드불이 강점을 보이는 분야는 바로 이런 코너가 아닙니다. 따라서 네덜란드 드라이버는 미디어 데이에서 이번 주말이 더 어려울 것이라고 예측했으며, 이러한 인상은 첫 두 번의 연습 세션에서 더욱 강화되었습니다.",
       "페르스타펜은 금요일 주행을 키미 안토넬리에게 0.5초 뒤진 5위로 마감했으며, 메르세데스 드라이버들이 피렐리의 미디엄 타이어로 가장 빠른 랩타임을 기록한 것은 부분적으로 레드 플래그 때문이라는 단서를 덧붙였습니다."
-     ],
-     "titleKo": "맥스 페르스타펜, 레드불이 카타르 GP 연습 주행에서 \"엄청난 한계\"를 해결하려는 가운데 \"단절\"을 느낌",
-     "descKo": "맥스 페르스타펜이 라스베이거스에서 우승한 지 일주일 후인 이번 주말에는 완전히 다른 도전이 기다리고 있습니다. 스트립을 따라 이어진 스트리트 서킷은 긴...이 특징이었습니다."
+     ]
     },
     {
      "title": "Lando Norris: Mercedes “at a different level” in Qatar",
@@ -1857,6 +1878,8 @@
      "date": "2026-11-27T20:04:37+00:00",
      "author": "",
      "id": "f31c128838",
+     "titleKo": "랜도 노리스: 메르세데스, 카타르에서 \"다른 차원의 수준\"을 보여줘",
+     "descKo": "포뮬러원 카타르 그랑프리에서 열린 금요일의 두 번의 연습 세션은 새로운 월드 챔피언 키미 안토넬리와 그의 메르세데스 팀 동료 조지 러셀이 치열한 접전 끝에 1-2위를 차지하며 마무리되었습니다.",
      "lead": [
       "Both practice sessions on Friday at the Formula 1 Qatar Grand Prix ended with new world champion Kimi Antonelli and his Mercedes team-mate George Russell in a closely matched 1-2, but nobody else could match their blistering pace around this high-speed circuit.",
       "Russell was half a second off Antonelli in the less representative first session, held during hotter daylight hours, but he found the best part of four tenths relative to the other Mercedes in FP2.",
@@ -1866,9 +1889,7 @@
       "포뮬러원 카타르 그랑프리에서 열린 금요일의 두 연습 세션은 새로운 월드 챔피언 키미 안토넬리와 그의 메르세데스 팀 동료 조지 러셀이 치열한 접전 끝에 1-2위를 차지하며 마무리되었지만, 다른 누구도 이 고속 서킷에서 이들의 놀라운 속도를 따라잡을 수 없었습니다.",
       "러셀은 더 더운 낮 시간에 열린 첫 번째 세션에서 안토넬리보다 0.5초 느렸지만, FP2에서는 다른 메르세데스 드라이버보다 0.4초 이상 빠른 기록을 세웠습니다.",
       "랜도 노리스와 오스카 피아스트리의 맥라렌과 막스 페르스타펜과 이삭 하자르의 레드불은 FP1에서 크게 벌어졌던 격차를 다소 좁혔지만, 여전히 두 번째 세션에서는 안토넬리보다 0.5초가량 느린 기록으로 마감했습니다."
-     ],
-     "titleKo": "랜도 노리스: 메르세데스, 카타르에서 \"다른 차원의 수준\"을 보여줘",
-     "descKo": "포뮬러원 카타르 그랑프리에서 열린 금요일의 두 번의 연습 세션은 새로운 월드 챔피언 키미 안토넬리와 그의 메르세데스 팀 동료 조지 러셀이 치열한 접전 끝에 1-2위를 차지하며 마무리되었습니다."
+     ]
     },
     {
      "title": "F1 Qatar GP: Kimi Antonelli leads Mercedes charge in twice red-flagged FP2",
@@ -1878,6 +1899,8 @@
      "date": "2026-11-27T18:20:21+00:00",
      "author": "",
      "id": "4fa05c5f53",
+     "titleKo": "F1 카타르 GP: 키미 안토넬리가 두 번의 레드 플래그가 있었던 FP2에서 메르세데스의 선두를 차지하다",
+     "descKo": "키미 안토넬리가 두 번의 레드 플래그로 중단된 두 번째 연습 세션에서 1위를 차지하며 도하에서 열린 F1 카타르 GP의 금요일 주행을 석권했습니다. 저녁의 서늘한 날씨 덕분에...",
      "lead": [
       "Kimi Antonelli has swept Friday's running at F1's Qatar GP in Doha after topping a second practice session that was interrupted by two red flags.",
       "The cooler evening conditions for FP2 presented more relevant conditions ahead of Saturday's qualifying session around the same time, with the track temperatures around 10 degrees lower than the afternoon's sweltering FP1 session.",
@@ -1887,9 +1910,7 @@
       "키미 안토넬리가 도하에서 열린 F1 카타르 GP의 금요일 주행에서 2번의 레드 플래그로 중단된 두 번째 연습 세션을 선두로 마친 후 우승을 차지했습니다.",
       "FP2 세션이 진행된 저녁의 서늘한 기온은 토요일 퀄리파잉 세션이 진행될 시간대와 비슷한 기온으로, 트랙 온도는 오후의 무더운 FP1 세션보다 약 10도 낮았습니다.",
       "하지만 이전과 마찬가지로 메르세데스는 여전히 초반부터 타임 시트를 주도했으며, 조지 러셀이 초반에 기록한 1분 23초 715를 키미 안토넬리가 1분 23초 077로 앞섰고, 거의 모든 드라이버가 초반 세션에 미디엄 타이어를 장착했습니다."
-     ],
-     "titleKo": "F1 카타르 GP: 키미 안토넬리가 두 번의 레드 플래그가 있었던 FP2에서 메르세데스의 선두를 차지하다",
-     "descKo": "키미 안토넬리가 두 번의 레드 플래그로 중단된 두 번째 연습 세션에서 1위를 차지하며 도하에서 열린 F1 카타르 GP의 금요일 주행을 석권했습니다. 저녁의 서늘한 날씨 덕분에..."
+     ]
     },
     {
      "title": "Audi appeal against Yuki Tsunoda dismissed – here’s why",
@@ -1899,6 +1920,8 @@
      "date": "2026-11-27T17:59:03+00:00",
      "author": "",
      "id": "f1c37a93fc",
+     "titleKo": "아우디의 유키 츠노다에 대한 항소가 기각된 이유",
+     "descKo": "몬차에서 열린 포뮬러원(F1) 레이스 이후 2개월이 넘게 지난 지금, 드디어 결과가 확정되었습니다. 아우디는 레이싱 불스 드라이버 유키 츠노다에게 기회가 주어졌다고 생각했습니다.",
      "lead": [
       "More than two months after the Formula 1 race at Monza, the result has finally been confirmed. Audi believed that Racing Bulls driver Yuki Tsunoda – who was given the opportunity to stand in following Isack Hadjar's wrist injury and Liam Lawson's subsequent promotion – deserved a time penalty for a potential restart infringement.",
       "Following Charles Leclerc's heavy crash, there was a standing restart at the Temple of Speed, with Tsunoda initially heading towards the left side of the grid and therefore the wrong grid spot. After a late manoeuvre towards his actual grid spot, an extra formation lap followed.",
@@ -1908,9 +1931,7 @@
       "몬자에서 열린 포뮬러원(F1) 레이스 이후 2개월이 넘은 지금, 드디어 결과가 확정되었습니다. 아우디는 이작 하자르의 손목 부상과 리암 로슨의 후속 승격으로 인해 출전 기회를 얻은 레이싱 불스 드라이버 유키 츠노다가 잠재적인 재시작 위반으로 인한 타임 페널티를 받아야 한다고 생각했습니다.",
       "샤를 르클레르의 심각한 충돌 사고 이후, '스피드의 성전'에서 스탠딩 리스타트가 있었으며, 츠노다는 처음에 그리드의 왼쪽, 즉 잘못된 그리드 위치로 향했습니다. 늦게 자신의 실제 그리드 위치로 이동한 후, 추가 포메이션 랩이 이어졌습니다.",
       "스포츠 규정에 따르면 추가 포메이션 랩을 유발한 드라이버는 피트 레인 끝에서 출발해야 합니다. 이를 이행하지 않을 경우, 위반 행위에 대해 스톱 앤 고 페널티가 부과될 수 있습니다. 츠노다의 경우, 그는 평소와 같이 그리드에서 출발했지만, 스튜어드들은 레이스 후 이 사건에 대해 더 이상 조치를 취하지 않기로 결정했습니다."
-     ],
-     "titleKo": "아우디의 유키 츠노다에 대한 항소가 기각된 이유",
-     "descKo": "몬차에서 열린 포뮬러원(F1) 레이스 이후 2개월이 넘게 지난 지금, 드디어 결과가 확정되었습니다. 아우디는 레이싱 불스 드라이버 유키 츠노다에게 기회가 주어졌다고 생각했습니다."
+     ]
     },
     {
      "title": "FIA confirms F1 engine freeze and imposes testing restrictions ahead of V8 return",
@@ -1920,6 +1941,8 @@
      "date": "2026-11-27T17:15:13+00:00",
      "author": "",
      "id": "f1214befdf",
+     "titleKo": "FIA, F1 엔진 동결 확인 및 V8 엔진 복귀에 앞서 테스트 제한 부과",
+     "descKo": "FIA의 싱글시터 디렉터인 니콜라스 톰바지스가 최근 인터뷰에서 밝힌 바에 따르면, 포뮬러원 제조업체들은 2028년 중순부터 현 세대의 파워 유닛을 개발하는 것이 더 이상 허용되지 않을 것이라고 합니다.",
      "lead": [
       "Formula 1 manufacturers will no longer be allowed to work on the current generation of power units from mid-2028, the FIA's single-seater director Nikolas Tombazis has revealed in an exclusive interview with Motorsport.com.",
       "First revealed by Motorsport.com over the Las Vegas Grand Prix weekend, the measure is intended to prevent manufacturers from having to work on two projects simultaneously and also to prevent some from gaining an undesirable advantage. For the same reasons, work on the upcoming V8 engines is largely prohibited until that same point in time.",
@@ -1929,9 +1952,7 @@
       "FIA의 싱글시터 디렉터인 니콜라스 톰바지스가 Motorsport.com과의 단독 인터뷰에서 2028년 중반부터 포뮬러원 제조업체들이 현 세대의 파워 유닛을 더 이상 개발할 수 없게 될 것이라고 밝혔다.",
       "라스베이거스 그랑프리 주말에 Motorsport.com이 처음 공개한 이 조치는 제조업체가 두 개의 프로젝트를 동시에 진행해야 하는 상황을 방지하고 일부 제조업체가 바람직하지 않은 이점을 얻는 것을 방지하기 위한 것입니다. 같은 이유로, 향후 V8 엔진에 대한 작업은 같은 시점까지 대부분 금지됩니다.",
       "실제로 이는 2028시즌 13번째 레이스부터 현재의 하이브리드 V6 파워 유닛의 개발이 동결된다는 것을 의미합니다. 그 시점부터는 내구성 개선만 허용되며, 성능 향상은 더 이상 허용되지 않습니다."
-     ],
-     "titleKo": "FIA, F1 엔진 동결 확인 및 V8 엔진 복귀에 앞서 테스트 제한 부과",
-     "descKo": "FIA의 싱글시터 디렉터인 니콜라스 톰바지스가 최근 인터뷰에서 밝힌 바에 따르면, 포뮬러원 제조업체들은 2028년 중순부터 현 세대의 파워 유닛을 개발하는 것이 더 이상 허용되지 않을 것이라고 합니다."
+     ]
     },
     {
      "title": "F1 Qatar GP: Kimi Antonelli leads Mercedes 1-2 in tricky FP1",
@@ -1953,27 +1974,6 @@
       "라스베이거스 거리에서 열린 고속 드래그 레이스 일주일 후, 드라이버와 팀들은 루사일의 높은 다운포스 모터사이클 트랙을 경험하며 완전히 다른 도전에 직면했습니다.",
       "도하 서킷의 매끄러운 코너에서 진행된 첫 번째 연습 세션의 초반 단계에서, 팀은 피렐리의 미디엄 및 하드 타이어 컴파운드를 모두 사용하여 상황을 파악하고 데이터를 수집했습니다."
      ]
-    },
-    {
-     "title": "Carlos Sainz explains his intriguing DRS proposal for F1 2030",
-     "desc": "With F1 close to signing off on the overarching tenets of its 2030 return to V8 power units, some of its leading drivers have fleshed out ideas of how to make those into a…",
-     "link": "https://www.motorsport.com/f1/news/carlos-sainz-explains-his-intriguing-drs-proposal-for-f1-2030/10878146/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-     "image": "https://cdn-1.motorsport.com/images/amp/YMXb8zv2/s6/carlos-sainz-williams.jpg",
-     "date": "2026-11-27T11:47:59+00:00",
-     "author": "",
-     "id": "1edb926a44",
-     "titleKo": "카를로스 사인츠, F1 2030을 위한 흥미로운 DRS 제안 설명",
-     "descKo": "F1이 2030년 V8 파워 유닛으로의 복귀라는 대원칙에 서명을 앞두고 있는 가운데, 일부 주요 드라이버들이 이를 어떻게...",
-     "lead": [
-      "With F1 close to signing off on the overarching tenets of its 2030 return to V8 power units, some of its leading drivers have fleshed out ideas of how to make those into a compelling product.",
-      "F1 is set to move to all-new turbo V8 engines in 2030, with a smaller electric unit of up to 200kW and sustainable fuel. That should make engines simpler, cheaper and lighter, and therefore reduce the reliance on energy from the battery compared to today's oft-criticised formula.",
-      "By signing off the V8 move at the next FIA World Motor Sport Council gathering in Shanghai on 12 December, F1 and the FIA are giving themselves time to properly flesh out the chassis and aerodynamic regulations that should work in unison with the V8 power units to produce a better on-track show."
-     ],
-     "leadKo": [
-      "F1이 2030년 V8 파워 유닛으로의 복귀라는 대원칙에 서명을 앞두고 있는 가운데, 일부 주요 드라이버들이 이를 매력적인 제품으로 만드는 방법에 대한 아이디어를 구체화했습니다.",
-      "F1은 2030년에 최대 200kW의 소형 전기 유닛과 친환경 연료를 사용하는 완전히 새로운 터보 V8 엔진으로 전환할 예정입니다. 이를 통해 엔진이 더 단순하고 저렴하며 가벼워질 것이며, 따라서 오늘날 종종 비판받는 포뮬러에 비해 배터리 에너지에 대한 의존도가 낮아질 것입니다.",
-      "F1과 FIA는 12월 12일 상하이에서 열리는 다음 FIA 세계 모터스포츠 위원회 회의에서 V8 엔진 전환을 승인함으로써, V8 파워 유닛과 조화를 이루어 더 나은 트랙 쇼를 선보일 수 있도록 섀시 및 공기역학 규정을 제대로 구체화할 시간을 확보하게 됩니다."
-     ]
     }
    ]
   },
@@ -1989,6 +1989,8 @@
      "date": "2026-11-27T22:54:33+00:00",
      "author": "Josh Suttill",
      "id": "0128655839",
+     "titleKo": "메르세데스의 초반 우위는 보이는 것보다 훨씬 더 위협적입니다.",
+     "descKo": "메르세데스는 최근 6번의 레이스 중 단 한 번만 우승했습니다. 그렇다면 왜 카타르에서 이렇게 우세한 모습을 보이는 걸까요?",
      "lead": [
       "Mercedes has been the benchmark 2026 team, but given it’s only won one of the last six races, what’s behind its dominant start to Formula 1’s Qatar Grand Prix weekend?",
       "World champion Kimi Antonelli led a Mercedes one-two in both practice sessions, four and a half tenths clear of the nearest competition on single-lap pace in FP2 - despite their fastest laps being set on mediums.",
@@ -1998,9 +2000,7 @@
       "메르세데스는 2026년 팀의 벤치마크였지만, 지난 6번의 레이스 중 단 한 번만 우승한 것을 감안할 때, 포뮬러원 카타르 그랑프리 주말의 압도적인 출발 뒤에는 어떤 이유가 있을까요?",
       "월드 챔피언 키미 안토넬리가 두 번의 연습 주행 세션에서 메르세데스의 1-2위를 이끌었습니다. FP2에서 단일 랩 페이스로 가장 가까운 경쟁자보다 0.45초 앞섰습니다. 메르세데스의 가장 빠른 랩은 미디엄 타이어로 기록되었습니다.",
       "두 번의 레드 플래그로 인해 주행 계획이 차질을 빚은 상황에서 최종 순위를 해석하는 것은 복잡한 작업이지만, 이는 실제로 메르세데스의 입지를 더욱 강력하게 만들어 줍니다."
-     ],
-     "titleKo": "메르세데스의 초반 우위는 보이는 것보다 훨씬 더 위협적입니다.",
-     "descKo": "메르세데스는 최근 6번의 레이스 중 단 한 번만 우승했습니다. 그렇다면 왜 카타르에서 이렇게 우세한 모습을 보이는 걸까요?"
+     ]
     },
     {
      "title": "100% wear in 15 laps - Qatar tyre issue has got even worse",
@@ -2010,6 +2010,8 @@
      "date": "2026-11-27T22:01:09+00:00",
      "author": "Jon Noble",
      "id": "4deafcbfc5",
+     "titleKo": "15랩 만에 100% 마모 - 카타르 타이어 문제가 더욱 심각해졌습니다.",
+     "descKo": "피렐리는 금요일 연습 주행 후 카타르 그랑프리에 추가적인 예방 조치가 필요한지 평가하고 있습니다.",
      "lead": [
       "Despite the highest front tyre pressures of the season and a maximum stint length already in place, Pirelli is evaluating if further precautions are needed for the Qatar Grand Prix after Friday practice served up “surprise after surprise.”",
       "The Lusail circuit is already the most challenging of the season for tyres, but the evidence from the first day of track running has shown graining, wear and degradation to be at higher levels than anticipated pre-event.",
@@ -2019,9 +2021,7 @@
       "이번 시즌 최고 수준의 프론트 타이어 공기압과 이미 최대 스틴트 길이가 적용되었음에도 불구하고, 피렐리는 금요일 연습 주행에서 \"놀라움의 연속\"이 발생한 후 카타르 그랑프리에 추가적인 예방 조치가 필요한지 평가하고 있습니다.",
       "루사일 서킷은 이미 타이어에 있어 시즌 중 가장 까다로운 서킷이지만, 트랙 주행 첫날의 결과에 따르면 그레이닝, 마모 및 성능 저하가 경기 전 예상보다 더 심각한 것으로 나타났습니다.",
       "이는 트랙 표면이 더 많이 마모되고 2026년형 차량의 다운포스 수준이 낮아져 미끄러짐이 발생했기 때문인 것으로 추정됩니다."
-     ],
-     "titleKo": "15랩 만에 100% 마모 - 카타르 타이어 문제가 더욱 심각해졌습니다.",
-     "descKo": "피렐리는 금요일 연습 주행 후 카타르 그랑프리에 추가적인 예방 조치가 필요한지 평가하고 있습니다."
+     ]
     },
     {
      "title": "Winners & losers from F1 2026 Qatar GP Friday practice",
@@ -2031,6 +2031,8 @@
      "date": "2026-11-27T21:25:39+00:00",
      "author": "Scott Mitchell-Malm",
      "id": "c6f381f095",
+     "titleKo": "F1 2026 카타르 GP 금요일 연습 주행의 승자와 패자",
+     "descKo": "2026년 카타르 포뮬러원 그랑프리 금요일 연습 주행의 승자와 패자.",
      "lead": [
       "Kimi Antonelli led Mercedes team-mate George Russell in both Friday Formula 1 practice sessions for the 2026 Qatar Grand Prix, including an FP2 that was punctuated by two red flags.",
       "Some drivers struggled more than others - and a few lost considerable running over the opening practice sessions - but who are the winners and losers from Friday in Qatar?",
@@ -2040,9 +2042,7 @@
       "키미 안토넬리가 2026년 카타르 그랑프리 금요일 포뮬러원 연습 세션 두 차례 모두에서 메르세데스 팀 동료인 조지 러셀을 앞섰습니다. 여기에는 두 차례의 레드 플래그가 있었던 FP2도 포함됩니다.",
       "일부 드라이버는 다른 드라이버보다 더 많은 어려움을 겪었고, 몇몇 드라이버는 개막 연습 세션에서 상당한 주행 시간을 잃었습니다. 하지만 카타르에서 열린 금요일 세션의 승자와 패자는 누구일까요?",
       "샤를 르클레르에게 물어본다면, 루이스 해밀턴이 FP2에서 파워 문제로 트랙 옆으로 차를 세운 것이 페라리의 걱정거리 중 가장 작은 것이었을 것입니다!"
-     ],
-     "titleKo": "F1 2026 카타르 GP 금요일 연습 주행의 승자와 패자",
-     "descKo": "2026년 카타르 포뮬러원 그랑프리 금요일 연습 주행의 승자와 패자."
+     ]
     },
     {
      "title": "Antonelli tops Qatar FP2 after multiple red flag delays",
@@ -2052,6 +2052,8 @@
      "date": "2026-11-27T18:25:57+00:00",
      "author": "Samarth Kanal",
      "id": "69de0198ba",
+     "titleKo": "안토넬리, 여러 차례의 레드 플래그 지연 끝에 카타르 FP2 1위 차지",
+     "descKo": "카타르에서 열린 F1 FP2 세션이 연장되면서 두 번의 레드 플래그가 발생한 가운데, 키미 안토넬리가 금요일에 다시 한 번 메르세데스 팀 동료인 조지 러셀을 제쳤습니다.",
      "lead": [
       "Kimi Antonelli led Mercedes team-mate George Russell again on Friday as two red flags flew in an extended Formula 1 FP2 session in Qatar.",
       "Antonelli set the benchmark of 1m23.077s on medium tyres before a red flag was flown midway through FP2 for gravel and debris from an early spin for Ferrari’s Charles Leclerc.",
@@ -2061,9 +2063,7 @@
       "키미 안토넬리가 금요일에 다시 한 번 메르세데스 팀 동료인 조지 러셀을 제치고 선두를 차지했습니다. 카타르에서 열린 포뮬러원 FP2 세션은 두 차례의 레드 플래그로 인해 연장되었습니다.",
       "안토넬리는 페라리의 샤를 르클레르가 초반에 스핀하여 자갈과 잔해가 발생한 탓에 FP2 중반에 레드 플래그가 표시되기 전에 미디엄 타이어로 1분 23.077초의 벤치마크를 세웠습니다.",
       "세션이 재개된 직후, 알핀의 피에르 가슬리가 자신의 차량을 자갈밭에 세워 두 번째 레드 플래그를 유발했습니다. FP2 후반부에 세션이 13분 연장되었습니다."
-     ],
-     "titleKo": "안토넬리, 여러 차례의 레드 플래그 지연 끝에 카타르 FP2 1위 차지",
-     "descKo": "카타르에서 열린 F1 FP2 세션이 연장되면서 두 번의 레드 플래그가 발생한 가운데, 키미 안토넬리가 금요일에 다시 한 번 메르세데스 팀 동료인 조지 러셀을 제쳤습니다."
+     ]
     },
     {
      "title": "50-year-old structure led Williams to F1 cost cap breach",
@@ -2073,6 +2073,8 @@
      "date": "2026-11-27T16:58:22+00:00",
      "author": "Josh Suttill",
      "id": "e1d56cf585",
+     "titleKo": "50년 된 구조로 인해 윌리엄스가 F1 비용 상한선을 위반하게 되었습니다.",
+     "descKo": "윌리엄스 팀의 제임스 보울스 대표가 팀이 2025년 F1 비용 상한선 규정을 위반한 경위를 설명했습니다.",
      "lead": [
       "Williams has explained that overdue company restructuring triggered its Formula 1 cost cap penalty, as it made changes it thought were excluded from the cost cap.",
       "The team was found to have breached the 2025 cost cap by £627,000 (0.48% of the total cap) and will have to pay the FIA a financial penalty - as well as lose 1.5% of its windtunnel and CFD testing time for the next 12 months.",
@@ -2082,9 +2084,7 @@
       "윌리엄스는 비용 상한선에서 제외된 것으로 생각되는 변경 사항을 적용했기 때문에 기한이 지난 회사 구조조정이 포뮬러원 비용 상한선 위반에 따른 페널티를 초래했다고 설명했습니다.",
       "이 팀은 2025년 비용 상한선을 £627,000(총 상한선의 0.48%) 초과한 것으로 밝혀졌으며, FIA에 벌금을 납부해야 할 뿐만 아니라 향후 12개월 동안 윈드터널 및 CFD 테스트 시간을 1.5% 상실하게 됩니다.",
       "팀 대표인 제임스 볼스(James Vowles)는 금요일 카타르 기자회견에서 이번 위반 사안에 대한 여러 질문을 받았습니다."
-     ],
-     "titleKo": "50년 된 구조로 인해 윌리엄스가 F1 비용 상한선을 위반하게 되었습니다.",
-     "descKo": "윌리엄스 팀의 제임스 보울스 대표가 팀이 2025년 F1 비용 상한선 규정을 위반한 경위를 설명했습니다."
+     ]
     },
     {
      "title": "What happened in 2026 F1 Qatar GP first practice",
